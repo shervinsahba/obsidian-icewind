@@ -1,19 +1,17 @@
-Bloodrils Snug Haven
-Faelfarils Inn
-Geldenstags Res---
+---
 dg-publish: true
 ---
-![[map-Caer-Konig.jpg|800]]
+![[map-Luskan.png]]
+
 # Characters
 
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"
-FROM "NPCs/Ten Towns/Caer Konig"
+FROM "NPCs/Luskan"
 SORT file.name
 ```
 
-# Locations
 # Happenings
 ```dataview
 TABLE WITHOUT ID
@@ -22,4 +20,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-![[heraldry - Caer Konig.png|300]]

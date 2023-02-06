@@ -10,3 +10,11 @@ The people of [[Icewind Dale]] tend to be wary of the Brotherhood.
 # Members
 
 - [[Vellyne]]
+
+
+# Images
+
+Host Tower of the Arcane, in [[Luskan]].
+
+
+![[place - Host Tower of the Arcane.png|400]]
