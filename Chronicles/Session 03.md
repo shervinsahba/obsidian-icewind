@@ -23,5 +23,5 @@ summary: Of Iron and Snow
 
 ## XP
 - xp::350xp #FrostedMugs COMPLETE!
-  
-## ❮ [[Session 02]] · ❄ ·  [[Session 04]] ❯
+--- 
+**❮ [[Session 02]] · ❄ ·  [[Session 04]] ❯**

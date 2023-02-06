@@ -31,4 +31,5 @@ summary: Ten Road to Icewind Dale
 - xp::180xp #SpecialDelivery COMPLETE!
 - xp::300xp Characters started at level 2.
 
-## [[Session 02]]  ❯
+---
+**[[Session 02]]  ❯**

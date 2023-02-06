@@ -32,5 +32,5 @@ We had a power outage, and playing by candlelight kinda ruled.
 ## XP
 - xp::50xp Bryn Shander EXPLORED!
 
-
-## ❮ [[Session 01]] · ❄ ·  [[Session 03]] ❯
+---
+**❮ [[Session 01]] · ❄ ·  [[Session 03]] ❯**

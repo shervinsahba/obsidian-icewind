@@ -9,6 +9,7 @@ TABLE WITHOUT ID
 	split(xp, "xp")[1] AS "Experience"
 	FROM "Chronicles"
 FLATTEN xp WHERE contains(xp,"xp") 
+FLATTEN sum(rows.xp) AS Total
 SORT file.name DESC
 ```
 
