@@ -16,7 +16,7 @@ summary: Ten Road to Icewind Dale
 ## Ten Road to Icewind Dale
 - x:: The party began travel from [[Luskan]], south of the [[Spine of the World Mountain]], to Icewind Dale. They were being guided along [[Ten Road]], which has become increasingly treacherous, by guides from the [[Luskan Deliverers]].
 - x:: #SpecialDelivery [[Oona the Cruncher]] and [[Crank]] have been working gigs for the [[Luskan Deliverers]], a merchant and courier guild. The were tasked with delivering a small parcel - an unmarked, unhinged metal box - to a [[Bryn Shander#Characters|Ragammel]] in the town of [[Bryn Shander]]. 
-- x:: #SpecialDelivery [[Azgul]], [[Tetro]], [[Hazel]], and [[Fern]] were all either being guided to Icewind Dale or happened across the traveling party.
+- x:: #SpecialDelivery [[Azgul]], [[Tetro]], [[Hazel Greenwater]], and [[Fern]] were all either being guided to Icewind Dale or happened across the traveling party.
 - x:: The party found 100g in the remains of a frozen over (and animal mauled) carcass of another trader traveller.
 - x:: #battle The party encountered an ogre and baby owlbear. The ogre called out to the baby owlbear's mother who also attacked. The party defeated them all and departed as the baby's cries filled the silent air. The cries eventually triggered an avalanche. 
 - x:: Nearing Icewind Dale and cresting the [[Spine of the World]], the skies progressively darkened until all that was felt was the darkness of winter.

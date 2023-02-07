@@ -1,20 +1,20 @@
 ---
 dg-publish: true
-role: Barbarian
-race: Half-orc
+role: Monk
+race: Halfling
 ---
 
 > [!info]+
-> ## Barbarian
-> ### Background: Outlander
->![[pc - Oona.png]]
+> ## Monk
+> ### Background: Folk Hero
+>![[pc - Hazel.png]]
 
 
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
 	x AS "Interactions" FROM "Chronicles"
-FLATTEN x WHERE contains(x,this.file.name) 
+FLATTEN x WHERE contains(x,split(this.file.name," ")[0]) 
 SORT file.name DESC
 ```
 

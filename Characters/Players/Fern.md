@@ -7,8 +7,7 @@ race: Tiefling
 > [!info]+
 > ## Rogue
 > ### Background: Penetration Tester
->![[pc - Fern.png]]
->![[pc - Fern by Meg.png | 500]]
+> ![[pc - Fern.png]]
 
 
 ```dataview
@@ -20,4 +19,4 @@ SORT file.name DESC
 ```
 
 
-
+![[pc - Fern by Meg.png]]
