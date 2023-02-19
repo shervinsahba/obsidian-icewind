@@ -21,6 +21,7 @@ summary: Of Iron and Snow
 - x:: #FrostedMugs Continuing their long rest, [[Fern]] fell asleep during her watch and was startled awake after a mysterious visitor stole a couple ingots, their boots growing in size as they fled. On the third watch [[Oona the Cruncher]] saw a chwinga!
 - x:: #FrostedMugs The ingots were successfully returned to [[Hruna]] et al who paid them *each* a 50g bloodstone. The hounds and sleds were returned, the job finished.
 
+
 ## XP
 - xp::350xp #FrostedMugs COMPLETE!
 --- 

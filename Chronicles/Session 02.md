@@ -29,6 +29,7 @@ We had a power outage, and playing by candlelight kinda ruled.
 - x:: #ArmoredCorps After asking around town, you deduced that a tavern, [[Bryn Shander#The Hooked Knucklehead]], was a [[Zhentarim]] hangout. [[Fern]] overheard the half-orc tavernkeeper and a cloaked figure speak in Thieves Cant regarding moving supplies from the [[Bryn Shander#Armory]]. She acknowledged their speech and asked for "work." They considered the request warily. 
 - x:: At twilight, the party made their way back through town to their lodging. Taking an alleyway, they were cut off from the front and behind by several shady figures!
 
+
 ## XP
 - xp::50xp Bryn Shander EXPLORED!
 
