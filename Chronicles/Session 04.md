@@ -8,5 +8,5 @@ players:
   katie: 1
   nick: 1
   stasia: 1
-summary: Of Iron and Snow
+summary: To Targos with mi
 ---
