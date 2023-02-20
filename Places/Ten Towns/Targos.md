@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-![[map-Targos.jpg|1200]]
+![[heraldry - Targos.png| 300]]
+![[map-Targos.jpg|600]]
 # Characters
 
 ```dataview 
@@ -12,6 +13,8 @@ SORT file.name
 ```
 
 # Locations
+## Luskan Arms
+Large, central tavern. An old inn run by [[Owenn Tarsenal]]. [[Zhentarim]] drop-off point for stolen goods.
 # Happenings
 ```dataview
 TABLE WITHOUT ID
@@ -20,4 +23,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-![[heraldry - Targos.png| 300]]

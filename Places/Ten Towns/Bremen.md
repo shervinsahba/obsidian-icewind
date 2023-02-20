@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-![[map-Bremen.jpg|800]]
+![[map-Bremen.jpg|600]]
 # Characters
 
 ```dataview 

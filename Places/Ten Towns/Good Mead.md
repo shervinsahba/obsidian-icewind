@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-![[map-Good Mead.jpg|800]]
+![[map-Good Mead.jpg|600]]
 # Characters
 
 ```dataview 

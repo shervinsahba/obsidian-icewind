@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-![[map-Caer-Dineval.jpg|800]]
+![[map-Caer-Dineval.jpg|600]]
 # Characters
 
 ```dataview 

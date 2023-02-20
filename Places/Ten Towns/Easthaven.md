@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-![[map-Easthaven.jpg]]
+![[map-Easthaven.jpg|1000]]
 # Characters
 
 ```dataview 

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-![[map-Lonelywood.jpg|800]]
+![[map-Lonelywood.jpg|600]]
 # Characters
 
 ```dataview 

@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-![[map-Termalaine.jpg|800]]
+![[heraldry - Termalaine.png|300]]
+![[map-Termalaine.jpg|600]]
 # Characters
 
 ```dataview 
@@ -12,6 +13,11 @@ SORT file.name
 ```
 
 # Locations
+## The Blue Clam
+[[Vernon Braig]]'s harborside tavern, serving chowder and leaded fish cakes. Host tavern to many miners, fishers, and trappers of the area. Frequented by [[Oarus Masthew]].
+
+## The Eastlook
+Charming inn, made from a row of connected houses. Run by [[Marta Pekryk]] and her father.
 # Happenings
 ```dataview
 TABLE WITHOUT ID
@@ -20,4 +26,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-![[heraldry - Termalaine.png|300]]

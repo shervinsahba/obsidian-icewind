@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-![[map-BrynShander-updatedwithStormKing.png]]
+![[heraldry - Bryn Shander.png| 300]]
+![[map-BrynShander-updatedwithStormKing.png | 1000]]
 
 # Characters
 
@@ -58,4 +59,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-![[heraldry - Bryn Shander.png| 300]]

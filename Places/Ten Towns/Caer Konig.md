@@ -1,9 +1,7 @@
-Bloodrils Snug Haven
-Faelfarils Inn
-Geldenstags Res---
+---
 dg-publish: true
 ---
-![[map-Caer-Konig.jpg|800]]
+![[map-Caer-Konig.jpg|600]]
 # Characters
 
 ```dataview 

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-![[map-Dougans Hole.jpg|800]]
+![[map-Dougans Hole.jpg|600]]
 # Characters
 
 ```dataview 
