@@ -10,7 +10,8 @@ dg-publish: true
 
 ## Combat
 - **Flanking**. Flanking gives advantage to hit, unless the creature has exceptionally high Perception, or like, a lot of eyes.
-- **Back attacks**
+- **Back attacks**. Attacking the rear of a monster whose size is larger than yours gives +1 to hit per size larger.
+- **Surprise attacks**. Surprise gives advantage. Surprise requires an unseen attacker or unaware attackee.
 - **Potions of Healing can be self-administered with a bonus action**. However, replace the lowest dice roll with a 1 unless you have a perfect roll. For a Greater, Superior, and Supreme potion, you replace the lowest two, three, or four die with 1's. 
 - **Meta-combat round.** Each round of combat begins with a one-minute player phase, where meta strategy can be discussed. During combat, collaborating is disallowed outside what can be reasonably articulated and interpreted by a PC on their turn. This is mostly to speed up the game.
 - **Massive Damage.** Taking massive damage (>50% HP) may result in a CON save to see if *something like* a [System Shock](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#MassiveDamage) effect occurs. Taking massive damage that knocks you unconscious may result in *something like* a [lingering injury](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries).
