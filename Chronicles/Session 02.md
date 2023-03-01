@@ -14,24 +14,24 @@ summary: Wellmet! The Dalefolk of Bryn Shander
 # Chronicles
 ## Wellmet! The Dalefolk of Bryn Shander
 
-- x:: #FrostedMugs A sad, dazed dwarf was nursing a morning ale at [[Bryn Shander#Kelvin's Comfort]]. He was part of a mining caravan that was ambushed in the night. The dwarves were forced to flee, and lost their cargo of iron and ingot. 
-- x:: The party explored [[Bryn Shander#Market Square]]. Saw Kadu's Wonderous Scrolls, an immacutely empty magic shop whose proprietor is on vacation. Saw a carpenter erecting a bulletin board. 
-- x:: #FrostedMugs [[Bryn Shander#Blackiron Blades]]. They had no medium armor, but could make you some if you help their supply chain along. They were expecting iron ingots, but the dwarves were ambushed. The dwarves are lodging at The Northlook. 
-- x:: [[Bryn Shander#The Northlook]]. Its proprietress [[Scramsaxx]] is a retired sellsword. She seems to know all the rumors and has an eye for the comings and goings of travelers. The tavern has a Billy Bass type fish named [[Ol Bitey]], and legend has it that a similar knucklehead trout swallowed a poor heir's signet ring. 
-- x:: #TheMeadMustFlow You learned that the mead from [[Good Mead]] is pretty darn good, except that supplies have shrunk ever since their speaker got himself killed by... a polar bear? A yeti? A barbarian? Word of mouth sucks. 
-- x:: #FrostedMugs The remaining dwarves from the mining caravan were here at the [[Bryn Shander#The Northlook]]. They are [[Hruna]], [[Korux]], and [[Storn]] of the [[Dwarven Valley]]. It turns out they weren't simply ambushed: a rogue yeti plowed through camp and ripped a dwarf in twain. They fled and when returning for their supplies, saw only blood and goblin tracks. They need help recovering their goods. 
-- x:: #ArmoredCorps Met [[Markham Southwell]] at [[Bryn Shander#Armory]]. Supplies have gone missing and the sheriff is suspicious of [[Zhentarim]] in his ranks. He agreed to help you out if you recover supplies. 
-- x:: Met [[Duvessa Shane]] at the [[Bryn Shander#Council Hall]]. You happened into Markham Southwell, who escorted you to Duvessa's office. Duvessa has recently met with [[Vellyne]], an [[Arcane Brotherhood]] mage. You learn that Duvessa has had a hard time keeping the Ten Town speakers unified.
+- (x:: #FrostedMugs A sad, dazed dwarf was nursing a morning ale at [[Bryn Shander#Kelvin's Comfort]]. He was part of a mining caravan that was ambushed in the night. The dwarves were forced to flee, and lost their cargo of iron and ingot. )
+- (x:: The party explored [[Bryn Shander#Market Square]]. Saw Kadu's Wonderous Scrolls, an immacutely empty magic shop whose proprietor is on vacation. Saw a carpenter erecting a bulletin board. )
+- (x:: #FrostedMugs [[Bryn Shander#Blackiron Blades]]. They had no medium armor, but could make you some if you help their supply chain along. They were expecting iron ingots, but the dwarves were ambushed. The dwarves are lodging at The Northlook. )
+- (x:: [[Bryn Shander#The Northlook]]. Its proprietress [[Scramsaxx]] is a retired sellsword. She seems to know all the rumors and has an eye for the comings and goings of travelers. The tavern has a Billy Bass type fish named [[Ol Bitey]], and legend has it that a similar knucklehead trout swallowed a poor heir's signet ring. )
+- (x:: #TheMeadMustFlow You learned that the mead from [[Good Mead]] is pretty darn good, except that supplies have shrunk ever since their speaker got himself killed by... a polar bear? A yeti? A barbarian? Word of mouth sucks. )
+- (x:: #FrostedMugs The remaining dwarves from the mining caravan were here at the [[Bryn Shander#The Northlook]]. They are [[Hruna]], [[Korux]], and [[Storn]] of the [[Dwarven Valley]]. It turns out they weren't simply ambushed: a rogue yeti plowed through camp and ripped a dwarf in twain. They fled and when returning for their supplies, saw only blood and goblin tracks. They need help recovering their goods. )
+- (x:: #ArmoredCorps Met [[Markham Southwell]] at [[Bryn Shander#Armory]]. Supplies have gone missing and the sheriff is suspicious of [[Zhentarim]] in his ranks. He agreed to help you out if you recover supplies. )
+- (x:: Met [[Duvessa Shane]] at the [[Bryn Shander#Council Hall]]. You happened into Markham Southwell, who escorted you to Duvessa's office. Duvessa has recently met with [[Vellyne]], an [[Arcane Brotherhood]] mage. You learn that Duvessa has had a hard time keeping the Ten Town speakers unified.)
 
 We had a power outage, and playing by candlelight kinda ruled.
 
-- x:: #ColdHeartedKiller A murder victim had been discovered on the steps of the [[Bryn Shander#Council Hall]]. The victim was a commoner, who had no business in the area. It seems someone is sending a message. But why target a commoner? 
-- x:: #ArmoredCorps After asking around town, you deduced that a tavern, [[Bryn Shander#The Hooked Knucklehead]], was a [[Zhentarim]] hangout. [[Fern]] overheard the half-orc tavernkeeper and a cloaked figure speak in Thieves Cant regarding moving supplies from the [[Bryn Shander#Armory]]. She acknowledged their speech and asked for "work." They considered the request warily. 
-- x:: At twilight, the party made their way back through town to their lodging. Taking an alleyway, they were cut off from the front and behind by several shady figures!
+- (x:: #ColdHeartedKiller A murder victim had been discovered on the steps of the [[Bryn Shander#Council Hall]]. The victim was a commoner, who had no business in the area. It seems someone is sending a message. But why target a commoner? )
+- (x:: #ArmoredCorps After asking around town, you deduced that a tavern, [[Bryn Shander#The Hooked Knucklehead]], was a [[Zhentarim]] hangout. [[Fern]] overheard the half-orc tavernkeeper and a cloaked figure speak in Thieves Cant regarding moving supplies from the [[Bryn Shander#Armory]]. She acknowledged their speech and asked for "work." They considered the request warily. )
+- (x:: At twilight, the party made their way back through town to their lodging. Taking an alleyway, they were cut off from the front and behind by several shady figures!)
 
 
 ## XP
-- xp::50xp Bryn Shander EXPLORED!
+- (xp::50xp Bryn Shander EXPLORED!)
 
 ---
 **❮ [[Session 01]] · ❄ ·  [[Session 03]] ❯**

@@ -2,6 +2,26 @@
 dg-publish: true
 ---
 
+# Active Quests
+
+## Mountain Climb
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #MountainClimb
+FLATTEN x WHERE contains(x,"MountainClimb") 
+SORT file.name DESC
+```
+
+## A Beautiful Mine
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #ABeautifulMine 
+FLATTEN x WHERE contains(x,"ABeautifulMine") 
+SORT file.name DESC
+```
+
 ## TheMeadMustFlow
 ```dataview
 TABLE WITHOUT ID
@@ -20,7 +40,9 @@ FLATTEN x WHERE contains(x,"ColdHeartedKiller")
 SORT file.name DESC
 ```
 
-## Armored Corps
+
+# Completed Quests
+## ~~Armored Corps~~
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
@@ -28,8 +50,6 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,"ArmoredCorps") 
 SORT file.name DESC
 ```
-
-
 
 ## ~~Frosted Mugs~~
 ```dataview
