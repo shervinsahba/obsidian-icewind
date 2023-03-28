@@ -30,7 +30,7 @@ summary: Targos. Termalaine. And Kelvin's Tortuous Terrain.
 
 ## A Rescue at Kelvin's Cairn
 - (x:: #MountainClimb Arriving at [[Kelvin's Cairn]] the next morning, the party found [[Garret Velryn]]'s dog sled and hungry dogs. Having fed them, they traveresed the icy cliffside, saw mountain goat, and eventually found Garret, knocked unconscious after a fall. He had lured a violent yeti away from the group of four he was guiding. Garret is a scout by training, and while exhausted and wounded, is still able-bodied.)
-- (x:: #battle Three crag cats pounced on the party. [[Garret Velryn]] fought alongside them. These were big, mean kitties.)
+- (x:: #battle #MountainClimb Three crag cats pounced on the party. [[Garret Velryn]] fought alongside them. These were big, mean kitties.)
 
 
 ## XP
