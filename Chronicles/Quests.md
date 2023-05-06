@@ -4,6 +4,15 @@ dg-publish: true
 
 # Active Quests
 
+## The White Moose
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #TheWhiteMoose 
+FLATTEN x WHERE contains(x,"TheWhiteMoose ") 
+SORT file.name DESC
+```
+
 ## Golden Dawn
 ```dataview
 TABLE WITHOUT ID
