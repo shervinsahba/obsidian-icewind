@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-role: Garret's good boy
-race: Dog
+role: Zhentarim tavern keeper at the Hooked Knucklehead
+race: Half-orc
 ---
 
 > [!info]+
-> ## Garret's good boy
+> ## Tavern keeper at the Hooked Knucklehead
 > ![[npc_unknown.png| 300]]
 
 

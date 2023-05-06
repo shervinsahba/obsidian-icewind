@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-role: Garret's good boy
-race: Dog
+role: Scrimshander artist
+race: Human
 ---
 
 > [!info]+
-> ## Garret's good boy
+> ## Scrimshander artist
 > ![[npc_unknown.png| 300]]
 
 

@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-role: Garret's good boy
-race: Dog
+role: Background unknown, a mage.
+race: Tiefling
 ---
 
 > [!info]+
-> ## Garret's good boy
+> ## Mage, background unknown
 > ![[npc_unknown.png| 300]]
 
 

@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-role: Garret's good boy
-race: Dog
+role: Acolyte of Yondolla, Goddess of Protection
+race: Hafling
 ---
 
 > [!info]+
-> ## Garret's good boy
+> ## Acolyte of Yondolla, Goddess of Protection
 > ![[npc_unknown.png| 300]]
 
 

@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-role: Garret's good boy
-race: Dog
+role: The Winter Walker
+race: Hafling
 ---
 
 > [!info]+
-> ## Garret's good boy
+> ## The Winter Walker
 > ![[npc_unknown.png| 300]]
 
 

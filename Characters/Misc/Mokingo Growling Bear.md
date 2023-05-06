@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-role: Garret's good boy
-race: Dog
+role: Adventurer, Clan of the Bear Tribesman
+race: Goliath
 ---
 
 > [!info]+
-> ## Garret's good boy
+> ## Clan of the Bear Tribesman
 > ![[npc_unknown.png| 300]]
 
 
