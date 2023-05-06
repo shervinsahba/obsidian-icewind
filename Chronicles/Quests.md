@@ -4,30 +4,12 @@ dg-publish: true
 
 # Active Quests
 
-## Mountain Climb
+## Golden Dawn
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #MountainClimb
-FLATTEN x WHERE contains(x,"MountainClimb") 
-SORT file.name DESC
-```
-
-## A Beautiful Mine
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Note", 
-	x AS "" FROM #ABeautifulMine 
-FLATTEN x WHERE contains(x,"ABeautifulMine") 
-SORT file.name DESC
-```
-
-## TheMeadMustFlow
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Note", 
-	x AS "" FROM #TheMeadMustFlow 
-FLATTEN x WHERE contains(x,"TheMeadMustFlow") 
+	x AS "" FROM #GoldenDawn 
+FLATTEN x WHERE contains(x,"GoldenDawn") 
 SORT file.name DESC
 ```
 
@@ -40,8 +22,34 @@ FLATTEN x WHERE contains(x,"ColdHeartedKiller")
 SORT file.name DESC
 ```
 
+## TheMeadMustFlow
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #TheMeadMustFlow 
+FLATTEN x WHERE contains(x,"TheMeadMustFlow") 
+SORT file.name DESC
+```
 
 # Completed Quests
+## ~~A Beautiful Mine~~
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #ABeautifulMine 
+FLATTEN x WHERE contains(x,"ABeautifulMine") 
+SORT file.name DESC
+```
+
+## ~~Mountain Climb~~
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #MountainClimb
+FLATTEN x WHERE contains(x,"MountainClimb") 
+SORT file.name DESC
+```
+
 ## ~~Armored Corps~~
 ```dataview
 TABLE WITHOUT ID

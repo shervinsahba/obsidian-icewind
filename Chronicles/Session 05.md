@@ -21,7 +21,7 @@ summary: The Yeti's Den. The Golden Dawn.
 - (x:: #battle #MountainClimb Before they could lash up the dogs and leave, an avalanched swept through the hillside, ensnaring [[Garret Velryn]]. Soon after, a chill wind summoned three [[Cold Light Walkers]], who the party and [[Perilou]] dispatched.)
 
 ## XP
-- (xp::400xp #MountainClimb COMPLETE?)
+- (xp::400xp #MountainClimb COMPLETE)
 
 ---
 **❮ [[Session 04]] · ❄ ·  [[Session 06]] ❯**
