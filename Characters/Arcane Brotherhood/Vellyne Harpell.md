@@ -6,7 +6,7 @@ race: Human
 
 > [!info]+ 
 > ## Arcane Brotherhood Mage
-> ![[npc_unknown.png| 300]]
+> ![[npc_vellyne.png.png| 300]]
 > - Had met with [[Duvessa Shane]] regarding the prison [[Revel's End]] in the week prior to the party's arrival in [[Bryn Shandar]].
 
 ```dataview
