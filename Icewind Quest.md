@@ -3,8 +3,10 @@ dg-home: true
 dg-publish: true
 ---
 
+## Welcome to Icewind Dale
 ![[map-poster.jpg]]
 
+## Chronicles of Junji's Tavern
 ```dataview
 TABLE WITHOUT ID 
 	file.link as "Session",

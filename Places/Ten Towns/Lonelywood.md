@@ -12,6 +12,12 @@ SORT file.name
 ```
 
 # Locations
+## Ramshackle Inn
+A dilapidated inn, once run by [[DeGrootz Ramshackle]]. DeGrootz was found dead, hanging, in his inn about a year and half ago. During the relentless winter, the roof has since collapsed.
+
+## Lucky Liar
+
+## The Happy Scrimshander
 # Happenings
 ```dataview
 TABLE WITHOUT ID

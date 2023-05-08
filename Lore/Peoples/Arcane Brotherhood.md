@@ -9,8 +9,16 @@ Wizards flock to Luskan every year to petition to join the Brotherhood, but almo
 The people of [[Icewind Dale]] tend to be wary of the Brotherhood.
 # Members
 
-- [[Vellyne]]
+- [[Vellyne Harpell]]
+- [[Dzaan]]
 
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #ArcaneBrotherhood  
+FLATTEN x WHERE contains(x,"ArcaneBrotherhood") 
+SORT file.name DESC
+```
 
 # Images
 

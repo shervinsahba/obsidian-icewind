@@ -21,7 +21,7 @@ summary: Wellmet! The Dalefolk of Bryn Shander
 - (x:: #TheMeadMustFlow You learned that the mead from [[Good Mead]] is pretty darn good, except that supplies have shrunk ever since their speaker got himself killed by... a polar bear? A yeti? A barbarian? Word of mouth sucks. )
 - (x:: #FrostedMugs The remaining dwarves from the mining caravan were here at the [[Bryn Shander#The Northlook]]. They are [[Hruna]], [[Korux]], and [[Storn]] of the [[Dwarven Valley]]. It turns out they weren't simply ambushed: a rogue yeti plowed through camp and ripped a dwarf in twain. They fled and when returning for their supplies, saw only blood and goblin tracks. They need help recovering their goods. )
 - (x:: #ArmoredCorps Met [[Markham Southwell]] at [[Bryn Shander#Armory]]. Supplies have gone missing and the sheriff is suspicious of [[Zhentarim]] in his ranks. He agreed to help you out if you recover supplies. )
-- (x:: Met [[Duvessa Shane]] at the [[Bryn Shander#Council Hall]]. You happened into Markham Southwell, who escorted you to Duvessa's office. Duvessa has recently met with [[Vellyne]], an [[Arcane Brotherhood]] mage. You learn that Duvessa has had a hard time keeping the Ten Town speakers unified.)
+- (x:: #ArcaneBrotherhood Met [[Duvessa Shane]] at the [[Bryn Shander#Council Hall]]. You happened into Markham Southwell, who escorted you to Duvessa's office. Duvessa has recently met with [[Vellyne Harpell]], an [[Arcane Brotherhood]] mage. You learn that Duvessa has had a hard time keeping the Ten Town speakers unified.)
 
 We had a power outage, and playing by candlelight kinda ruled.
 

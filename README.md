@@ -13,7 +13,7 @@ If you're familiar with obsidian, the main takeaways are: **(1)** you can easily
 ## the workflow
 I'm often pressed for time, so the point of this notebook is to keep it simple. I'll keep the context of a D&D campaign for this dialogue, but you may find inspiration to adopt the flow to another purpose. 
 
-You make pages for Characters and Locations from templates. You then compose detailed Session notes, logging the events of each day's activities. These Session notes will contain markup links which are then scraped by the dataview plugin and populate the aforementioned pages. Not everything is automated, but enough content gets linked around that it's very easy to see at a glance what interactions your players have made. You just need to keep quality logs for each Session.
+You make pages for characters and locations from templates. You then compose detailed Session notes, logging the events of each day's activities. These Session notes will contain markup links which are then scraped by the dataview plugin and populate the aforementioned pages. Not everything is automated, but enough content gets linked around that it's very easy to see at a glance what interactions your players have made. You just need to keep quality logs for each Session.
 
 For example, for each new character the party encounters:
 - create a NPC page using the [NPC template](https://github.com/shervinsahba/obsidian-icewind/tree/main/_templates)

@@ -4,12 +4,21 @@ dg-publish: true
 
 # Active Quests
 
+## The Ramshackle
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #TheRamshackle 
+FLATTEN x WHERE contains(x,"TheRamshackle") 
+SORT file.name DESC
+```
+
 ## The White Moose
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
 	x AS "" FROM #TheWhiteMoose 
-FLATTEN x WHERE contains(x,"TheWhiteMoose ") 
+FLATTEN x WHERE contains(x,"TheWhiteMoose") 
 SORT file.name DESC
 ```
 

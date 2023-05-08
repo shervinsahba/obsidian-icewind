@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 role: Arcane Brotherhood Mage
-race: 
+race: Human
 ---
 
 > [!info]+ 
