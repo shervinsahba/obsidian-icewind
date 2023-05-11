@@ -13,7 +13,7 @@
 
 **Dzaan's Spellbook** (found in T.14 Town Library - from Easthaven Town Hall)
 
-1.  Detect magic, Disguise self, Illusory script, Magic missile, Silent image
+1.  Detect magic (R), Disguise self, Illusory script, Magic missile, Silent image
 2.  Arcane lock, Blur, Invisibility, Knock, Levitate, Mirror image, Phantasmal force
 3.  Fireball, Major image, Sending, Slow
 4.  Arcane eye, Confusion, Hallucinatory terrain, Phantasmal killer
