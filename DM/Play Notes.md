@@ -1,1 +1,0 @@
-**Homebrew for spell scrolls**: PCs with spell slots can use a spell scroll not on their list with an arcana check, just as if it was a spell above their level from their spell list. PCs without spell slots make all checks at disadvantage.
