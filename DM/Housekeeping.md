@@ -8,6 +8,7 @@
 	- Level 2: alter self, cloud of daggers, scorching ray, suggestion
 - Reminder that you can *craft items* within reason. It'll take time and materials or gold. For example, crafting scroll can be like
 - Azgul: reconsider the Armor of Shadows Edlritch Invocation. I think the Book of Ancient Secrets Invocation might be useful as an alternative.
+- Deities. Do you have a preference?
 
 | Level   | Time     | Gold Cost |
 | ------- | -------- | --------- |
