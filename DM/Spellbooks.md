@@ -1,6 +1,6 @@
 **Astrix's Spellbook** (found in the top of Kelvin's Cairn during the Mountain Climb quest)
 
-1.  Comprehend languages, Detect magic, Expeditious retreat, Shield, Tenser's floating disk
+1.  Comprehend languages (R), Detect magic (R), Expeditious retreat, Shield, Tenser's floating disk (R)
 2.  Alter self, Cloud of daggers, Scorching ray, Suggestion
 
 **Avarice's Spellbook** (found in her posession)
