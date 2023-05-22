@@ -19,8 +19,7 @@ summary: The Elven Tomb. Communing with Gods. Ravisin and Vurnis.
 
 
 ## XP
-- (xp::50xp Termaline EXPLORED!)
-- (xp::50xp Lonelywood EXPLORED!)
+- (xp::200xp TheWhiteMoose - Elven Tomb EXPLORED!)
 
 ---
-**❮ [[Session 06]] · ❄ ·  [[Session 08]] ❯**
+**❮ [[Session 07]] · ❄ ·  [[Session 09]] ❯**
