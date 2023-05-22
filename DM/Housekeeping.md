@@ -1,21 +1,16 @@
 **Homebrew for spell scrolls**: PCs with spell slots can use a spell scroll not on their list with an arcana check, just as if it was a spell above their level from their spell list. PCs without spell slots make all checks at disadvantage.
 
-- Added a **Scrimshander's Tools** to Oona and Fern's backpacks.
-- Make sure to track your gold please.
-- Arcane Trickster is restricted to Enchantment and Illusion Wizard spells
 - **Astrix's Spellbook**: 
 	- Level 1: comprehend languages, detect magic, expeditious retreat, shield, Tenser's floating disk
 	- Level 2: alter self, cloud of daggers, scorching ray, suggestion
-- Reminder that you can *craft items* within reason. It'll take time and materials or gold. For example, crafting scroll can be like
-- Azgul: reconsider the Armor of Shadows Edlritch Invocation. I think the Book of Ancient Secrets Invocation might be useful as an alternative.
-- Deities. Do you have a preference?
+- Reminder that you can *craft items* within reason. It'll take time and materials or gold. For example, crafting scroll can be like:
 
-| Level   | Time     | Gold Cost |
-| ------- | -------- | --------- |
-| Cantrip | 1 day    | 15 gp     |
-| 1st     | 1 day    | 25 gp     |
-| 2nd     | 3 days   | 250 gp    |
-| 3rd     | 1 tenday | 500 gp    |
+	| Level   | Time     | Gold Cost |
+	| ------- | -------- | --------- |
+	| Cantrip | 1 day    | 15 gp     |
+	| 1st     | 1 day    | 25 gp     |
+	| 2nd     | 3 days   | 250 gp    |
+	| 3rd     | 1 tenday | 500 gp    |
 
 
 
