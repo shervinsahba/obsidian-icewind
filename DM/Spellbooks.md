@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 **Astrix's Spellbook** (found in the top of Kelvin's Cairn during the Mountain Climb quest)
 
 1.  Comprehend languages (R), Detect magic (R), Expeditious retreat, Shield, Tenser's floating disk (R)
