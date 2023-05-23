@@ -13,3 +13,6 @@ I'm of the school of thought that Auril should remain relatively hands-off until
 -   I'm interested in whether people injected Auril's presence in Chapters 3 and 4. The Duergar subplot certainly draws the focus away from Auril for a bit.
     
 -   Visions and dreams are a good way to display the themes of Auril tenets: Cruelty, Endurance, Isolation, Preservation. These could be abstract visions or they could quite literally foreshadow the Tests of the Frostmaiden. I'm trying to have these four words appear several times earlier on, so the players latch onto their importance and begin to understand Auril. For example, I put them on runestones surrounding Vurnis's corpse in the Elven Tomb.
+
+
+- Magic items on the theme of Auril's tenets? Cruelty, Endurance, Isolation, Preservation.
