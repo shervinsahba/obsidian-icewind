@@ -6,7 +6,7 @@ race: Half-orc
 
 > [!info]+
 > ## Speaker of Termalaine
-> ![[npc_unknown.png| 300]]
+> ![[npc_Speaker_Oarus_Masthew.png| 300]]
 
 
 ```dataview
