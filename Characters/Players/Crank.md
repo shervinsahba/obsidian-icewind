@@ -5,7 +5,8 @@ race: Bugbear
 ---
 
 > [!info]+
-> ## Monk
+> ## Crank
+> ## Monk, Way of the Drunken Master
 > ### Background: Criminal
 > ![[pc - Crank.png]]
 

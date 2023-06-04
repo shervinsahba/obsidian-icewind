@@ -1,0 +1,39 @@
+---
+session-date: 2023-05-20
+dg-publish: true
+players: 
+  meg: 1
+  nino: 1
+  mat: 1
+  katie: 1
+  nick: 1
+  stasia: 1
+summary: The Moon Dial and Mirror. Ravisin the Frost Druid Attacks!
+---
+# Chronicles
+## The Moon Dial and the Mirror of the Elven Tomb
+- (x:: #TheWhiteMoose The party explored the elven tomb found in [[Lonelywood]] Forest. Several tall elven status surrounded the berm and central moon dial, and they buzzed with magic as [[Azgul]] investigated them.)
+- (x:: #TheWhiteMoose A puzzle involving a brazier, magical glyphs, and a sealed sarcophagus was solved - with minimal injury to [[Fern]]'s scorched hand. A mummified priestess of Selune, goddess of the moon, arose from the granite and marble crypt.  The mummy did not appear hostile and spoke ancient Elvish, but [[Tetro]] managed to communicate with her using telepathy granted by the psi crystal. Her name was [[Sahnar]], and she is a guardian entity of the shrine. Her decayed form lacks much memory and cognition, but she seemed amenable to following the party's commands. Sahnar noted that the site has been descrated, but she sensed not why. [[Sahnar]] was wearing an ornate cloak in pristine condition, a magical contrast to her otherwise decayed wrappings.)
+- (x:: #TheWhiteMoose The moon dial's gnomon was illuminated by the full moon and was refracting a moonbeam onto a full moon glyph, which was actively glowing. Out of the other glyphs on the dial, the two half moons displayed elvish script on them. [[Tetro]] deduced that his moonbeam spell could activate these glyphs, and the party later found that the illuminated moon glyphs unsealed chambers inside the elven tomb.)
+- (x:: #TheWhiteMoose #GoldenDawn A silvered elvish magic mirror was found adhered in the full moon chamber of the elvish tomb. Each party member, as well as [[Old Huntsman Clive]] asked the mirror a question, after which they communed with avatars or aspects of various gods and received cryptic answers.)
+	- [[Fern]]: What made the bright flash of light we saw on the other end of Lonelywood? **Lathander**: A man named Macreadus.
+	- [[Crank]]: Are we restoring balance to the Dale? **Auril**: And who are you? The Dale is mine to preserve!
+	- [[Tetro]]: Does the Frostmaiden have a weakness? **Mystra**: Casting that eternal winter certainly saps her strength!
+	- [[Azgul]]: Where are the Netherese artifacts? **Oghma**: Ah, those ancient relics... They're deep below the ice! 
+	- [[Hazel]]: Where is the moose? **Malar**: Hah! A moose they say! It stalks you!
+	- [[Oona]]: What is the moose then? **Mystra**: Oh dear, that horror? Born from a moose it was, but... 
+	- [[Old Huntsman Clive]]: Where is my granddaughter [[Ravisin]]? **Kelemvor**: Not yet with me. I hold claim only on the other.
+
+## Ravisin the Frost Druid
+
+- (x:: #TheWhiteMoose The half moon chambers of the elven tomb contained sarcophagi. In the southern room, the sarcophagus was opened and disheveled. In the north room, [[Crank]] saw a drying rack of herbs, druidic implements, and a nude, intact body of a recently dead woman lying atop the sarcophogus. A berry bush in the corner of the room seemed to move as well, but before Crank could react, [[Ravisin]], a frost druid who was skulking in this room could no longer stay hidden. An altercation erupted between her and Crank, leading to battle.)
+- (x:: #TheWhiteMoose  [[Old Huntsman Clive]] called out to his granddaughter, but [[Ravisin]] responded only in derision. Clive gasped at the body of [[Vurnis]], who had long gone missing and was presumed dead. Ravisin blamed the Ten Towners for Vurnis's death, cursing the moral failings of humankind and seething about the need to return the world to nature. Worshiping [[Auril]] breathed new life into her, Ravisin said, and it was Vurnis who showed her this faith. Vurnis, who was abused by the men of Ten Towns, was more alive in her death than the party could imagine, Ravisin raved. When the party asked about the moose, [[Ravisin]] jeered at them. The so-called moose, she said, was doing a splendid job ridding the Dale of the blight of its human occupants.)
+- (x:: #battle #TheWhiteMoose [[Ravisin]] conjured a dozen wolves to attack the party. The party managed to fend for themselves while they broke the frost druid's concentration, dispelling the wolves. Ravisin wild shaped into an owl and attempted to flee, but was caught by ranged attacks and came crashing into the moon dial. Calling out to her dead sister [[Vurnis]] and beseeching [[Auril]] to witness her, she cast a maelstrom of ice onto the party and herself, ending her own life.)
+
+
+## XP
+- (xp::200xp TheWhiteMoose - Elven Tomb EXPLORED!)
+
+---
+**❮ [[Session 07]] · ❄ ·  [[Session 09]] ❯**
+

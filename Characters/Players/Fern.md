@@ -5,7 +5,8 @@ race: Tiefling
 ---
 
 > [!info]+
-> ## Rogue
+> ## Fern
+> ## Rogue, Arcane Trickster
 > ### Background: Penetration Tester
 > ![[pc - Fern.png]]
 

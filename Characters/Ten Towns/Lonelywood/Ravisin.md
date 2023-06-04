@@ -1,17 +1,17 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Contact
-race: Human
+role: Frost Druid
+race: Halfling
 ---
 
 > [!info]+
-> ## Arcane Brotherhood Contact
-> 
+> ## Frost Druid
+> ![[npc_unknown.png| 300]]
 
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
 	x AS "Interactions" FROM "Chronicles"
-FLATTEN x WHERE contains(x,this.file.name) 
+FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```

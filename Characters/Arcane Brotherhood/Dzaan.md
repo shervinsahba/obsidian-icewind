@@ -1,15 +1,12 @@
 ---
 dg-publish: true
-role: Warlock, Pact of the Hexblade
-race: Half-orc
+role: Arcane Brotherhood Member
+race: 
 ---
 
-> [!info]+
-> ## Azgul
-> ## Warlock, Pact of the Hexblade
-> ### Background: Sage
->![[pc - Azgul.png]]
-
+> [!info]+ 
+> ## Arcane Brotherhood Member
+> ![[npc_unknown.png| 300]]
 
 ```dataview
 TABLE WITHOUT ID
@@ -18,6 +15,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-
-
-

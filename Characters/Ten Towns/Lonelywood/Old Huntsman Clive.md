@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-role: Barbarian
-race: Half-orc
+role: Hunter
+race: Human
 ---
 
 > [!info]+
-> ## Barbarian
-> ### Background: Outlander
->![[pc - Oona.png]]
+> ## Hunter
+> ![[npc_unknown.png| 300]]
 
 
 ```dataview
@@ -17,6 +16,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```
-
-
-
