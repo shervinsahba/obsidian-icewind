@@ -34,7 +34,7 @@ summary: The Moon Dial and Mirror. Ravisin the Frost Druid Attacks!
 
 
 ## XP
-- (xp::200xp TheWhiteMoose - [[Elven Tomb]] EXPLORED!)
+- (xp::200xp #TheWhiteMoose - [[Elven Tomb]] EXPLORED!)
 
 
 ---

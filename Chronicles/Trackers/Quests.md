@@ -13,15 +13,6 @@ FLATTEN x WHERE contains(x,"TheRamshackle")
 SORT file.name DESC
 ```
 
-## The White Moose
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Note", 
-	x AS "" FROM #TheWhiteMoose 
-FLATTEN x WHERE contains(x,"TheWhiteMoose") 
-SORT file.name DESC
-```
-
 ## Golden Dawn
 ```dataview
 TABLE WITHOUT ID
@@ -50,6 +41,15 @@ SORT file.name DESC
 ```
 
 # Completed Quests
+## ~~The White Moose~~
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS "" FROM #TheWhiteMoose 
+FLATTEN x WHERE contains(x,"TheWhiteMoose") 
+SORT file.name DESC
+```
+
 ## ~~A Beautiful Mine~~
 ```dataview
 TABLE WITHOUT ID
