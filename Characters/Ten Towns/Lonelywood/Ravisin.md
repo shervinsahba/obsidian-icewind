@@ -6,7 +6,7 @@ race: Halfling
 
 > [!info]+
 > ## Frost Druid
-> ![[npc_unknown.png| 300]]
+> ![[npc_ravisin.png| 300]]
 
 ```dataview
 TABLE WITHOUT ID
