@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 ---
+![[heraldry - Good Mead.png|300]]
 ![[map-Good Mead.jpg|600]]
 # Characters
 
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"
-FROM "NPCs/Ten Towns/Good Mead"
+FROM "Characters/Ten Towns/Good Mead"
 SORT file.name
 ```
 
@@ -20,4 +21,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-![[heraldry - Good Mead.png|300]]

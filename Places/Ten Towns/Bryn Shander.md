@@ -2,14 +2,14 @@
 dg-publish: true
 ---
 ![[heraldry - Bryn Shander.png| 300]]
-![[map-BrynShander-updatedwithStormKing.png | 1000]]
+![[map-BrynShander-updatedwithStormKing.png| 1000]]
 
 # Characters
 
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"
-FROM "NPCs/Ten Towns/Bryn Shander"
+FROM "Characters/Ten Towns/Bryn Shander"
 SORT file.name
 ```
 

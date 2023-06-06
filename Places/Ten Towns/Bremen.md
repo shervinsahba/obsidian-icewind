@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 ---
+![[heraldry - Bremen.png|300]]
 ![[map-Bremen.jpg|600]]
 # Characters
 
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"
-FROM "NPCs/Ten Towns/Bremen"
+FROM "Characters/Ten Towns/Bremen"
 SORT file.name
 ```
 
@@ -20,4 +21,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-![[heraldry - Bremen.png|300]]

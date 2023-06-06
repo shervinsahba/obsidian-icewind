@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 ---
+![[heraldry - Caer Dineval.png|300]]
 ![[map-Caer-Dineval.jpg|600]]
 # Characters
 
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"
-FROM "NPCs/Ten Towns/Caer Dineval"
+FROM "Characters/Ten Towns/Caer Dineval"
 SORT file.name
 ```
 
@@ -20,4 +21,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-![[heraldry - Caer Dineval.png|300]]

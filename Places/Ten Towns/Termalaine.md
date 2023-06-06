@@ -8,7 +8,7 @@ dg-publish: true
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"
-FROM "NPCs/Ten Towns/Termalaine"
+FROM "Characters/Ten Towns/Termalaine"
 SORT file.name
 ```
 
@@ -17,7 +17,7 @@ SORT file.name
 [[Vernon Braig]]'s harborside tavern, serving chowder and leaded fish cakes. Host tavern to many miners, fishers, and trappers of the area. Frequented by [[Oarus Masthew]].
 
 ## The Eastlook
-Charming inn, made from a row of connected houses. Run by [[Marta Pekryk]] and her father.
+Charming inn, made from a row of connected houses. Run by the willowy teen [[Marta Pekryk]] and her bed-ridden father.
 # Happenings
 ```dataview
 TABLE WITHOUT ID

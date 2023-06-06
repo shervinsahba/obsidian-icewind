@@ -7,7 +7,6 @@ race:
 > [!info]+ 
 > ## Arcane Brotherhood Member
 > ![[npc_unknown.png| 300]]
-> - Commissioned the [[Luskan Deliverers]] to transport a parcel - a small metallic box with nary a hinge nor marking - to their contact [[Ragammel]].
 
 ```dataview
 TABLE WITHOUT ID
