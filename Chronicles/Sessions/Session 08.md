@@ -24,7 +24,7 @@ summary: The Moon Dial and Mirror. Ravisin the Frost Druid Attacks!
 	- [[Oona]]: What is the moose then? **Mystra**: Oh dear, that horror? Born from a moose it was, but... 
 	- [[Old Huntsman Clive]]: Where is my granddaughter [[Ravisin]]? **Kelemvor**: Not yet with me. I hold claim only on the other.
 
-![[elven_tomb.png | 800]]
+![[elven_tomb.png| 800]]
 
 ## Ravisin the Frost Druid
 

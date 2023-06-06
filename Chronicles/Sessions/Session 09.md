@@ -19,14 +19,14 @@ summary: Of Ravisin and Vurnis. The White Moose Hunts.
 - (x:: #TheWhiteMoose When queried, [[Sahnar]] suggested they bury any new dead and return any other dead to their crypts. [[Hazel]] accompanied [[Old Huntsman Clive]] and put the two sisters to rest with her trusty halfling shovel. Some time later, [[Joey the Shrub]] was planted near them to stay in the light of the forest.)
 - (x:: #TheWhiteMoose The southern half moon tomb contained an opened sarcophagus with two elven skeletons inside. Inside were a hunting horn and a silvered arrowheads. [[Azgul]] picked up the horn, discerning it to be magical, while [[Tetro]] objected but ultimately let Azgul proceed. After a short rest, [[Azgul]] realized the wondrous object was a **Horn of Silent Alarm**, though he refrained from using it yet.)
 
-![[npc_ravisin.png | 800]]
+![[npc_ravisin.png| 800]]
 
 ## The White Moose Hunts.
 
 - (x:: #battle #TheWhiteMoose A thick fog began to blanket the area, and sounds of a moose were heard in the distance. The party bunkered in the tomb for a quick rest, but then heard the *pwah!* noise of [[Chwinga]]. Slowly scouting the perimeter with [[Hazel]] keeping watching from atop the gnomon and [[Azgul]] stepping towards the southern forest, more voices began appearing: those of hunters in need for instance. Sensing a presence behind one of the tall elvish statues, [[Azgul]] Eldritch Blasted through it revealing a wendigo horror. The battle was one of light and shadow with the wendigo suddenly shifting between trees and behind bodies in the dimness of the fog as [[Tetro]] and [[Hazel]] lit up the grounds with spellfire and [[Fern]] cloaking herself in the occlusion of the twilight to strike. The party wrecked the distorted moose, which shriveled to its former form.)
 - (x:: #TheWhiteMoose The party made their way back to [[Lonelywood]], parting ways for [[Old Huntsman Clive]] and lodging at [[Nimsy Huddle]]'s residence well past midnight. Each party member earned **13 gold** for their efforts in the end, as well as a sled full of moose flesh.)
 
-![[wendigo.png | 800]]
+![[wendigo.png| 800]]
 
 ## XP
 - (xp::600xp #TheWhiteMoose COMPLETE!)
