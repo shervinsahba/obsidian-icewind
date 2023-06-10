@@ -17,3 +17,7 @@ dg-publish: false
 - Eventyr's Guide
 - Crafting Guide
 - [Prisoner 13 at Revel's End](https://www.dndbeyond.com/claim/source/prisoner-13)
+- [Kuldahar by Daniel Khan](https://www.dmsguild.com/product/439455/Kuldahar--expanded-maps-and-content-for-Rime-of-the-Frostmaiden?affiliate_id=1912102&src=danreddit). A level 6-7 adventure set after chapter 4 in RotF.
+
+# Ideas from r/rimeofthefrostmaiden
+- [Cult of Auril Statblocks and Lore by Robinthesecond](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1419fb0/expand_the_ranks_of_the_frost_druids_with_the/)
