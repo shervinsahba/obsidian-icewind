@@ -18,8 +18,7 @@ dg-publish: false
 - Crafting Guide
 - [Prisoner 13 at Revel's End](https://www.dndbeyond.com/claim/source/prisoner-13)
 - [Kuldahar by Daniel Khan](https://www.dmsguild.com/product/439455/Kuldahar--expanded-maps-and-content-for-Rime-of-the-Frostmaiden?affiliate_id=1912102&src=danreddit). A level 6-7 adventure set after chapter 4 in RotF.
-
-
+- [Hexcrawl Guide by The Alexandrian](https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl)
 # Ambience
 - [Tabletop Audio](https://tabletopaudio.com/)
 - [myNoise.net](https://mynoise.net)
@@ -35,7 +34,6 @@ dg-publish: false
 
 # Ideas from r/rimeofthefrostmaiden
 - [Frostboard](https://miro.com/app/board/o9J_l5ch25E=/)
-- [Alexandrian Hexcrawl](https://thealexandrian.net/wordpress/46116/roleplaying-games/5e-hexcrawl-part-3-watch-actions)
 - [Cult of Auril Statblocks and Lore by Robinthesecond](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1419fb0/expand_the_ranks_of_the_frost_druids_with_the/)
 - [Chardalyn Curse Mechanics](https://old.reddit.com/r/rimeofthefrostmaiden/comments/13sx6xr/proper_chardylyn_curse/)
 - [Crater left by Ythryn](https://old.reddit.com/r/rimeofthefrostmaiden/comments/13tgx6y/maps_for_the_crater_left_by_ythryn/)
