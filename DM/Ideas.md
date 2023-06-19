@@ -42,3 +42,4 @@ dg-publish: false
 - [Black Cabin Rewrite](https://old.reddit.com/r/rimeofthefrostmaiden/comments/p4j92i/revamped_black_cabin_quest/)
 - [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
 - [How to run Auril for 14th level PCs](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wso70t/how_i_ran_a_satisfying_auril_fight_for_14th_lvl/)
+- [Basho's Rewrite of Xardorok](https://www.outsidecontext.com/2023/06/03/basho-rewrites-sunblight/)
