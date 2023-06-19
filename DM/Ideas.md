@@ -40,4 +40,5 @@ dg-publish: false
 - [Lonelywood and White Moose Guide](https://old.reddit.com/r/rimeofthefrostmaiden/comments/k0s8gv/dm_guide_lonelywood_the_white_moose/)
 - [Sephek Kaltro, Coldlight Vampire](https://old.reddit.com/r/rimeofthefrostmaiden/comments/tu1rg7/sephek_kaltro_coldlight_vampire/)
 - [Black Cabin Rewrite](https://old.reddit.com/r/rimeofthefrostmaiden/comments/p4j92i/revamped_black_cabin_quest/)
+- [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
 - [How to run Auril for 14th level PCs](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wso70t/how_i_ran_a_satisfying_auril_fight_for_14th_lvl/)
