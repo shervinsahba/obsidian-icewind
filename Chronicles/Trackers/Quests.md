@@ -8,7 +8,8 @@ dg-publish: true
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #TheRamshackle 
+	x AS ""
+FROM #TheRamshackle 
 FLATTEN x WHERE contains(x,"TheRamshackle") 
 SORT file.name DESC
 ```
@@ -26,7 +27,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #ColdHeartedKiller 
+	x AS ""
+FROM #ColdHeartedKiller 
 FLATTEN x WHERE contains(x,"ColdHeartedKiller") 
 SORT file.name DESC
 ```
@@ -35,7 +37,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #TheMeadMustFlow 
+	x AS ""
+FROM #TheMeadMustFlow 
 FLATTEN x WHERE contains(x,"TheMeadMustFlow") 
 SORT file.name DESC
 ```
@@ -45,7 +48,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #TheWhiteMoose 
+	x AS ""
+FROM #TheWhiteMoose 
 FLATTEN x WHERE contains(x,"TheWhiteMoose") 
 SORT file.name DESC
 ```
@@ -54,7 +58,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #ABeautifulMine 
+	x AS ""
+FROM #ABeautifulMine 
 FLATTEN x WHERE contains(x,"ABeautifulMine") 
 SORT file.name DESC
 ```
@@ -63,7 +68,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #MountainClimb
+	x AS ""
+FROM #MountainClimb
 FLATTEN x WHERE contains(x,"MountainClimb") 
 SORT file.name DESC
 ```
@@ -72,7 +78,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #ArmoredCorps 
+	x AS ""
+FROM #ArmoredCorps 
 FLATTEN x WHERE contains(x,"ArmoredCorps") 
 SORT file.name DESC
 ```
@@ -81,7 +88,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #FrostedMugs 
+	x AS "" 
+FROM #FrostedMugs 
 FLATTEN x WHERE contains(x,"FrostedMugs") 
 SORT file.name DESC
 ```
@@ -90,7 +98,8 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #SpecialDelivery
+	x AS ""
+FROM #SpecialDelivery
 FLATTEN x WHERE contains(x,"SpecialDelivery") 
 SORT file.name DESC
 ```
