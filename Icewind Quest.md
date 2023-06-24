@@ -6,7 +6,7 @@ dg-publish: true
 ## Welcome to Icewind Dale
 ![[map-poster.jpg]]
 
-## Chronicles of Junji's Tavern
+## CHRONICLES
 
 **Trackers**: [[Quests]] | [[XP]] | [[Battles]]
 
