@@ -103,3 +103,6 @@ FROM #SpecialDelivery
 FLATTEN x WHERE contains(x,"SpecialDelivery") 
 SORT file.name DESC
 ```
+
+
+[[Icewind Quest | Return to homepage.]]

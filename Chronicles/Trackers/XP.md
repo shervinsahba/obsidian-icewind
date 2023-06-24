@@ -13,3 +13,4 @@ FLATTEN sum(rows.xp) AS Total
 SORT file.name DESC
 ```
 
+[[Icewind Quest | Return to homepage.]]

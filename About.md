@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 
 ## About
@@ -7,6 +7,6 @@ This site was made began as a Zettelkasten style notebook using [obsidian.md](ht
 
 Junji's Tavern is our gaming group. Junji Ito is my dog ![[junji.png]].
 
-## Github
+### Github
 Here is the source code for the vault itself, along with more of a README file about the notebook, plugins, and workflow in using this system for your own purposes. Note: the `.obsidian` folder has been purposely omitted, so you'll need to add the aforementioned plugins and theming.
 [github.com/shervinsahba/obsidian-icewind](https://github.com/shervinsahba/obsidian-icewind)

@@ -34,3 +34,5 @@ dg-publish: true
 - **Rule of Cool.** If you want to do something not in the rules, I may just let it happen. If you want to do something absolutely crazy, something perhaps with dire consequences, I may just say "that's cool, do it."
 
 ![[junji.png]]
+
+[[Icewind Quest | Return to homepage.]]
