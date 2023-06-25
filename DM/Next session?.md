@@ -1,3 +1,7 @@
+# Present
+
+> You last left off at the Black Cabin. Hazel, Summer Star in hand, sees her friend Tetro return from ash. 
+
 # Hooks
 
 - Bremen, Lake Monster Quest
