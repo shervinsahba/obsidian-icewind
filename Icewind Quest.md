@@ -4,7 +4,7 @@ dg-publish: true
 ---
 
 ## Welcome to Icewind Dale
-![[dd-rime-of-the-frostmaiden-art.jpg | 1000]]
+![[dd-rime-of-the-frostmaiden-art.jpg| 800]]
 
 ## CHRONICLES
 
