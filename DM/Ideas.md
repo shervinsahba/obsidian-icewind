@@ -3,6 +3,22 @@ dg-publish: false
 ---
 
 # Raw ideas
+
+1.) I'm planning on introducing some Reghed traders in Caer-Konig for the Chapter 1 quest The Unseen. In short, the townsfolk will blame the Reghed tribesmen, adding some misdirection and creating some tension to resolve.
+
+The Reghed will very much be outsiders - a society mostly separate from the Dalefolk. Yet, they're still human, and they're not entirely uncommon in Ten Towns. Trade and the survival does bridge the societies.
+
+Trovus will vouch for the Reghed traders. He's been drinking with them. Hell, the tribesmen _brought him_ liquor. But, this of course might make Trovus seem like an unreliable source.
+
+I haven't decided what tribe they'll represent, though.
+
+2.) I'm also thinking about incorporating Reghed before and after Destruction's Light. To seed this, I may increase the number of Reghed in Ten Towns as players wrap up Chapter 2. These would be migrants, essentially, coming to the towns for a new life, as the eternal winter has made their nomadic ways untenable. For some tribesmen, this would be a mark of shame. In any case, this refugee population will occupy the Speakers and increase tentions in Ten Towns. For Destruction's Light, the Reghed will be present. Perhaps their actions will cause the societies to band together. Or perhaps not.
+
+Along the way to Sunblight, I may have the players come across a Reghed Camp, just to give some more face time to the nomads leading up to these events.
+
+3.) I really want to do a Twenty Stones of Thruun summoning. [Canonically, Isarr Kronenstrom wanted to achieve that](https://forgottenrealms.fandom.com/wiki/Twenty_Stones_of_Thruun). But adding Thruun would be its own arc and need more thought.
+
+
 ## Overarching
 
 - Visions and dreams are a good way to display the themes of Auril tenets: Cruelty, Endurance, Isolation, Preservation. These could be abstract visions or they could quite literally foreshadow the Tests of the Frostmaiden.
@@ -12,6 +28,9 @@ dg-publish: false
 ## Chapter 2
 - Vaelish was jailed for a plot to overthrow Ten Towns. That sounds like Zhentarim dealings. Perhaps he had an alliance with Naerth. A jailbreaked Vaelish could be welcomed back into the Zhentarim fold. Alternatively, perhaps Vaelish overstepped his bounds, and Naerth arranged for his arrest. In any case, he could be useful for campaigns that emphasize the Zhentarim.
 - The Reghed Camp also looks perfect for some sort of barbaric ritual to conjure an avatar of Auril and foreshadow the Tests of the Frostmaiden.
+
+
+
 # Supplements
 
 - Eventyr's Guide
