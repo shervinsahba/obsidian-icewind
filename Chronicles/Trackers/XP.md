@@ -2,15 +2,19 @@
 dg-publish: true
 ---
 
+**TOTAL**: 3300 since session 10.
+
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Session", 
-	split(xp, "xp")[0] AS "XP",
-	split(xp, "xp")[1] AS "Experience"
-	FROM "Chronicles"
-FLATTEN xp WHERE contains(xp,"xp") 
+	split(xp, " ~ ")[0] AS "XP",
+	split(xp, " ~ ")[1] AS "Experience",
+	file.link AS "Session"
+	FROM "Chronicles" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP"
+FLATTEN xp
 FLATTEN sum(rows.xp) AS Total
-SORT file.name DESC
 ```
+
+
+![[characteradvancement.png]]
 
 [[Icewind Quest | Return to homepage.]]

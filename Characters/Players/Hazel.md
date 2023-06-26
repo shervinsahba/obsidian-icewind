@@ -10,6 +10,7 @@ race: Halfling
 > ### Background: Folk Hero
 >![[pc - Hazel.png]]
 
+![[advancement_monk.png]]
 
 ```dataview
 TABLE WITHOUT ID

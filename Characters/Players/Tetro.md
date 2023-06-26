@@ -10,6 +10,7 @@ race: Tortle
 > ### Background: Remote Stargazer
 >![[pc - Tetro.png]]
 
+![[advancement_druid.png]]
 
 ```dataview
 TABLE WITHOUT ID

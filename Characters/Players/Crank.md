@@ -10,6 +10,7 @@ race: Bugbear
 > ### Background: Criminal
 > ![[pc - Crank.png]]
 
+![[advancement_monk.png]]
 
 ```dataview
 TABLE WITHOUT ID

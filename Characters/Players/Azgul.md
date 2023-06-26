@@ -10,6 +10,7 @@ race: Half-orc
 > ### Background: Sage
 >![[pc - Azgul.png]]
 
+![[advancement_warlock.png]]
 
 ```dataview
 TABLE WITHOUT ID

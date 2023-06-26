@@ -10,6 +10,7 @@ race: Tiefling
 > ### Background: Penetration Tester
 > ![[pc - Fern.png]]
 
+![[advancement_rogue.png]]
 
 ```dataview
 TABLE WITHOUT ID

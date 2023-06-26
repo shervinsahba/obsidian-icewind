@@ -10,6 +10,7 @@ race: Half-orc
 > ### Background: Outlander
 >![[pc - Oona.png]]
 
+![[advancement_barbarian.png]]
 
 ```dataview
 TABLE WITHOUT ID
