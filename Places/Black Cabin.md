@@ -2,7 +2,7 @@
 dg-publish: True
 ---
 ![[Black-Cabin-still.png| 600]]
-![[2-22 Black Cabin.jpg| 600]]
+![[Black_Cabin_Ground_SD.png| 600]]
 # Happenings
 ```dataview
 TABLE WITHOUT ID
