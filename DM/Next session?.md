@@ -13,3 +13,8 @@
 - In Good Mead, the town speaker was recently killed by a nine-foot-tall giant. Rumor has it the giant stole a shipment of honey mead, without which a handful of taverns in Ten-Towns might go dry!
 - In Bremen, fishers are being terrorized by a monster that lives in Maer Dualdon. Strange that none of the other towns on that lake have been harangued by the monster.
 
+
+# 3d Printing
+- [ ] Roc
+- [ ] Torg
+- [ ] Torg's sled and crew
