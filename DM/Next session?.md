@@ -18,3 +18,4 @@
 - [ ] Roc
 - [ ] Torg
 - [ ] Torg's sled and crew
+- [ ] Coldlight Walkers
