@@ -6,6 +6,8 @@
 
 - Bremen, Lake Monster Quest
 - Good Mead, the Mead Must Flow
+- Easthaven, Dzaan and Vellynne
+- Targos, Cold Hearted Killer
 
 # Rumors
 
