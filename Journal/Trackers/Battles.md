@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Session", 
@@ -9,3 +8,5 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,"#battle") 
 SORT file.name DESC
 ```
+
+[[Icewind Quest | Return to homepage.]]

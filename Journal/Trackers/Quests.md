@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 # Active Quests
 
 ## The Ramshackle

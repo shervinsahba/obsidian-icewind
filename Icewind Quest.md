@@ -4,21 +4,22 @@ dg-publish: true
 ---
 
 ## Welcome to Icewind Dale
-![[dd-rime-of-the-frostmaiden-art.jpg| 800]]
+![[dd-rime-of-the-frostmaiden-art.jpg| 600]]
 
-## CHRONICLES
+# Journal
 
-**Trackers**: [[Quests]] | [[XP]] | [[Battles]]
+## [[Chronicles]] | [[Quests]] | [[XP]] | [[Battles]] | [[Loot]]
 
 ```dataview
 TABLE WITHOUT ID 
-	file.link as "Session",
+	file.link as "Recent Sessions",
 	summary AS "Chronicle" 
-FROM "Chronicles" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP"
+FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP" AND file.name != "Loot"  AND file.name != "Chronicles"
 SORT file.name DESC
+LIMIT 3
 ```
 
-## About the site
+# About
 This site was made as a Zettelkasten style notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). Theme: [vileplume](https://github.com/hungsu/vileplume-obsidian).
 
 ### source code
