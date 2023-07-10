@@ -15,7 +15,7 @@ race: Half-orc
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "Interactions" FROM "Chronicles"
+	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```

@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-role: Garret's good boy
-race: Dog
+role: Auril's Mount
+race: Roc
 ---
 
 > [!info]+
-> ## Garret's good boy
-> ![[npc_unknown.png| 300]]
-
+> ## Auril's Roc
+> ![[npc_auril_and_iskra.png]]
 
 ```dataview
 TABLE WITHOUT ID

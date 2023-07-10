@@ -17,7 +17,7 @@ The Dwarven Valley was a deep rift in Icewind Dale, located along the southern s
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "Details" FROM "Chronicles"
+	x AS "Details" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```

@@ -55,7 +55,7 @@ tundra all meet here as well.*
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "Details" FROM "Chronicles"
+	x AS "Details" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
