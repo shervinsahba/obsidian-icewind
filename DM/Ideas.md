@@ -38,6 +38,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Prisoner 13 at Revel's End](https://www.dndbeyond.com/claim/source/prisoner-13)
 - [Kuldahar by Daniel Khan](https://www.dmsguild.com/product/439455/Kuldahar--expanded-maps-and-content-for-Rime-of-the-Frostmaiden?affiliate_id=1912102&src=danreddit). A level 6-7 adventure set after chapter 4 in RotF.
 - [Hexcrawl Guide by The Alexandrian](https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl)
+- [Pointcrawl Guide by The Alexandrian](https://thealexandrian.net/wordpress/48666/roleplaying-games/pointcrawls)
 # Ambience
 - [Tabletop Audio](https://tabletopaudio.com/)
 - [myNoise.net](https://mynoise.net)
@@ -52,6 +53,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 	- [Dunes of Arrakis](https://mynoise.net/NoiseMachines/magicDuneArrakisGenerator.php)
 
 # Ideas from r/rimeofthefrostmaiden
+- [Resource list](https://docs.google.com/document/d/1RCMMs0Ymilc2ib7IRzJSY--4YV3-w_gt5xR7Nuu0tec/edit?pli=1)
 - [Frostboard](https://miro.com/app/board/o9J_l5ch25E=/)
 - [Cult of Auril Statblocks and Lore by Robinthesecond](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1419fb0/expand_the_ranks_of_the_frost_druids_with_the/)
 - [Chardalyn Curse Mechanics](https://old.reddit.com/r/rimeofthefrostmaiden/comments/13sx6xr/proper_chardylyn_curse/)
