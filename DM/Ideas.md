@@ -67,3 +67,4 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [The Tenets of Auril Symbolized](https://old.reddit.com/r/rimeofthefrostmaiden/comments/vgwdvl/the_tenets_of_auril_symbolized/)
 - [RotF Achievement List](https://old.reddit.com/r/rimeofthefrostmaiden/comments/jl7n42/rime_of_the_frostmaiden_achievements/)
 - [Grizzly's Grand Rework](https://old.reddit.com/r/rimeofthefrostmaiden/comments/iultgt/my_grand_rework_of_rime_of_the_frostmaiden/)
+- [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)

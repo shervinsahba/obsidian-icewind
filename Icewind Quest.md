@@ -4,7 +4,7 @@ dg-publish: true
 ---
 
 ## Welcome to Icewind Dale
-![[dd-rime-of-the-frostmaiden-art.jpg| 600]]
+![[dd-rime-of-the-frostmaiden-art.jpg|600]]
 # Journal
 [[Chronicles]] | [[Quests]] | [[Battles]] | [[XP]] | [[Loot]]
 ```dataview
