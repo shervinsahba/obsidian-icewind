@@ -11,7 +11,7 @@ The creature referred to in Northlander lore as the Hunter of Men is a sure-foot
 
 ## Ice Mephit
 ![[ice_mephit.png|500]]
-The exact disposition of mephits depended on their plane of origin, though they were universally capricious tricksters and rarely endearing. They took great pleasure in being pests, displaying tendencies towards vulgar behavior. They were by no means inherently evil, and in fact were highly impressionable, always eager to please their masters and shifting alignment to better do so. Their habit of making mischief simply made them more inclined to serve evil-doers, becoming sadistic, vindictive, and malicious under such being. Mephits are not native to the Prime Material Plane, being linked to the various elemental or quasi-elemental planes of existence. Comprising frigid air and water, ice mephits are aloof and cold, surpassing all other mephits in pitiless cruelty.
+The exact disposition of mephits depended on their plane of origin, though they were universally capricious tricksters and rarely endearing. They took great pleasure in being pests, displaying tendencies towards vulgar behavior. They were by no means inherently evil, and in fact were highly impressionable, always eager to please their masters and shifting alignment to better do so. Their habit of making mischief simply made them more inclined to serve evil-doers, becoming sadistic, vindictive, and malicious under such being. Mephits are not native to the Prime Material Plane, being linked to the various elemental or quasi-elemental planes of existence. Comprising frigid air and water, ice mephits are aloof and cold, surpassing all other mephits in pitiless cruelty. 
 
 ## Knucklehead Trout
 ![[knucklehead_trout.png|500]]
