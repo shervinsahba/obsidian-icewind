@@ -39,6 +39,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Kuldahar by Daniel Khan](https://www.dmsguild.com/product/439455/Kuldahar--expanded-maps-and-content-for-Rime-of-the-Frostmaiden?affiliate_id=1912102&src=danreddit). A level 6-7 adventure set after chapter 4 in RotF.
 - [Hexcrawl Guide by The Alexandrian](https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl)
 - [Pointcrawl Guide by The Alexandrian](https://thealexandrian.net/wordpress/48666/roleplaying-games/pointcrawls)
+- [Sunblight maps](https://jaredblando.com/rime-of-the-frost-maiden/cqnqqx6puna1qkg968z0zdh2joisue)
 # Ambience
 - [Tabletop Audio](https://tabletopaudio.com/)
 - [myNoise.net](https://mynoise.net)
