@@ -6,7 +6,6 @@ race: Gnome
 
 > [!info]+
 > ## Acolyte of Lathander
-> ![[npc_unknown.png| 300]]
 
 
 ```dataview

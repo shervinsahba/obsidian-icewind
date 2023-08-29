@@ -6,9 +6,7 @@ race:
 
 > [!info]+
 > ## Speaker of Targos
->![[npc_Speaker_Naerth_Maxildanar.png| 300]]
-
-> *Beware the Speaker of Targos.* - [[Hlin Trollbane]]
+>![[npc_Speaker_Naerth_Maxildanar_2.png| 300]]
 
 ```dataview
 TABLE WITHOUT ID

@@ -1,13 +1,16 @@
 ---
 dg-publish: true
-role: Targos Militia Captain
-race: Tiefling
+role: Speaker of Bremen
+age: Elderly
+race: Dwarven
+gender: Man
+descriptors: ["Possibly Senile"]
 ---
 
 > [!info]+
-> ## Targos Militia Captain
-> ![[npc_Skath.png| 300]]
-
+> ## `=this.role`
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID

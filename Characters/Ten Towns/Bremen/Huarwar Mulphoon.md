@@ -1,13 +1,16 @@
 ---
 dg-publish: true
-role: Targos Militia Captain
-race: Tiefling
+role: Innkeeper's Son at Buried Treasures
+age: Young
+race: Human
+gender: Man
+descriptors: [""]
 ---
 
 > [!info]+
-> ## Targos Militia Captain
-> ![[npc_Skath.png| 300]]
-
+> ## `=this.role`
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID

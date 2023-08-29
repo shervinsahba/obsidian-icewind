@@ -1,13 +1,16 @@
 ---
 dg-publish: true
-role: Targos Militia Captain
-race: Tiefling
+role: Innkeeper of Buried Treasures
+age: Middle-aged
+race: Human
+gender: Woman
+descriptors: [""]
 ---
 
 > [!info]+
-> ## Targos Militia Captain
-> ![[npc_Skath.png| 300]]
-
+> ## `=this.role`
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID
