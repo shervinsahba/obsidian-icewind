@@ -4,7 +4,7 @@ role: Tavernkeeper of the Northlook, former Sellsword
 age: Adult
 race: Human
 gender: Woman
-descriptors: ["Sly, Friendly, Tough"]
+descriptors: [Sly, Friendly, Tough]
 ---
 
 > [!info]+
@@ -18,7 +18,7 @@ descriptors: ["Sly, Friendly, Tough"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

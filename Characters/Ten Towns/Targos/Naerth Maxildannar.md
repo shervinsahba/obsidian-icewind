@@ -4,7 +4,7 @@ role: Speaker of Targos
 age: Middle-Aged
 race: Human
 gender: Man
-descriptors: ["Slimy, Conniving, Sly"]
+descriptors: [Slimy, Conniving, Sly]
 ---
 
 > [!info]+
@@ -15,7 +15,7 @@ descriptors: ["Slimy, Conniving, Sly"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

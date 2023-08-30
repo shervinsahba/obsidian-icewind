@@ -4,7 +4,7 @@ role: Hunter from Lonelywood
 age: Old
 race: Human
 gender: Man
-descriptors: ["Woodsman, Heartbroken, Alcoholic"]
+descriptors: [Woodsman, Heartbroken, Alcoholic]
 ---
 
 > [!info]+
@@ -15,7 +15,7 @@ descriptors: ["Woodsman, Heartbroken, Alcoholic"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

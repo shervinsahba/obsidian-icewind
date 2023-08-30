@@ -1,7 +1,10 @@
 ---
 dg-publish: true
 role: Druid, Circle of the Stars
+age: Adult
 race: Tortle
+gender: Man
+descriptors: [""]
 ---
 
 > [!info]+
@@ -13,7 +16,7 @@ race: Tortle
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

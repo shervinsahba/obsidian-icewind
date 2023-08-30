@@ -4,7 +4,7 @@ role: Dwarven Valley miner, brother of Oorok
 age: Adult
 race: Dwarf
 gender: Man
-descriptors: ["Mauled to death by Yeti"]
+descriptors: [Mauled to death by Yeti]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Mauled to death by Yeti"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

@@ -76,6 +76,8 @@ SORT file.name DESC
 
 
 
+
+[[Icewind Quest | Return to homepage.]]
 # Completed Quests
 ### Cold Hearted Killer
 ```dataview
@@ -164,4 +166,5 @@ SORT file.name DESC
 ```
 
 
+[[Icewind Quest | Return to homepage.]]
 [[Icewind Quest | Return to homepage.]]

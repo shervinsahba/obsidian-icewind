@@ -4,7 +4,7 @@ role: Acolyte of Lathander
 age: Unknown-Aged
 race: Gnome
 gender: Man
-descriptors: ["Curmodgeon, Intelligent, Furry"]
+descriptors: [Curmodgeon, Intelligent, Furry]
 ---
 
 > [!info]+
@@ -15,16 +15,7 @@ descriptors: ["Curmodgeon, Intelligent, Furry"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
-	x AS "Interactions" FROM "Journal"
-FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
-SORT file.name DESC
-```
-
-
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

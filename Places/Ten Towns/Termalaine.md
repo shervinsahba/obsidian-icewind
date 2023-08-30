@@ -7,7 +7,7 @@ dg-publish: true
 
 ```dataview 
 TABLE WITHOUT ID
-  file.link AS "Character", role AS "Role", race AS "Race"
+  file.link AS "Character", role AS "Role", race AS "Race", age AS "Age", gender AS "Gender", descriptors AS "Descriptors"
 FROM "Characters/Ten Towns/Termalaine"
 SORT file.name
 ```
@@ -22,7 +22,7 @@ Charming inn, made from a row of connected houses. Run by the willowy teen [[Mar
 # Happenings
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Details" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

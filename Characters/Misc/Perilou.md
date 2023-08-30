@@ -4,7 +4,7 @@ role: Acolyte of Yondolla, Goddess of Protection
 age: Adult
 race: Halfling
 gender: Woman
-descriptors: ["Loyal, Religious, Brave"]
+descriptors: [Loyal, Religious, Brave]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Loyal, Religious, Brave"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

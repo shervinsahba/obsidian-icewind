@@ -4,7 +4,7 @@ role: Singing Fish
 age: Unknown-Aged
 race: "Knucklehead Trout"
 gender: Fish
-descriptors: ["Bitey, Old, Sonorous"]
+descriptors: [Bitey, Old, Sonorous]
 ---
 
 > [!info]+
@@ -22,7 +22,7 @@ descriptors: ["Bitey, Old, Sonorous"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

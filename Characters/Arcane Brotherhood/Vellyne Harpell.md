@@ -4,7 +4,7 @@ role: Arcane Brotherhood Wizard
 age: Old
 race: Human
 gender: Woman
-descriptors: ["Pragmatic, Astute, Wealthy"]
+descriptors: [Pragmatic, Astute, Wealthy]
 ---
 
 > [!info]+
@@ -15,7 +15,7 @@ descriptors: ["Pragmatic, Astute, Wealthy"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

@@ -4,7 +4,7 @@ role: Tavernkeeper of Three Flags Sailing
 age: Middle-Aged
 race: Human
 gender: Woman
-descriptors: ["Warm, Maternal, Religious"]
+descriptors: [Warm, Maternal, Religious]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Warm, Maternal, Religious"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

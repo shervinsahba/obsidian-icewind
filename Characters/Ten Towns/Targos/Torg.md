@@ -4,7 +4,7 @@ role: Merchant Caravaner
 age: Middle-Aged
 race: Dwarf
 gender: Man
-descriptors: ["Unscrupulous, Capistalistic, Shrewd"]
+descriptors: [Unscrupulous, Capistalistic, Shrewd]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Unscrupulous, Capistalistic, Shrewd"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

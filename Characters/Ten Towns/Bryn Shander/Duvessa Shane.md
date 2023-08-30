@@ -4,7 +4,7 @@ role: Speaker of Brynn Shander
 age: Adult
 race: Human
 gender: Woman
-descriptors: ["Pragmatic, Serious, Uptight"]
+descriptors: [Pragmatic, Serious, Uptight]
 ---
 
 > [!info]+
@@ -17,7 +17,7 @@ descriptors: ["Pragmatic, Serious, Uptight"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

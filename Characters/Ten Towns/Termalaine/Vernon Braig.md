@@ -4,7 +4,7 @@ role: Tavernkeeper of the Blue Clam
 age: Adult
 race: Half-Orc
 gender: Man
-descriptors: ["Creative, Friendly, Nimble"]
+descriptors: [Creative, Friendly, Nimble]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Creative, Friendly, Nimble"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

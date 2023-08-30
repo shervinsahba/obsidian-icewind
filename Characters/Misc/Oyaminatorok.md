@@ -3,7 +3,7 @@ dg-publish: true
 role: The Winter Walker
 age: Unknown-Aged
 race: Beast
-gender: ""
+gender: "Unknown-Gender"
 descriptors: [""]
 ---
 
@@ -14,7 +14,7 @@ descriptors: [""]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

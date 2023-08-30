@@ -8,7 +8,7 @@ The lake around which Eastern Ten Towns has been settled. [[Bremen]], [[Targos]]
 # Happenings
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Details" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

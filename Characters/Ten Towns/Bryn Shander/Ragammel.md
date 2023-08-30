@@ -4,7 +4,7 @@ role: Arcane Brotherhood Contact
 age: Adult
 race: Human
 gender: Man
-descriptors: ["Rough, Rugged, Dependable"]
+descriptors: [Rough, Rugged, Dependable]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Rough, Rugged, Dependable"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

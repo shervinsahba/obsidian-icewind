@@ -6,7 +6,7 @@ dg-publish: true
 # Characters
 ```dataview 
 TABLE WITHOUT ID
-  file.link AS "Character", role AS "Role", race AS "Race"
+  file.link AS "Character", role AS "Role", race AS "Race", age AS "Age", gender AS "Gender", descriptors AS "Descriptors"
 FROM "Characters/Ten Towns/Lonelywood"
 SORT file.name
 ```
@@ -24,7 +24,7 @@ Speaker [[Nimsy Huddle]] is a welcoming host. Since the town has no inn, she off
 # Happenings
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Details" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

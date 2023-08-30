@@ -1,10 +1,10 @@
 ---
 dg-publish: true
 role: Garrett's good boy
-age: ""
+age: "Adult"
 race: Dog
-gender: "" 
-descriptors: ["Loyal, Alert, Clever"]
+gender: "Male" 
+descriptors: [Loyal, Alert, Clever]
 ---
 
 > [!info]+
@@ -15,7 +15,7 @@ descriptors: ["Loyal, Alert, Clever"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

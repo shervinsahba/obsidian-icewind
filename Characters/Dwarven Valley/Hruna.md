@@ -4,7 +4,7 @@ role: Dwarven Valley miner
 age: Old
 race: Dwarf
 gender: Woman
-descriptors: ["Gruff, Raspy, Gritty"]
+descriptors: [Gruff, Raspy, Gritty]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Gruff, Raspy, Gritty"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

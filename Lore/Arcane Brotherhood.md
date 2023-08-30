@@ -14,7 +14,7 @@ The people of [[Icewind Dale]] tend to be wary of the Brotherhood.
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "" FROM #ArcaneBrotherhood  
 FLATTEN x WHERE contains(x,"ArcaneBrotherhood") 
 SORT file.name DESC

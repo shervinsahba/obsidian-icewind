@@ -1,7 +1,10 @@
 ---
 dg-publish: true
 role: Barbarian, Path of the Ancestral Guardian
+age: Adult
 race: Half-orc
+gender: Woman
+descriptors: [""]
 ---
 
 > [!info]+
@@ -13,7 +16,7 @@ race: Half-orc
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

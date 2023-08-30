@@ -4,7 +4,7 @@ role: Dwarven Valley miner, brother of Oobok
 age: Adult
 race: Dwarf
 gender: Man
-descriptors: ["Gruff, Traumatized"]
+descriptors: [Gruff, Traumatized]
 ---
 
 > [!info]+
@@ -14,7 +14,7 @@ descriptors: ["Gruff, Traumatized"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC

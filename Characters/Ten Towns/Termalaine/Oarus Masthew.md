@@ -4,7 +4,7 @@ role: Speaker of Termalaine
 age: Adult
 race: Half-Orc
 gender: Man
-descriptors: ["Good-hearted, Boisterous"]
+descriptors: [Good-hearted, Boisterous, Affable]
 ---
 
 > [!info]+
@@ -16,7 +16,7 @@ descriptors: ["Good-hearted, Boisterous"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC

@@ -4,7 +4,7 @@ role: Scrimshander Artist
 age: Adult
 race: Human
 gender: Man
-descriptors: ["Cheerful, Detail-Oriented, Disabled"]
+descriptors: [Cheerful, Detail-Oriented, Disabled]
 ---
 
 > [!info]+
@@ -15,7 +15,7 @@ descriptors: ["Cheerful, Detail-Oriented, Disabled"]
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Note", 
+	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
