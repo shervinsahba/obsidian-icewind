@@ -1,12 +1,16 @@
 ---
 dg-publish: true
 role: Acolyte of Lathander
+age: ""
 race: Gnome
+gender: Man
+descriptors: [""]
 ---
 
 > [!info]+
-> ## Acolyte of Lathander
-
+> ## `=this.role`
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID

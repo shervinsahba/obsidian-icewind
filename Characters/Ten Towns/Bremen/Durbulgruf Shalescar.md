@@ -2,7 +2,7 @@
 dg-publish: true
 role: Speaker of Bremen
 age: Elderly
-race: Dwarven
+race: Dwarf
 gender: Man
 descriptors: ["Possibly Senile"]
 ---

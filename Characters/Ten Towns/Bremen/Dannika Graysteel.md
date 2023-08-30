@@ -1,9 +1,9 @@
 ---
 dg-publish: true
-role: Biologist
-age: 
-race: Half-Elven
-gender: Person
+role: Scholar
+age: Middle-Aged
+race: Half-Elf
+gender: Woman
 descriptors: [""]
 ---
 
