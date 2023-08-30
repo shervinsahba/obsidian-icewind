@@ -1,12 +1,16 @@
 ---
 dg-publish: true
-role: Scrimshander artist
+role: Scrimshander Artist
+age: Adult
 race: Human
+gender: Man
+descriptors: ["Cheerful, Detail-Oriented, Disabled"]
 ---
 
 > [!info]+
-> ## Scrimshander artist
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 
 ```dataview

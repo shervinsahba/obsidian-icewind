@@ -1,12 +1,16 @@
 ---
 dg-publish: true
 role: Frost Druid
-race: Halfling
+age: Young Adult
+race: Human
+gender: Woman
+descriptors: ["Dead, Mid-Winter Child, Blessed"]
 ---
 
 > [!info]+
-> ## Frost Druid
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID

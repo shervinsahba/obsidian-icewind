@@ -1,18 +1,21 @@
 ---
 dg-publish: true
-role: Adventurer, Clan of the Bear Tribesman
+role: Adventurer, Clan of the Bear
+age: Adult
 race: Goliath
+gender: Man
+descriptors: ["Dead, Ferocious, Wanderer"]
 ---
 
 > [!info]+
-> ## Clan of the Bear Tribesman
-> ![[npc_unknown.png| 300]]
-
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "Interactions" FROM "Chronicles"
+	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```

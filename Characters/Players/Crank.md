@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-role: Monk
+role: Monk, Way of the Drunken Master
 race: Bugbear
 ---
 
 > [!info]+
-> ## Crank
-> ## Monk, Way of the Drunken Master
-> ### Background: Criminal
+> **`=this.role`**
+> Background: Criminal
 > ![[pc - Crank.png]]
 
 ![[advancement_monk.png]]

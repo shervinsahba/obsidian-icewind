@@ -1,12 +1,16 @@
 ---
 dg-publish: true
-role: Zhentarim tavern keeper at the Hooked Knucklehead
-race: Half-orc
+role: Zhentarim, Tavernkeeper of the Hooked Knucklehead
+age: Adult
+race: Half-Orc
+gender: Man
+descriptors: ["Brutish, Coin-driven, Lout"]
 ---
 
 > [!info]+
-> ## Tavern keeper at the Hooked Knucklehead
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 
 ```dataview

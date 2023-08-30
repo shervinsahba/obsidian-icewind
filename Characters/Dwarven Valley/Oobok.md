@@ -1,12 +1,16 @@
 ---
 dg-publish: true
-role: Dwarven Valley miner
+role: Dwarven Valley miner, brother of Oorok
+age: Adult
 race: Dwarf
-note: Torn in half by yeti.
+gender: Man
+descriptors: ["Mauled to death by Yeti"]
 ---
 
 > [!info]+
-> ## Dwarven Valley miner, brother of [[Oorrok]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID

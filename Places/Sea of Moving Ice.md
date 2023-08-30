@@ -1,7 +1,6 @@
 ---
-dg-publish: true
+dg-publish: True
 ---
-![[map-Luskan.png]]
 # Happenings
 ```dataview
 TABLE WITHOUT ID

@@ -4,7 +4,6 @@ dg-publish: true
 ![[heraldry - Caer Konig.png|300]]
 ![[map-Caer-Konig.jpg|600]]
 # Characters
-
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"

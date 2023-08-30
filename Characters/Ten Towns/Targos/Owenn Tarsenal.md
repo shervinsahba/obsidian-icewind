@@ -1,12 +1,16 @@
 ---
 dg-publish: true
 role: Innkeeper at the Luskan Arms
+age: Middle-Aged
 race: Human
+gender: Man
+descriptors: ["Depressed, Dispassionate, Lackey"]
 ---
 
 > [!info]+
-> ## Innkeeper at the Luskan Arms
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 
 ```dataview

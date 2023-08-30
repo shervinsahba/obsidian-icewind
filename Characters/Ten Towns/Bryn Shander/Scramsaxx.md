@@ -1,13 +1,16 @@
 ---
 dg-publish: true
-role: Tavernkeeper of The Northlook
+role: Tavernkeeper of the Northlook, former Sellsword
+age: Adult
 race: Human
+gender: Woman
+descriptors: ["Sly, Friendly, Tough"]
 ---
 
 > [!info]+
-> ## Tavernkeeper of The Northlook, retired sellsword.
-> 
-> - A well of information about the comings and goings of travelers in [[Bryn Shander]].
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 > *Grab a seat and warm your bottoms! Mead or firewater? We sling it sweeter and cheaper than Ogden's!* 
 

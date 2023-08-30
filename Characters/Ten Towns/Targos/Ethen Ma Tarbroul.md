@@ -1,14 +1,14 @@
 ---
 dg-publish: true
-role: Speaker of Bremen
-age: Elderly
-race: Dwarf
-gender: Man
-descriptors: ["Possibly Senile"]
+role: Tavernkeeper of Three Flags Sailing
+age: Middle-Aged
+race: Human
+gender: Woman
+descriptors: ["Warm, Maternal, Religious"]
 ---
 
 > [!info]+
-> ## `=this.role`
+> **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
 

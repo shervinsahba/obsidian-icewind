@@ -1,11 +1,16 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Mage
+role: Arcane Brotherhood Wizard
+age: Old
 race: Human
+gender: Woman
+descriptors: ["Pragmatic, Astute, Wealthy"]
 ---
 
-> [!info]+ 
-> ## Arcane Brotherhood Mage
+> [!info]+
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 > ![[npc_vellyne.png.png| 300]]
 
 ```dataview

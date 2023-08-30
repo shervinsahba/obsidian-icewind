@@ -1,12 +1,16 @@
 ---
 dg-publish: true
-role: Garret's good boy
+role: Garrett's good boy
+age: ""
 race: Dog
+gender: "" 
+descriptors: ["Loyal, Alert, Clever"]
 ---
 
 > [!info]+
-> ## Garret's good boy
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 
 ```dataview

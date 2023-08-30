@@ -1,11 +1,16 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Member
-race: 
+role: Arcane Brotherhood Wizard
+age: Unknown-Aged
+race: Human
+gender: Man
+descriptors: [""]
 ---
 
-> [!info]+ 
-> ## Arcane Brotherhood Member
+> [!info]+
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 > ![[npc_unknown.png| 300]]
 
 ```dataview

@@ -1,17 +1,16 @@
 ---
 dg-publish: true
-role: Speaker of Lonelywood
-age: Middle-Aged
-race: Halfling
-gender: Woman
-descriptors: ["Cheerful, Maternal, Kooky"]
+role: Speaker of Bremen
+age: Elderly
+race: Dwarf
+gender: Man
+descriptors: ["Possibly Senile"]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
-> ![[npc_Speaker_Nimsy_Huddle.png| 300]]
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID

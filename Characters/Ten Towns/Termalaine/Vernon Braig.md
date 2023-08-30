@@ -1,13 +1,16 @@
 ---
 dg-publish: true
-role: Tavern chef of the Blue Clam
-race: Half-orc
+role: Tavernkeeper of the Blue Clam
+age: Adult
+race: Half-Orc
+gender: Man
+descriptors: ["Creative, Friendly, Nimble"]
 ---
 
 > [!info]+
-> ## Tavern chef of the Blue Clam
-> ![[npc_unknown.png| 300]]
-
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID

@@ -1,12 +1,16 @@
 ---
 dg-publish: true
-role: Hunter
+role: Hunter from Lonelywood
+age: Old
 race: Human
+gender: Man
+descriptors: ["Woodsman, Heartbroken, Alcoholic"]
 ---
 
 > [!info]+
-> ## Hunter
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 
 ```dataview

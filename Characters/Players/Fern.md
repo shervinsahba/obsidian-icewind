@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-role: Rogue
+role: Rogue, Arcane Trickster
 race: Tiefling
 ---
 
 > [!info]+
-> ## Fern
-> ## Rogue, Arcane Trickster
-> ### Background: Penetration Tester
+> **`=this.role`**
+> Background: Penetration Tester
 > ![[pc - Fern.png]]
 
 ![[advancement_rogue.png]]

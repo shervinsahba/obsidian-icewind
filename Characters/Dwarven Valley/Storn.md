@@ -1,11 +1,16 @@
 ---
 dg-publish: true
 role: Dwarven Valley miner
+age: Adult
 race: Dwarf
+gender: Man
+descriptors: ["Gruff, Dragon-Phobic, Dull"]
 ---
 
 > [!info]+
-> ## Dwarven Valley miner
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID

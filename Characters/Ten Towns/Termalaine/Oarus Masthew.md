@@ -1,11 +1,16 @@
 ---
 dg-publish: true
 role: Speaker of Termalaine
-race: Half-orc
+age: Adult
+race: Half-Orc
+gender: Man
+descriptors: ["Good-hearted, Boisterous"]
 ---
 
 > [!info]+
-> ## Speaker of Termalaine
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 > ![[npc_Speaker_Oarus_Masthew.png| 300]]
 
 

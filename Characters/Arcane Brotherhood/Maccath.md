@@ -1,12 +1,18 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Member
-race: 
+role: Former Arcane Brotherhood Member
+age: Unknown-Aged
+race: Human
+gender: Man
+descriptors: ["Pseudonym used by Macreadus to access Brotherhood networks"]
 ---
 
-> [!info]+ 
-> ## Arcane Brotherhood Member
-> ![[npc_unknown.png| 300]]
+> [!info]+
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
+> See [[Macreadus]].
+
 
 ```dataview
 TABLE WITHOUT ID

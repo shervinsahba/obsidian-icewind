@@ -1,17 +1,18 @@
 ---
 dg-publish: true
-role: Speaker of Lonelywood
-age: Middle-Aged
-race: Halfling
-gender: Woman
-descriptors: ["Cheerful, Maternal, Kooky"]
+role: Mercenary working for Torg, Former Sailor
+age: Adult
+race: Human
+gender: Man
+descriptors: ["Well-spoken, Cold-Hearted, Ruthless"]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
-> ![[npc_Speaker_Nimsy_Huddle.png| 300]]
+> `=this.descriptors` 
+> ![[rotf_23_sephek_kaltro.png]]
+
 
 ```dataview
 TABLE WITHOUT ID

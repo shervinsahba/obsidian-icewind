@@ -1,13 +1,17 @@
 ---
 dg-publish: true
 role: Targos Militia Captain
+age: Middle-Aged
 race: Tiefling
+gender: Man
+descriptors: ["Vigilant, Reticent"]
 ---
 
 > [!info]+
-> ## Targos Militia Captain
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 > ![[npc_Skath.png| 300]]
-
 
 ```dataview
 TABLE WITHOUT ID

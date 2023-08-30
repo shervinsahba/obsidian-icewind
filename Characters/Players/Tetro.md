@@ -5,9 +5,8 @@ race: Tortle
 ---
 
 > [!info]+
-> ## Tetro
-> ## Druid, Circle of the Stars
-> ### Background: Remote Stargazer
+> **`=this.role`**
+> Background: Remote Stargazer
 >![[pc - Tetro.png]]
 
 ![[advancement_druid.png]]

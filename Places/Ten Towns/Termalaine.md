@@ -18,6 +18,7 @@ SORT file.name
 
 ## The Eastlook
 Charming inn, made from a row of connected houses. Run by the willowy teen [[Marta Pekryk]] and her bed-ridden father.
+
 # Happenings
 ```dataview
 TABLE WITHOUT ID

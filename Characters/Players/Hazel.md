@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-role: Monk
+role: Monk, Way of the Sun Soul
 race: Halfling
 ---
 
 > [!info]+
-> ## Hazel Greenwater
-> ## Monk, Way of the Sun Soul
-> ### Background: Folk Hero
+> **`=this.role`**
+> Background: Folk Hero
 >![[pc - Hazel.png]]
 
 ![[advancement_monk.png]]

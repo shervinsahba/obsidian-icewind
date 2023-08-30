@@ -1,11 +1,16 @@
 ---
 dg-publish: true
 role: Speaker of Targos
-race: 
+age: Middle-Aged
+race: Human
+gender: Man
+descriptors: ["Slimy, Conniving, Sly"]
 ---
 
 > [!info]+
-> ## Speaker of Targos
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 >![[npc_Speaker_Naerth_Maxildanar_2.png| 300]]
 
 ```dataview

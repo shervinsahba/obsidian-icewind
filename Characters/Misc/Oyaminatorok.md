@@ -1,18 +1,21 @@
 ---
 dg-publish: true
 role: The Winter Walker
-race: Hafling
+age: Unknown-Aged
+race: Beast
+gender: ""
+descriptors: [""]
 ---
 
 > [!info]+
-> ## The Winter Walker
-> ![[npc_unknown.png| 300]]
-
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "Interactions" FROM "Chronicles"
+	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```

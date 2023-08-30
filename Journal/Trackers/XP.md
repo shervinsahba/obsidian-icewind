@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-**TOTAL**: 3600 since session 11.
+**TOTAL**: 4050 since session 12.
 
 ```dataview
 TABLE WITHOUT ID

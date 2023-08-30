@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-role: Barbarian
+role: Barbarian, Path of the Ancestral Guardian
 race: Half-orc
 ---
 
 > [!info]+
-> ## Oona the Cruncher
-> ## Barbarian, Path of the Ancestral Guardian
-> ### Background: Outlander
+> **`=this.role`**
+> Background: Outlander
 >![[pc - Oona.png]]
 
 ![[advancement_barbarian.png]]

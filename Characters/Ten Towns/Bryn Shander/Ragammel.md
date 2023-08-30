@@ -1,12 +1,16 @@
 ---
 dg-publish: true
 role: Arcane Brotherhood Contact
+age: Adult
 race: Human
+gender: Man
+descriptors: ["Rough, Rugged, Dependable"]
 ---
 
 > [!info]+
-> ## Arcane Brotherhood Contact
-> 
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID

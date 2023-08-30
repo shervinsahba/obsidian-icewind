@@ -1,11 +1,16 @@
 ---
 dg-publish: true
 role: Kobold Kommander
+age: Adult
 race: Kobold
+gender: Man
+descriptors: ["Boss, Total dragon, Badass wings"]
 ---
 
 > [!info]+
-> ## Kobold Kommander
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 > ![[npc_trex.png| 300]]
 
 

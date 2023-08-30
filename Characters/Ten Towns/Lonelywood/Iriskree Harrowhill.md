@@ -1,12 +1,16 @@
 ---
 dg-publish: true
 role: Shopkeeper of The Happy Scrimshander, Former Assassin
-race: Half-elf
+age: Middle-Aged
+race: Human
+gender: Woman
+descriptors: ["Doughy, Spinster, Nostalgic"]
 ---
 
 > [!info]+
-> ## Shopkeeper of The Happy Scrimshander, Former Assassin
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 
 ```dataview

@@ -1,18 +1,21 @@
 ---
 dg-publish: true
 role: Acolyte of Yondolla, Goddess of Protection
-race: Hafling
+age: Adult
+race: Halfling
+gender: Woman
+descriptors: ["Loyal, Religious, Brave"]
 ---
 
 > [!info]+
-> ## Acolyte of Yondolla, Goddess of Protection
-> ![[npc_unknown.png| 300]]
-
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "Interactions" FROM "Chronicles"
+	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```

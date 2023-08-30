@@ -5,9 +5,8 @@ race: Half-orc
 ---
 
 > [!info]+
-> ## Azgul
-> ## Warlock, Pact of the Hexblade
-> ### Background: Sage
+> **`=this.role`**
+> Background: Sage
 >![[pc - Azgul.png]]
 
 ![[advancement_warlock.png]]

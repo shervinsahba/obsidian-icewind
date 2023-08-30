@@ -1,11 +1,16 @@
 ---
 dg-publish: true
 role: Tavernkeeper of Kelvin's Comfort
+age: Middle-Aged
 race: Dwarf
+gender: Man
+descriptors: ["Proud, Hot-Headed, Good-Hearted"]
 ---
 
 > [!info]+
-> ## Tavernkeeper of Kelvin's Comfort
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 > ![[npc_Ogden_Flamebeard.png| 300]]
 
 > *Flamebeard's Firewater! I distill it meself. The good stuff right there!*

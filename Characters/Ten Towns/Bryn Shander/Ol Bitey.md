@@ -1,11 +1,16 @@
 ---
 dg-publish: true
 role: Singing Fish
-race: Knucklehead Trout
+age: Unknown-Aged
+race: "Knucklehead Trout"
+gender: Fish
+descriptors: ["Bitey, Old, Sonorous"]
 ---
 
 > [!info]+
-> ## Singing fish
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 > ![[ol-bitey.png| 300]]
 
 > *There's a place I like to go*

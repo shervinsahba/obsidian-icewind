@@ -1,12 +1,16 @@
 ---
 dg-publish: true
 role: Wilderness Guide
+age: Adult
 race: Human
+gender: Man
+descriptors: ["Rugged, Loyal"]
 ---
 
 > [!info]+
-> ## Wilderness Guide
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 
 
 ```dataview

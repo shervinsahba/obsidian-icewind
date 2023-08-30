@@ -1,11 +1,16 @@
 ---
 dg-publish: true
 role: Frost Druid
-race: Halfling
+age: Young Adult
+race: Human
+gender: Woman
+descriptors: ["Cruel, Sisterly, Vicious"]
 ---
 
 > [!info]+
-> ## Frost Druid
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 > ![[npc_ravisin.png| 300]]
 
 ```dataview

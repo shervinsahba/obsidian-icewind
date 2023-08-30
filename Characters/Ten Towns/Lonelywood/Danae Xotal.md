@@ -1,12 +1,16 @@
 ---
 dg-publish: true
-role: Tavernkeeper
+role: Tavernkeep of the Lucky Liar
+age: Adult
 race: Human
+gender: Woman
+descriptors: ["All-knowing, Shady, Vigilant"]
 ---
 
 > [!info]+
-> ## Tavernkeeper of the Lucky Liar
-> ![[npc_unknown.png| 300]]
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 
 ```dataview

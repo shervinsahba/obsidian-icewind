@@ -3,7 +3,7 @@ dg-publish: false
 ---
 
 ## About
-This site was made began as a Zettelkasten style notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). Theme: [vileplume](https://github.com/hungsu/vileplume-obsidian).
+This site was made began as a Zettelkasten style notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). The theme is called ITS.
 
 Junji's Tavern is our gaming group. Junji Ito is my dog ![[junji.png]].
 

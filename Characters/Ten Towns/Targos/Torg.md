@@ -1,17 +1,16 @@
 ---
 dg-publish: true
-role: Speaker of Lonelywood
+role: Merchant Caravaner
 age: Middle-Aged
-race: Halfling
-gender: Woman
-descriptors: ["Cheerful, Maternal, Kooky"]
+race: Dwarf
+gender: Man
+descriptors: ["Unscrupulous, Capistalistic, Shrewd"]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
-> ![[npc_Speaker_Nimsy_Huddle.png| 300]]
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID

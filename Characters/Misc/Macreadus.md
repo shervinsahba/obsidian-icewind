@@ -1,19 +1,22 @@
 ---
 dg-publish: true
 role: Hermit sage
+age: Unknown-Aged
 race: Human
+gender: Man
+descriptors: ["Inventor, Spirit, Petty"]
 ---
 
 > [!info]+
-> ## Hermit and sage
-![[npc_macreadus.png]]
-
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
+> ![[npc_macreadus.png]]
 
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "Interactions" FROM "Chronicles"
+	x AS "Interactions" FROM "Journal"
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```
-

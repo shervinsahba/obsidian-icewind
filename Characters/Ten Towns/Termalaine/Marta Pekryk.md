@@ -1,13 +1,16 @@
 ---
 dg-publish: true
-role: Innkeeper of the Eastlook
+role: Innkeeper of the Eastside
+age: Teenage
 race: Human
+gender: Woman
+descriptors: ["Caring, Tired, Singer"]
 ---
 
 > [!info]+
-> ## Innkeeper of the Eastlook
-> ![[npc_unknown.png| 300]]
-
+> **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID
@@ -16,3 +19,4 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,split(this.file.name," ")[0])
 SORT file.name DESC
 ```
+

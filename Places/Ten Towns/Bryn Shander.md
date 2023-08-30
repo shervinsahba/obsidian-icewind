@@ -5,7 +5,6 @@ dg-publish: true
 ![[map-BrynShander-updatedwithStormKing.png| 1000]]
 
 # Characters
-
 ```dataview 
 TABLE WITHOUT ID
   file.link AS "Character", role AS "Role", race AS "Race"
@@ -14,43 +13,25 @@ SORT file.name
 ```
 
 # Locations 
-
 ## Market Square
-> *The thriving market of Bryn Shander is the focal point of
-trade in Icewind Dale. Fishers, crafters, and merchants
-from the other towns all converge here. Caravans from
-the Sword Coast, dwarves from Ironmaster and Kelvin’s
-Cairn, and rarely, hunters from goliath tribes of the
-tundra all meet here as well.*
-- A carpenter was crafting a bulletin board.
-
 ## Blackiron Blades
-> *Not the finest craftsmanship, but they'll do in a pinch.*
-
+Local smith. Not the finest craftsmanship, but they'll do in a pinch.
 ## Kadu's Wonderous Scrolls
-- The shop was immaculate and empty. An enchantment on the door noted that the proprietor will be back some time later. 
-
+A mysterious magic shop, not initially open when the party first visited.
 ## Stables
-
 ## Council Hall
-
 ## Speaker's Palace
-
 ## Armory
-- Sheriff: [[Markham Southwell]]
-
+Armory used by the militia. Sheriff is [[Markham Southwell]].
 ## The Hooked Knucklehead
-- Tavern keeper is a half-orc who speaks Thieves Cant.
-- [[Zhentarim]] managed.
-
+[[Zhentarim]] managed tavern.
 ## The Northlook
-- Tavern keeper: [[Scramsaxx]]
-
+A well-frequented tavern. Tavern keeper [[Scramsaxx]] seems to know much local gossip. [[Ol Bitey]] lives on the wall.
 ## Kelvin's Comfort 
-- Tavern keeper: [[Ogden Flamebeard]]
-
+A comfortable inn and small tavern, whose keeper [[Ogden Flamebeard]] keeps busy due to his firewater whiskey.
 ## House of the Morninglord
-- Temple of [Lathander](https://forgottenrealms.fandom.com/wiki/Lathander) and shrine to [Amauntor](https://forgottenrealms.fandom.com/wiki/Amaunator), deities and aspects of the Sun, Spring, and Order.
+Temple of [Lathander](https://forgottenrealms.fandom.com/wiki/Lathander) and shrine to [Amauntor](https://forgottenrealms.fandom.com/wiki/Amaunator), deities and aspects of the Sun, Spring, and Order.
+
 # Happenings
 ```dataview
 TABLE WITHOUT ID
