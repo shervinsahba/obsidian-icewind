@@ -9,7 +9,7 @@ dg-publish: true
 ```dataview
 TABLE WITHOUT ID 
 	file.link as "§",
-	summary AS "Chronicle ([[Chronicles| see all]])" 
+	summary AS "Chronicle ([[Chronicles|see all]])" 
 FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP" AND file.name != "Loot" AND file.name != "Characters" AND file.name != "Chronicles"
 SORT file.name DESC
 LIMIT 3
