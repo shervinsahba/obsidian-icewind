@@ -4,7 +4,7 @@ role: Auril's Mount
 age: Unknown-Aged
 race: Roc
 gender: Unknown-Gender
-descriptors: [""]
+descriptors: [Primal, Predatory, Bird]
 ---
 
 > [!info]+

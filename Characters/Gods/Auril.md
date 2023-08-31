@@ -4,12 +4,14 @@ role: Goddess of Winter
 age: Ageless
 race: God
 gender: Woman
-descriptors: [Isolated, Cruel, Enduring]
+descriptors: [Isolated, Cruel, EnduriMiscng]
 ---
 
 > [!info]+
-> ## Auril, Goddess of Winter.
-> ### The Frostmaiden. Lady Icekiss.
+> **`=this.role`**
+> The Frostmaiden. Lady Icekiss.
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors` 
 > ![[auril_spark.png]]
 
 ```dataview
