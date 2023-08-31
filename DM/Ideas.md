@@ -69,3 +69,12 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [RotF Achievement List](https://old.reddit.com/r/rimeofthefrostmaiden/comments/jl7n42/rime_of_the_frostmaiden_achievements/)
 - [Grizzly's Grand Rework](https://old.reddit.com/r/rimeofthefrostmaiden/comments/iultgt/my_grand_rework_of_rime_of_the_frostmaiden/)
 - [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)
+- [Scary Good Mead flesh eating bees](https://old.reddit.com/r/rimeofthefrostmaiden/comments/oq3vfc/a_deliciously_scary_good_mead_alternative/)
+- [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
+
+Ideas about Ten Towns Council meetings:
+- [Voting results regarding Duergar](https://old.reddit.com/r/rimeofthefrostmaiden/comments/sqgwb1/what_are_the_results_of_an_allspeakers_meeting/)
+- [Speakers' opinions on each other](https://old.reddit.com/r/rimeofthefrostmaiden/comments/izlyx6/duvessa_shanes_guide_to_the_speakers_of_the_ten/)
+
+# General DMing Ideas and Tips
+- [Manage combat like a dolphin](https://theangrygm.com/manage-combat-like-a-dolphin/)
