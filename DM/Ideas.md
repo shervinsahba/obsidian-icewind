@@ -71,6 +71,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)
 - [Scary Good Mead flesh eating bees](https://old.reddit.com/r/rimeofthefrostmaiden/comments/oq3vfc/a_deliciously_scary_good_mead_alternative/)
 - [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
+- [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
 
 Ideas about Ten Towns Council meetings:
 - [Voting results regarding Duergar](https://old.reddit.com/r/rimeofthefrostmaiden/comments/sqgwb1/what_are_the_results_of_an_allspeakers_meeting/)
