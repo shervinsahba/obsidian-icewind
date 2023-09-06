@@ -4,7 +4,7 @@ role: Goddess of Winter
 age: Ageless
 race: God
 gender: Woman
-descriptors: [Isolated, Cruel, EnduriMiscng]
+descriptors: [Isolated, Cruel, Enduring]
 ---
 
 > [!info]+

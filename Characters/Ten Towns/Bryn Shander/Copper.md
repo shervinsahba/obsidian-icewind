@@ -4,7 +4,7 @@ role: Acolyte of Lathander
 age: Unknown-Aged
 race: Gnome
 gender: Man
-descriptors: [Curmodgeon, Intelligent, Furry]
+descriptors: [Curmudgeon, Intelligent, Furry]
 ---
 
 > [!info]+
