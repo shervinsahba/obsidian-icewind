@@ -73,6 +73,8 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
 - [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
 
+- [Levistwist where Auril was a former devil](https://old.reddit.com/r/Forgotten_Realms/comments/1767wix/what_would_the_repercussions_of_releasing/k4kndgj/)
+
 Ideas about Ten Towns Council meetings:
 - [Voting results regarding Duergar](https://old.reddit.com/r/rimeofthefrostmaiden/comments/sqgwb1/what_are_the_results_of_an_allspeakers_meeting/)
 - [Speakers' opinions on each other](https://old.reddit.com/r/rimeofthefrostmaiden/comments/izlyx6/duvessa_shanes_guide_to_the_speakers_of_the_ten/)
