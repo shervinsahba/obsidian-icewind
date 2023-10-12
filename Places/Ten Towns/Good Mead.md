@@ -13,6 +13,10 @@ SORT file.name
 ```
 
 # Locations
+## Mead Hall
+## Shrine of the Flaming Sword
+## Loggers Lodges
+
 # Happenings
 ```dataview
 TABLE WITHOUT ID
