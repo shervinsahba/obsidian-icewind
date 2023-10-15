@@ -62,6 +62,10 @@ FLATTEN x WHERE contains(x,"TheRamshackle")
 SORT file.name DESC
 ```
 
+
+
+
+# Completed Quests
 ## The Mead Must Flow
 ```dataview
 TABLE WITHOUT ID
@@ -78,8 +82,7 @@ SORT file.name DESC
 
 
 [[Icewind Quest | Return to homepage.]]
-# Completed Quests
-### Cold Hearted Killer
+## Cold Hearted Killer
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
@@ -88,7 +91,7 @@ FROM #ColdHeartedKiller
 FLATTEN x WHERE contains(x,"ColdHeartedKiller") 
 SORT file.name DESC
 ```
-## LakeMonster
+## Lake Monster
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
@@ -97,14 +100,15 @@ FROM #LakeMonster
 FLATTEN x WHERE contains(x,"LakeMonster") 
 SORT file.name DESC
 ```
-## Golden Dawn
+## The Golden Dawn
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Note", 
-	x AS "" FROM #GoldenDawn 
+	x AS "" FROM #TheGoldenDawn 
 FLATTEN x WHERE contains(x,"GoldenDawn") 
 SORT file.name DESC
 ```
+
 ## The White Moose
 ```dataview
 TABLE WITHOUT ID
@@ -167,4 +171,10 @@ SORT file.name DESC
 
 
 [[Icewind Quest | Return to homepage.]]
+[[Icewind Quest | Return to homepage.]]
+
+---
+
+Journal: **[[Chronicles]] | Quests |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]]**
+
 [[Icewind Quest | Return to homepage.]]

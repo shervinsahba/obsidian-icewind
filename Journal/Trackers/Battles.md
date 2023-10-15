@@ -9,4 +9,8 @@ FLATTEN x WHERE contains(x,"#battle")
 SORT file.name DESC
 ```
 
+---
+
+Journal: **[[Chronicles]] | [[Quests]] |  [[Characters]] | Battles | [[XP]] | [[Loot]]**
+
 [[Icewind Quest | Return to homepage.]]

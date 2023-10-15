@@ -10,5 +10,8 @@ FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.n
 FLATTEN loot
 ```
 
+---
+
+Journal: **[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | Loot**
 
 [[Icewind Quest | Return to homepage.]]

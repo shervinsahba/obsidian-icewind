@@ -7,7 +7,7 @@ The Arcane Brotherhood is a wizard guild that operated out of the Host Tower of 
 Wizards flock to Luskan every year to petition to join the Brotherhood, but almost all are immediately rejected. The Brotherhood grows by recruiting like-minded wizards who would otherwise be rivals.
 
 The people of [[Icewind Dale]] tend to be wary of the Brotherhood.
-# Members
+# Known Members and Happenings
 
 - [[Vellyne Harpell]]
 - [[Dzaan]]
@@ -19,6 +19,25 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,"ArcaneBrotherhood") 
 SORT file.name DESC
 ```
+
+## Vellyne Happenings
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Journal"
+FLATTEN x WHERE contains(x,"Vellyne Harpell") 
+SORT file.name DESC
+```
+
+## Dzaan Happenings
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Journal"
+FLATTEN x WHERE contains(x,"Vellyne Harpell") 
+SORT file.name DESC
+```
+
 
 # Images
 

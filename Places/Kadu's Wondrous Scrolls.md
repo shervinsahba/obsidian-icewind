@@ -15,3 +15,13 @@ Scrolls for sale! [[Kadu]] can also craft scrolls from spellbooks for half cost.
 
 1.  Comprehend languages (R), Detect magic (R), Expeditious retreat, Shield, Tenser's floating disk (R)
 2.  Alter self, Cloud of daggers, Scorching ray, Suggestion
+
+
+# Happenings
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Details" FROM "Journal"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

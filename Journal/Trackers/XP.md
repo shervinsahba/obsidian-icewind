@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-**TOTAL**: 4100 since session 13.
+**TOTAL**: 4600 since session 14.
 
 ```dataview
 TABLE WITHOUT ID
@@ -14,5 +14,9 @@ FLATTEN sum(rows.xp) AS Total
 ```
 
 ![[characteradvancement.png]]
+
+---
+
+Journal: **[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | XP | [[Loot]]**
 
 [[Icewind Quest | Return to homepage.]]
