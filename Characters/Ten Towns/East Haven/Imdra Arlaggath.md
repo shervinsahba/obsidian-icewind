@@ -1,17 +1,16 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Wizard
-age: Unknown-Aged
-race: Human
-gender: Man
-descriptors: [Ambitious, Erudite, Cunning, Dead]
+role: Captain of Easthaven's Militia
+age: Adult
+race: Elvish
+gender: Woman
+descriptors: [Merciless, Just, Veteran]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
-![[dzaan.png|300]]
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID
@@ -20,3 +19,4 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
+

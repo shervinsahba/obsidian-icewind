@@ -1,17 +1,16 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Wizard
-age: Unknown-Aged
-race: Human
-gender: Man
-descriptors: [Ambitious, Erudite, Cunning, Dead]
+role: Adventurer hired by Dzaan
+age: Adult
+race: Dwarf
+gender: Woman
+descriptors: [Dead]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors`
-![[dzaan.png|300]]
 
 ```dataview
 TABLE WITHOUT ID
