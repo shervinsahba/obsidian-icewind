@@ -12,6 +12,6 @@ FLATTEN loot
 
 ---
 
-Journal: **[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | Loot**
+Journal: **[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | Loot  | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
 
 [[Icewind Quest | Return to homepage.]]

@@ -2,6 +2,16 @@
 dg-publish: true
 ---
 
+## Dzaan is Dead
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #DzaanIsDead 
+FLATTEN x WHERE contains(x,"DzaanIsDead") 
+SORT file.name DESC
+```
+
 ## The Black Swords
 ```dataview
 TABLE WITHOUT ID
@@ -66,6 +76,15 @@ SORT file.name DESC
 
 
 # Completed Quests
+## White Lady Seance
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #WhiteLadySeance  
+FLATTEN x WHERE contains(x,"WhiteLadySeance") 
+SORT file.name DESC
+```
 ## The Mead Must Flow
 ```dataview
 TABLE WITHOUT ID
@@ -169,12 +188,10 @@ FLATTEN x WHERE contains(x,"SpecialDelivery")
 SORT file.name DESC
 ```
 
-
-[[Icewind Quest | Return to homepage.]]
-[[Icewind Quest | Return to homepage.]]
+# 
 
 ---
 
-Journal: **[[Chronicles]] | Quests |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]]**
+Journal: **[[Chronicles]] | Quests |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]]  | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
 
 [[Icewind Quest | Return to homepage.]]
