@@ -1,17 +1,17 @@
 ---
 dg-publish: true
 role: Arcane Brotherhood Wizard
-age: Unknown-Aged
+age: Old
 race: Human
-gender: Man
-descriptors: ["Ambitious, Erudite, Cunning, Dead"]
+gender: Woman
+descriptors: [Pragmatic, Astute, Wealthy]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
-![[dzaan.png|300]]
+> `=this.descriptors` 
+> ![[vellynne.png| 300]]
 
 ```dataview
 TABLE WITHOUT ID
@@ -20,3 +20,4 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
+

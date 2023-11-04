@@ -29,7 +29,7 @@ dg-publish: false
 2.  Cloud of daggers, Detect thoughts, Melf's acid arrow
 3.  Clairvoyance, Counterspell
 
-**Vellyne Harpell's Spellbook** (found in her possesion)
+**Vellynne Harpell's Spellbook** (found in her possesion)
 
 1.  Comprehend languages, Detect magic, False life, Find familiar, Protection from Evil and Good, Ray of sickness, Shield, Tasha's hideous laughter, Tenser's floating disk
 2.  Blindness/Deafness, Darkvision, Hold person, Magic weapon, Ray of enfeeblement

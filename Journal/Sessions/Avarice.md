@@ -1,17 +1,17 @@
 ---
 dg-publish: true
 role: Arcane Brotherhood Wizard
-age: Old
-race: Human
+age: Adult
+race: Tiefling
 gender: Woman
-descriptors: [Pragmatic, Astute, Wealthy]
+descriptors: [Haughty, Ambitious, Prodigy]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
-> ![[npc_vellyne.png.png| 300]]
+> ![[avarice_portrait.png|300]]
 
 ```dataview
 TABLE WITHOUT ID

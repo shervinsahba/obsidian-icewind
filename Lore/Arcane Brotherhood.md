@@ -9,8 +9,9 @@ Wizards flock to Luskan every year to petition to join the Brotherhood, but almo
 The people of [[Icewind Dale]] tend to be wary of the Brotherhood.
 # Known Members and Happenings
 
-- [[Vellyne Harpell]]
+- [[Vellynne Harpell]]
 - [[Dzaan]]
+- [[Avarice]]
 
 ```dataview
 TABLE WITHOUT ID
@@ -20,12 +21,12 @@ FLATTEN x WHERE contains(x,"ArcaneBrotherhood")
 SORT file.name DESC
 ```
 
-## Vellyne Happenings
+## Vellynne Happenings
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
-FLATTEN x WHERE contains(x,"Vellyne Harpell") 
+FLATTEN x WHERE contains(x,"Vellynne Harpell") 
 SORT file.name DESC
 ```
 
@@ -34,10 +35,18 @@ SORT file.name DESC
 TABLE WITHOUT ID
 	file.link AS "§", 
 	x AS "Interactions" FROM "Journal"
-FLATTEN x WHERE contains(x,"Vellyne Harpell") 
+FLATTEN x WHERE contains(x,"Dzaan") 
 SORT file.name DESC
 ```
 
+## Avarice Happenings
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Journal"
+FLATTEN x WHERE contains(x,"Avarice") 
+SORT file.name DESC
+```
 
 # Images
 
