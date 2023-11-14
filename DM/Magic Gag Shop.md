@@ -1,6 +1,7 @@
 
 **Nether Scrolls**
 Can't tell whose Nethers, cause they're wrapped.
+Originally known as the Golden Skins of the World Serpent, the Nether Scrolls were the name given to one set of fifty scrolls that dealt with fundamental magic theory. It is unlikely that these particular nether scrolls are the same.
 
 **Arrow of Sleighing**
 GP Value: 50
