@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Wizard
+role: Adventurer hired by Dzaan
 age: Young Adult
 race: Tiefling
-gender: Man
-descriptors: [Dead]
+gender: Woman
+descriptors: [DEAD]
 ---
 
 > [!info]+

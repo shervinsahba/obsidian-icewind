@@ -4,7 +4,7 @@ role: Arcane Brotherhood Wizard
 age: Unknown-Aged
 race: Human
 gender: Man
-descriptors: [Ambitious, Erudite, Cunning, Dead]
+descriptors: [Ambitious, Erudite, Cunning, DEAD]
 ---
 
 > [!info]+

@@ -4,7 +4,7 @@ role: Frost Druid
 age: Young Adult
 race: Human
 gender: Woman
-descriptors: [Cruel, Sisterly, Vicious]
+descriptors: [Cruel, Sisterly, Vicious, DEAD]
 ---
 
 > [!info]+

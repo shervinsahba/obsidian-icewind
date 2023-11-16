@@ -3,8 +3,8 @@ dg-publish: true
 role: Adventurer hired by Dzaan
 age: Adult
 race: Dwarf
-gender: Woman
-descriptors: [Dead]
+gender: Unknown
+descriptors: [DEAD]
 ---
 
 > [!info]+

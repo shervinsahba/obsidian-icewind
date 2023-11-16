@@ -4,7 +4,7 @@ role: The Winter Walker
 age: Unknown-Aged
 race: Beast
 gender: "Unknown-Gender"
-descriptors: [""]
+descriptors: [Mysterious, Beastial, Legend]
 ---
 
 > [!info]+

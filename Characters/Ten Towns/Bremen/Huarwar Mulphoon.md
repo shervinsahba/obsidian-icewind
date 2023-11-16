@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Innkeeper's Son at Buried Treasures
+role: Missing Innkeeper's Son at Buried Treasures
 age: Young
 race: Human
 gender: Man
-descriptors: [""]
+descriptors: ["Heroic","Recently change in demeanor","Missing"]
 ---
 
 > [!info]+

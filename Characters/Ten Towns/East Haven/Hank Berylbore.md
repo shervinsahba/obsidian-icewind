@@ -4,7 +4,7 @@ role: Adventurer hired by Dzaan
 age: Adult
 race: Halfling
 gender: Man
-descriptors: [Dead]
+descriptors: [DEAD]
 ---
 
 > [!info]+
