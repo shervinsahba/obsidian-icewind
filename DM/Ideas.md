@@ -73,7 +73,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Scary Good Mead flesh eating bees](https://old.reddit.com/r/rimeofthefrostmaiden/comments/oq3vfc/a_deliciously_scary_good_mead_alternative/)
 - [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
 - [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
-
+- [Look up the Duergar from Into the Abyss](https://old.reddit.com/r/rimeofthefrostmaiden/comments/17ufw7j/going_to_chapter_3_too_early_or_too_late/k94poth/)
 - [Levistwist where Auril was a former devil](https://old.reddit.com/r/Forgotten_Realms/comments/1767wix/what_would_the_repercussions_of_releasing/k4kndgj/)
 
 Ideas about Ten Towns Council meetings:
