@@ -83,3 +83,6 @@ Ideas about Ten Towns Council meetings:
 # General DMing Ideas and Tips
 - [Manage combat like a dolphin](https://theangrygm.com/manage-combat-like-a-dolphin/)
 - [Angry GM's Tension Pool](https://theangrygm.com/definitive-tension-pool/)
+
+# Monsters
+- [Rime Hulk from BGG](https://5e.tools/bestiary/rime-hulk-bgg.html)
