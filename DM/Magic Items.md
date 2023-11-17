@@ -1,4 +1,4 @@
-
+## My Brew
 
 **Frost Giant's Greataxe**
 Hugely Heavy, Martial, Two-handed
@@ -11,13 +11,21 @@ _Hugely Heavy._ The wielder must be size Medium or larger to hold the giant grea
 
 
 
+## Other Homebrew
+
 +1 Studded Leather armor made from blink dog skin, inset with blink dog teeth. Allows the wearer to use _Misty Step_ once or twice a day.
 
 
 +1 club that's just a frozen knucklehead trout
 
 
+## WotC
+
 _Nature's Mantle_ (from Tasha's) made out of crag cat hide.
 
 
+## Griffon's Saddlebag
+
 [Forgekeeper's Spark](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/l217xn/the_griffons_saddlebag_forgekeepers_spark/)
+
+[Winterland Foot Wraps](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/17xif90/the_griffons_saddlebag_winterland_foot_wraps/)
