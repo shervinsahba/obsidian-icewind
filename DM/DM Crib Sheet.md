@@ -2,10 +2,40 @@
 dg-publish: false
 ---
 
-![[Pasted image 20231031212915.png]]
+# Combat
 
-![[Pasted image 20231031212925.png]]
+![[damage-severity.png]]
 
-![[Pasted image 20231031220156.png]]
+![[damage-improvised.png]]
 
-![[Pasted image 20231101190153.png]]
+![[mob-attacks.png]]
+
+![[mob-attacks+0.png]]
+
+
+# Shopping
+
+![[shopping-magic-items.png]]
+
+![[shopping-magic-items-complications.png]]
+
+![[shopping-AL-item-shop.png]]
+
+
+# Crafting
+
+![[crafting-magic-items.png]]
+
+![[crafting-magic-item-ingredient-monster-rarity.png]]
+
+![[crafting-potions-of-healing.png]]
+
+# Crime
+
+![[crime-robbery.png]]
+
+![[crime-complications.png]]
+
+![[pit-fighting.png]]
+
+![[pit-fighting-complications.png]]
