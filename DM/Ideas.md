@@ -76,11 +76,16 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Look up the Duergar from Into the Abyss](https://old.reddit.com/r/rimeofthefrostmaiden/comments/17ufw7j/going_to_chapter_3_too_early_or_too_late/k94poth/)
 - [Levistwist where Auril was a former devil](https://old.reddit.com/r/Forgotten_Realms/comments/1767wix/what_would_the_repercussions_of_releasing/k4kndgj/)
 - [Arveiturace Encounter Text](https://old.reddit.com/r/rimeofthefrostmaiden/comments/veji4g/arveiaturace_introduction_text/)
+- [Fixing the Nautiloid](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wgwba0/giving_my_players_the_nautiloid_assistance/ij4uk0q/)
 
+- [Travel Roles a la Lazy GM](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15sd454/travel_roles/)
+- [Lazy GM Guide](https://slyflourish.com/lazy_gm_resource_document.html#wildernesstravel)
+- [Dragon's Hoard Dice Game](https://old.reddit.com/r/rimeofthefrostmaiden/comments/153jj5x/dragons_hoard_a_tavern_gambling_game_for_your/)
 
 Ideas about Ten Towns Council meetings:
 - [Voting results regarding Duergar](https://old.reddit.com/r/rimeofthefrostmaiden/comments/sqgwb1/what_are_the_results_of_an_allspeakers_meeting/)
 - [Speakers' opinions on each other](https://old.reddit.com/r/rimeofthefrostmaiden/comments/izlyx6/duvessa_shanes_guide_to_the_speakers_of_the_ten/)
+- [Dirt that Naerth could have on others](https://old.reddit.com/r/rimeofthefrostmaiden/comments/11zxlqb/what_kind_of_dirt_would_naerth_have_on_the_other/)
 
 # General DMing Ideas and Tips
 - [Manage combat like a dolphin](https://theangrygm.com/manage-combat-like-a-dolphin/)
