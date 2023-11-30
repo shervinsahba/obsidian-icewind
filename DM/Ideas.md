@@ -35,7 +35,6 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 
 - Eventyr's Guide
 - Crafting Guide
-- [Prisoner 13 at Revel's End](https://www.dndbeyond.com/claim/source/prisoner-13)
 - [Kuldahar by Daniel Khan](https://www.dmsguild.com/product/439455/Kuldahar--expanded-maps-and-content-for-Rime-of-the-Frostmaiden?affiliate_id=1912102&src=danreddit). A level 6-7 adventure set after chapter 4 in RotF.
 - [Hexcrawl Guide by The Alexandrian](https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl)
 - [Pointcrawl Guide by The Alexandrian](https://thealexandrian.net/wordpress/48666/roleplaying-games/pointcrawls)
@@ -96,3 +95,8 @@ Ideas about Ten Towns Council meetings:
 
 # Vellynne
 By ExcelLynt: because of her pet necromancer background, I gave Vellynne a custom spell to handwave how Animate Dead works with regards to how normally you'd need to cast animate dead every day to create and maincain control of them, which is inconvenient when you need to maintain 8 zombie sled dogs. It hasn't actually come up at the table but she has Animate Pet (name pending) and once cast, they stay docile as long as they're within like, 300 feet of her, since the "timer" for them doesn't count down as long as they know their master is near. The spell is under review with the Arcane Brotherhood and once her research and the spell published and credited under her name, no one else can learn it 😛
+
+
+# Revel's End
+- [Prisoner 13](https://www.dndbeyond.com/claim/source/prisoner-13)
+- [False Hydra music](https://www.youtube.com/watch?v=q85zE0JQamc)
