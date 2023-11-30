@@ -73,10 +73,8 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
 - [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
 - [Look up the Duergar from Into the Abyss](https://old.reddit.com/r/rimeofthefrostmaiden/comments/17ufw7j/going_to_chapter_3_too_early_or_too_late/k94poth/)
-- [Levistwist where Auril was a former devil](https://old.reddit.com/r/Forgotten_Realms/comments/1767wix/what_would_the_repercussions_of_releasing/k4kndgj/)
 - [Arveiturace Encounter Text](https://old.reddit.com/r/rimeofthefrostmaiden/comments/veji4g/arveiaturace_introduction_text/)
 - [Fixing the Nautiloid](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wgwba0/giving_my_players_the_nautiloid_assistance/ij4uk0q/)
-
 - [Travel Roles a la Lazy GM](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15sd454/travel_roles/)
 - [Lazy GM Guide](https://slyflourish.com/lazy_gm_resource_document.html#wildernesstravel)
 - [Dragon's Hoard Dice Game](https://old.reddit.com/r/rimeofthefrostmaiden/comments/153jj5x/dragons_hoard_a_tavern_gambling_game_for_your/)
@@ -100,3 +98,7 @@ By ExcelLynt: because of her pet necromancer background, I gave Vellynne a custo
 # Revel's End
 - [Prisoner 13](https://www.dndbeyond.com/claim/source/prisoner-13)
 - [False Hydra music](https://www.youtube.com/watch?v=q85zE0JQamc)
+- [False Hydra tips](https://www.youtube.com/watch?v=j8s6GD3c218)
+
+# Levistwist
+- [Levistwist where Auril was a former devil](https://old.reddit.com/r/Forgotten_Realms/comments/1767wix/what_would_the_repercussions_of_releasing/k4kndgj/)
