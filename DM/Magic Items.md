@@ -29,3 +29,5 @@ _Nature's Mantle_ (from Tasha's) made out of crag cat hide.
 [Forgekeeper's Spark](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/l217xn/the_griffons_saddlebag_forgekeepers_spark/)
 
 [Winterland Foot Wraps](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/17xif90/the_griffons_saddlebag_winterland_foot_wraps/)
+
+[Spell Bolt Wraps](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/188ffba/the_griffons_saddlebag_spell_bolt_wraps_wondrous/)
