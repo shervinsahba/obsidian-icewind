@@ -11,6 +11,9 @@ dg-publish: true
 	- **Shields cover the front**. Shields only add to AC when facing the threat.
 - **Meta-combat round.** Each round of combat may have a one-minute player phase where meta strategy can be discussed. During combat, collaborating is encouraged via what can reasonably be articulated by a character, but lengthy discussion is discouraged.
 
+## Spellcasting
+- **Spell scrolls**. This house rule extends spell scroll casting to all classes. The caster must pass a check using their spellcasting ability or INT if they do not have a spellcasting ability. RAW, you can use a spell scroll if the spell is on your class list, and if it's of a higher level than you can normally cast, you must pass a DC 10+(spell level) check using your spellcasting ability else the spell fizzles. This rule extends casting to spell scrolls not on your class list, using a DC 10+2x(spell level) check, which applies to non-casters as well.
+
 ## Death, Injury, and Massive Damage
 - **Dying Status**. Unconscious status is boring, so hitting 0 HP enters you into the *dying* condition unless otherwise stated. 
 	- Roll death saving throws at the start of your turn like normal. 
