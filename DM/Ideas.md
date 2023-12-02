@@ -102,3 +102,15 @@ By ExcelLynt: because of her pet necromancer background, I gave Vellynne a custo
 
 # Levistwist
 - [Levistwist where Auril was a former devil](https://old.reddit.com/r/Forgotten_Realms/comments/1767wix/what_would_the_repercussions_of_releasing/k4kndgj/)
+
+What would be the repercussions of releasing Levistus?
+
+Short answer is: not much. What I mean is that Levistus is already lord of the fifth and while he wants to be freed above all else, he doesn't realize that being free also means more vulnerable. The enemies he made over the milenia who couldn't reach him now can, and he will quickly realize the ambitions he has, the same ambitions than any other devil has, to improve his status are still as out of reach as they were, but now he has to worry about his own safety. So basically, his freedom achieved nothing except his own mobility at the cost of vulnerability, and the status quo of Baator remains.
+
+So that leaves Asmodeus, the one who imprisoned him, and how he will react. Well in my game that is actually his plan, he wants Levistus to be freed. And as you might expect, the reasons are part of a design that goes back ages. It starts with Levistus trying to bring Benzozia (the consort of Asmodeus) to his side, and as a result she died and Levistus was imprisoned and lost his lordship of Stygia, according to everyone at least. The truth is that Levistus completely failed to manipulate Benzozia, she told Asmodeus, Asmodeus saw an opportunity, killed her himself and put the blame of Levistus. He then made a deal with an upcoming devil of Stygia, a baroness of Hell with powerful ice-manipulation talents, named Auril.
+
+That's right, in my game the Goddess of Winter Auril used to be a devil, and ascended during the Dawn Age thanks to her help against the primordials where she defeated her rival Dur Baagal. That was made possible with the powers Asmodeus granted her, using the soul of Benzozia. In exchange, she simply had to create the ice prison that would be the jail of Levistus, if the prison ever failed then she would have to give her powers back to Asmodeus. But we now know something Auril could not have predicted then, that she became a goddess since, something Asmodeus predicted. And as a result, should a group of adventurers free Levistus, Auril would give her powers back to Asmodeus, which now include godhood (in my game Asmodeus hasn't ascended yet, but even if he did more power the better right?).
+
+So Asmodeus is now near the end of a 30000 years secret plan to free Levistus, even though everyone think he wants the opposite. Which is why Auril has been sending waves after waves of servants against the party and they have no idea why, because if they succeed she loses everything. And that is also why some unknown devils and cultist have been seemingly helping them, those are servants of Asmodeus who are bound to not help the party free Levistus, but can absolutely stop the Aurilites as best they can.
+
+In my mind, Asmodeus would never let Levistus be freed if he didn't want to, so I had to find a reason why it would actually benefit him instead, but so that he couldn't just do it himself either.
