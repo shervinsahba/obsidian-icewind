@@ -84,6 +84,9 @@ Ideas about Ten Towns Council meetings:
 - [Speakers' opinions on each other](https://old.reddit.com/r/rimeofthefrostmaiden/comments/izlyx6/duvessa_shanes_guide_to_the_speakers_of_the_ten/)
 - [Dirt that Naerth could have on others](https://old.reddit.com/r/rimeofthefrostmaiden/comments/11zxlqb/what_kind_of_dirt_would_naerth_have_on_the_other/)
 
+# Other DM's Documents
+- [Rebel](https://docs.google.com/document/d/1KmECWjYWDWIeOX6_BlFcvQoJiXVgHk9gkNE8lAlwlsI)
+
 # General DMing Ideas and Tips
 - [Manage combat like a dolphin](https://theangrygm.com/manage-combat-like-a-dolphin/)
 - [Angry GM's Tension Pool](https://theangrygm.com/definitive-tension-pool/)
