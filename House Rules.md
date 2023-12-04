@@ -17,9 +17,9 @@ dg-publish: true
 ## Death, Injury, and Massive Damage
 - **Dying Status**. Unconscious status is boring, so hitting 0 HP enters you into the *dying* condition unless otherwise stated. 
 	- Roll death saving throws at the start of your turn like normal. 
-	- Fall *prone*. You cannot use movement or any of your actions to stand up while *dying*.
+	- Fall *prone*. You cannot use movement or any of your actions to stand up while *dying*, nor can you jump, climb, fly, swim, or burrow.
 	- You may move while *dying*. Because you are prone, your movement is halved. You cannot jump or climb.
-	- You may use an action, bonus action, or reaction. However each action creates 2 levels of exhaustion. Bonus actions, reactions, and other special actions create 1 level of exhaustion.
+	- You may use either your action or bonus action. However each action creates 2 levels of exhaustion. 
  - **Massive Damage.** Taking massive damage (>50% HP) may result in a CON save to see if *something like* a [System Shock](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#MassiveDamage) effect occurs. Taking massive damage that knocks you unconscious may result in *something like* a [lingering injury](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries).
 
 ## Character Building
