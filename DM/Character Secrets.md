@@ -32,15 +32,16 @@ dg-publish: false
 2. **The Awakener.** You learned (at Monk University) of a druidic monk who ventured to the northernmost reaches of Icewind Dale. Your mentor Palar knew the monk before she took hermitage near the Sea of Moving ice. She was said to have achieved oneness with the sea itself. Palar believes you are her reincarnation, and if it's true, you will find the path yourself.
 
 # Fern
-1. **Treasure at Revel's End.**
+1. **Revel Rebel.** You knew an acquaintance who wound up in Revel's End. They know the location of a magical weapons cache hidden in Icewind Dale.
 
 
 
 # Cleaned up:
-- **The Starseer**. Several weeks before reaching the Ten Towns, you observed a falling star touch down over the Spine of the World. (possible hook: Id Ascendant or some encounter I'll make up if they skip that)
-- **The Oracle**. While tracking the night sky, you saw/heard mystical signs and had visions of a cataclysmic meteor that was due to strike the glaciers of the north. (possible hooks: fall of Ythryn and the Scroll of the Comet)
-- **Bacchanal Belly**. You're kinda a big deal at the taverns. Maybe it's the fey blood in you or perhaps your great-great-grandpapa laid a stone-gutted dwarf. In either case, you can drink the house down and perhaps tolerate other noxious substances with more grace than most. (no hook, just fun)
+- **The Starseer**. Several weeks before reaching the Ten Towns, you observed a falling star touch down over the Spine of the World.
+- **The Oracle**. While tracking the night sky, you saw/heard mystical signs and had visions of a cataclysmic meteor that was due to strike the glaciers of the north.
+- **Bacchanal Belly**. You're kinda a big deal at the taverns. Maybe there's fey blood in you or perhaps your great-great-grandpapa bedded a stone-gutted dwarf. In either case, you can drink the house down and tolerate other noxious substances with more grace than most.
 - **Ex-Zhentarim**. You were a former member of the Zhentarim thieves guild. There are too many in Icewind Dale for you to know them all, but you do know Naerth Maxildannar - the current Speaker of Targos. Naerth seems to like you. You get advantage on persuasion and insight checks with Zhentarim you identify.
-- **Brotherhood.** The wizard Dzaan gave you access to the Arcane Brotherhood Host Tower in Luskan a half year ago under his... supervision. In exchange, Dzaan embedded you with a Thayan mark of control that allows him to use Suggestion on you. (gave this character Arcane Brotherhood lore to start with)
-- **The Awakener.** You learned of a monk who ventured to the northernmost reaches of Icewind Dale in druidic pursuits at the Sea of Moving Ice. Your mentor knew the monk before she took hermitage and believes you are her reincarnation. (hooks into Anga and befriending Angajuk)
+- **Brotherhood.** The wizard Dzaan gave you access to the Arcane Brotherhood Host Tower in Luskan a half year ago under his... supervision. In exchange, Dzaan embedded you with a Thayan mark of control that allows him to use Suggestion on you.
+- **The Awakener.** You learned of a monk who ventured to the northernmost reaches of Icewind Dale in druidic pursuits at the Sea of Moving Ice. Your mentor knew the monk before she took hermitage and believes you are her reincarnation.
+- **Revel Rebel.** You knew an acquaintance who wound up in Revel's End. They know the location of a magical weapons cache hidden in Icewind Dale.
    
