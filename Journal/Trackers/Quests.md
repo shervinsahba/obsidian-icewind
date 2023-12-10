@@ -9,7 +9,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #DzaanIsDead 
 FLATTEN x WHERE contains(x,"DzaanIsDead") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## The Black Swords
@@ -19,7 +19,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #BlackSwords 
 FLATTEN x WHERE contains(x,"BlackSwords") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## Nature Spirits
@@ -29,7 +29,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #NatureSpirits 
 FLATTEN x WHERE contains(x,"NatureSpirits") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 
@@ -40,7 +40,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #DarkDuchess 
 FLATTEN x WHERE contains(x,"DarkDuchess") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## The Whale Hunters and Angajuk's Bell
@@ -50,7 +50,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #WhaleHunters 
 FLATTEN x WHERE contains(x,"WhaleHunters") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## The Signal and the Id
@@ -60,7 +60,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #TheSignal 
 FLATTEN x WHERE contains(x,"TheSignal") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 ## The Ramshackle
 ```dataview
@@ -69,7 +69,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #TheRamshackle 
 FLATTEN x WHERE contains(x,"TheRamshackle") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 
@@ -83,7 +83,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #WhiteLadySeance  
 FLATTEN x WHERE contains(x,"WhiteLadySeance") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 ## The Mead Must Flow
 ```dataview
@@ -92,7 +92,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #TheMeadMustFlow 
 FLATTEN x WHERE contains(x,"TheMeadMustFlow") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 
@@ -108,7 +108,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #ColdHeartedKiller 
 FLATTEN x WHERE contains(x,"ColdHeartedKiller") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 ## Lake Monster
 ```dataview
@@ -117,7 +117,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #LakeMonster 
 FLATTEN x WHERE contains(x,"LakeMonster") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 ## The Golden Dawn
 ```dataview
@@ -125,7 +125,7 @@ TABLE WITHOUT ID
 	file.link AS "Note", 
 	x AS "" FROM #TheGoldenDawn 
 FLATTEN x WHERE contains(x,"GoldenDawn") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## The White Moose
@@ -135,7 +135,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #TheWhiteMoose 
 FLATTEN x WHERE contains(x,"TheWhiteMoose") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## A Beautiful Mine
@@ -145,7 +145,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #ABeautifulMine 
 FLATTEN x WHERE contains(x,"ABeautifulMine") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## Mountain Climb
@@ -155,7 +155,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #MountainClimb
 FLATTEN x WHERE contains(x,"MountainClimb") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## Armored Corps
@@ -165,7 +165,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #ArmoredCorps 
 FLATTEN x WHERE contains(x,"ArmoredCorps") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## Frosted Mugs
@@ -175,7 +175,7 @@ TABLE WITHOUT ID
 	x AS "" 
 FROM #FrostedMugs 
 FLATTEN x WHERE contains(x,"FrostedMugs") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 ## Special Delivery
@@ -185,7 +185,7 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #SpecialDelivery
 FLATTEN x WHERE contains(x,"SpecialDelivery") 
-SORT file.name DESC
+SORT file.name ASC
 ```
 
 # 
