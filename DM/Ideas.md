@@ -86,6 +86,7 @@ Ideas about Ten Towns Council meetings:
 
 # Other DM's Documents
 - [Rebel](https://docs.google.com/document/d/1KmECWjYWDWIeOX6_BlFcvQoJiXVgHk9gkNE8lAlwlsI)
+- [Ghost Dragon's Mithril Forge Rules Compendium](https://homebrewery.naturalcrit.com/share/1rGhTuWifAZZcxfzIWwUuRpz4FiQRrP2QMM3qSnkaeEBO)
 
 # General DMing Ideas and Tips
 - [Manage combat like a dolphin](https://theangrygm.com/manage-combat-like-a-dolphin/)
