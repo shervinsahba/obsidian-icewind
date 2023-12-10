@@ -93,6 +93,7 @@ Ideas about Ten Towns Council meetings:
 
 # Monsters
 - [Rime Hulk from BGG](https://5e.tools/bestiary/rime-hulk-bgg.html)
+- [Ghost Dragon's Statblocks](https://homebrewery.naturalcrit.com/share/LCWt7BtH9XiX)
 
 # Vellynne
 By ExcelLynt: because of her pet necromancer background, I gave Vellynne a custom spell to handwave how Animate Dead works with regards to how normally you'd need to cast animate dead every day to create and maincain control of them, which is inconvenient when you need to maintain 8 zombie sled dogs. It hasn't actually come up at the table but she has Animate Pet (name pending) and once cast, they stay docile as long as they're within like, 300 feet of her, since the "timer" for them doesn't count down as long as they know their master is near. The spell is under review with the Arcane Brotherhood and once her research and the spell published and credited under her name, no one else can learn it 😛
