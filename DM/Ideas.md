@@ -29,10 +29,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - Vaelish was jailed for a plot to overthrow Ten Towns. That sounds like Zhentarim dealings. Perhaps he had an alliance with Naerth. A jailbreaked Vaelish could be welcomed back into the Zhentarim fold. Alternatively, perhaps Vaelish overstepped his bounds, and Naerth arranged for his arrest. In any case, he could be useful for campaigns that emphasize the Zhentarim.
 - The Reghed Camp also looks perfect for some sort of barbaric ritual to conjure an avatar of Auril and foreshadow the Tests of the Frostmaiden.
 
-
-
 # Supplements
-
 - Eventyr's Guide
 - Crafting Guide
 - [Kuldahar by Daniel Khan](https://www.dmsguild.com/product/439455/Kuldahar--expanded-maps-and-content-for-Rime-of-the-Frostmaiden?affiliate_id=1912102&src=danreddit). A level 6-7 adventure set after chapter 4 in RotF.
@@ -57,21 +54,10 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Frostboard](https://miro.com/app/board/o9J_l5ch25E=/)
 - [Cult of Auril Statblocks and Lore by Robinthesecond](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1419fb0/expand_the_ranks_of_the_frost_druids_with_the/)
 - [Chardalyn Curse Mechanics](https://old.reddit.com/r/rimeofthefrostmaiden/comments/13sx6xr/proper_chardylyn_curse/)
-- [Crater left by Ythryn](https://old.reddit.com/r/rimeofthefrostmaiden/comments/13tgx6y/maps_for_the_crater_left_by_ythryn/)
-- [Lonelywood and White Moose Guide](https://old.reddit.com/r/rimeofthefrostmaiden/comments/k0s8gv/dm_guide_lonelywood_the_white_moose/)
 - [Sephek Kaltro, Coldlight Vampire](https://old.reddit.com/r/rimeofthefrostmaiden/comments/tu1rg7/sephek_kaltro_coldlight_vampire/)
-- [Black Cabin Rewrite](https://old.reddit.com/r/rimeofthefrostmaiden/comments/p4j92i/revamped_black_cabin_quest/)
-- [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
-- [How to run Auril for 14th level PCs](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wso70t/how_i_ran_a_satisfying_auril_fight_for_14th_lvl/)
-- [Basho's Rewrite of Xardorok](https://www.outsidecontext.com/2023/06/03/basho-rewrites-sunblight/)
 - [The Tenets of Auril Symbolized](https://old.reddit.com/r/rimeofthefrostmaiden/comments/vgwdvl/the_tenets_of_auril_symbolized/)
 - [RotF Achievement List](https://old.reddit.com/r/rimeofthefrostmaiden/comments/jl7n42/rime_of_the_frostmaiden_achievements/)
 - [Grizzly's Grand Rework](https://old.reddit.com/r/rimeofthefrostmaiden/comments/iultgt/my_grand_rework_of_rime_of_the_frostmaiden/)
-- [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)
-- [Alternative Tests of the Frostmaiden by Mithril Forge](https://docs.google.com/document/d/1HwVAAvAw8_BqRjKRD-bwyrFgAEBG4nzpGCArhwVlNC4/edit)
-- [Scary Good Mead flesh eating bees](https://old.reddit.com/r/rimeofthefrostmaiden/comments/oq3vfc/a_deliciously_scary_good_mead_alternative/)
-- [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
-- [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
 - [Look up the Duergar from Into the Abyss](https://old.reddit.com/r/rimeofthefrostmaiden/comments/17ufw7j/going_to_chapter_3_too_early_or_too_late/k94poth/)
 - [Arveiturace Encounter Text](https://old.reddit.com/r/rimeofthefrostmaiden/comments/veji4g/arveiaturace_introduction_text/)
 - [Fixing the Nautiloid](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wgwba0/giving_my_players_the_nautiloid_assistance/ij4uk0q/)
@@ -83,6 +69,26 @@ Ideas about Ten Towns Council meetings:
 - [Voting results regarding Duergar](https://old.reddit.com/r/rimeofthefrostmaiden/comments/sqgwb1/what_are_the_results_of_an_allspeakers_meeting/)
 - [Speakers' opinions on each other](https://old.reddit.com/r/rimeofthefrostmaiden/comments/izlyx6/duvessa_shanes_guide_to_the_speakers_of_the_ten/)
 - [Dirt that Naerth could have on others](https://old.reddit.com/r/rimeofthefrostmaiden/comments/11zxlqb/what_kind_of_dirt_would_naerth_have_on_the_other/)
+
+# Chapter 1
+- [Scary Good Mead flesh eating bees](https://old.reddit.com/r/rimeofthefrostmaiden/comments/oq3vfc/a_deliciously_scary_good_mead_alternative/)
+- [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
+- [Lonelywood and White Moose Guide](https://old.reddit.com/r/rimeofthefrostmaiden/comments/k0s8gv/dm_guide_lonelywood_the_white_moose/)
+# Chapter 2
+- [Black Cabin Rewrite](https://old.reddit.com/r/rimeofthefrostmaiden/comments/p4j92i/revamped_black_cabin_quest/)
+- [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
+- [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)
+# Chapter 3
+- [Basho's Rewrite of Xardorok](https://www.outsidecontext.com/2023/06/03/basho-rewrites-sunblight/)
+# Chapter 4
+# Chapter 5
+- [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
+- [Alternative Tests of the Frostmaiden by Mithril Forge](https://docs.google.com/document/d/1HwVAAvAw8_BqRjKRD-bwyrFgAEBG4nzpGCArhwVlNC4/edit)
+# Chapter 6
+- [Frostmoot on the way to Reghed Glacier](https://old.reddit.com/r/rimeofthefrostmaiden/comments/110jrvs/gathering_the_tribes_for_the_frostmoot/?share_id=_dzo4_dEBMkZAtYmgBiwh)
+# Chapter 7
+- [Crater left by Ythryn](https://old.reddit.com/r/rimeofthefrostmaiden/comments/13tgx6y/maps_for_the_crater_left_by_ythryn/)
+- [How to run Auril for 14th level PCs](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wso70t/how_i_ran_a_satisfying_auril_fight_for_14th_lvl/)
 
 # Other DM's Documents
 - [Rebel](https://docs.google.com/document/d/1KmECWjYWDWIeOX6_BlFcvQoJiXVgHk9gkNE8lAlwlsI)
