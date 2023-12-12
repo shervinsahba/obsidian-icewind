@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-**TOTAL**: 5300 since session 16.
+**TOTAL**: 5350 since session 17.
 
 ```dataview
 TABLE WITHOUT ID
@@ -11,6 +11,7 @@ TABLE WITHOUT ID
 FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP" AND file.name != "Loot"  AND file.name != "Chronicles" AND file.name != "Characters"
 FLATTEN xp
 FLATTEN sum(rows.xp) AS Total
+SORT file.name DESC
 ```
 
 ![[characteradvancement.png]]
