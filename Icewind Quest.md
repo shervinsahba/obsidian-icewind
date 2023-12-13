@@ -15,8 +15,8 @@ SORT file.name DESC
 LIMIT 3
 ```
 
-**Map** ([view full map](https://icewind.quest/img/user/_attachments/maps/icewindquest/map-icewindquest.jpg))
-![[map-icewindquest-S17.png]]
+**Map** ([View full map](https://i.imgur.com/5aWD2Xo.jpg))
+![[map-S17.png]]
 
 
 # About
