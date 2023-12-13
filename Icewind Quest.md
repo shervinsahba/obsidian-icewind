@@ -15,6 +15,10 @@ SORT file.name DESC
 LIMIT 3
 ```
 
+**Map** ([view full map](https://icewind.quest/img/user/_attachments/maps/icewindquest/map-icewindquest.jpg))
+![[map-icewindquest-S17.png]]
+
+
 # About
 This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). The theme is called [vileplume](https://github.com/hungsu/vileplume-obsidian). Here's the source code: [github.com/shervinsahba/obsidian-icewind](https://github.com/shervinsahba/obsidian-icewind). There is a README about the notebook, plugins, and workflow in using this system for your own purposes. Note that the `.obsidian` folder has been purposely omitted, so you'll need to add the aforementioned plugins and theming.
 
