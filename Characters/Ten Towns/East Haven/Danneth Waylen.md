@@ -11,6 +11,7 @@ descriptors: [Cynical, Tired, Politician]
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
+> ![[speaker_danneth_waylen.png]]
 
 ```dataview
 TABLE WITHOUT ID
