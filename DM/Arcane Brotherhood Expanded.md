@@ -21,3 +21,13 @@ https://old.reddit.com/r/Forgotten_Realms/comments/m5vvow/arcane_brotherhood_are
 https://www.worldanvil.com/w/not-forgotten-realms-palant/a/arcane-brotherhood-article
 https://old.reddit.com/r/Forgotten_Realms/comments/obc3nf/how_do_you_enter_the_arcane_brotherhood/
 https://old.reddit.com/r/Forgotten_Realms/comments/oortx1/so_what_is_the_arcane_brotherhood/
+
+
+# Avarice
+My take is that Avarice, regardless of the Black Swords being routed from the Caer, would continue to seek Netherese artifacts until it becomes apparent to her patron that the Codicil has opened Reghed Glacier and that the path to Ythryn has been discovered.
+
+So, if you want to include more Avarice in the story, you can have her and her cronies tie into any quests involving the Netherese. They may seek the Lost Spire, the Shield Guardian at Karkolohk, or even look to shake down Macreadus at the Black Cabin. In the meantime, she may be scouting for information about Ten Towns, and even if she is an antagonist, the party run afoul of the Dalefolk if they pick a fight with her in a packed tavern.
+
+Furthermore, she may be compelled by Levistus to act against the Duergar threat, if he realized Asmodeus is pulling their strings. That opens her up to more options, including opportunities to ally with her in Ch3-4.
+
+One way I'm working these into my story is to have her act as a rival party, possibly picking off certain quests that my party didn't reach. For example, it's become clear that my group is targeting The Dark Duchess and Revel's End, sending them north. In the meantime, Avarice may have slaughtered the goblins in Karkolohk and claimed the Shield Guardian... as well as earned some clout among Ten Towns, who Speakers may both respect or be intimidated by her.
