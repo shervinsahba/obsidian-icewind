@@ -44,3 +44,9 @@ Temple of the Morninglord
 ![[Pasted image 20231215164514.png]]
 
 ![[Pasted image 20231215165035.png]]
+
+![[Pasted image 20231215171650.png]]
+
+![[Pasted image 20231215172421.png]]
+
+![[Pasted image 20231215172702.png]]
