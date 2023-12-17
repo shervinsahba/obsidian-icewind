@@ -16,7 +16,7 @@ SORT file.name DESC
 LIMIT 3
 ```
 
-**Map** ([View full map](https://i.imgur.com/11ObJzN.jpg))
+**Map** ([View full map](https://i.imgur.com/11ObJzN.jpg)) ([View interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1))
 ![[map-S18.png]]
 
 
