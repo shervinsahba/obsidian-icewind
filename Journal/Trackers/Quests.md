@@ -2,6 +2,45 @@
 dg-publish: true
 ---
 
+
+## A Duergar Plot
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #ADuergarPlot  
+FLATTEN x WHERE contains(x,"ADuergarPlot") 
+SORT file.name ASC
+```
+## The Lost Spire
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #TheLostSpire  
+FLATTEN x WHERE contains(x,"TheLostSpire") 
+SORT file.name ASC
+```
+
+## The Forgotten Realm
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #TheForgottenRealm  
+FLATTEN x WHERE contains(x,"TheForgottenRealm") 
+SORT file.name ASC
+```
+## Prisoner237
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #Prisoner237  
+FLATTEN x WHERE contains(x,"Prisoner237") 
+SORT file.name ASC
+```
+
 ## Dzaan is Dead
 ```dataview
 TABLE WITHOUT ID
@@ -48,8 +87,8 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link AS "Note", 
 	x AS ""
-FROM #WhaleHunters 
-FLATTEN x WHERE contains(x,"WhaleHunters") 
+FROM #WhaleHunters OR #AngajuksBell 
+FLATTEN x WHERE contains(x,"WhaleHunters") OR contains(x,"AngajuksBell")
 SORT file.name ASC
 ```
 
@@ -72,10 +111,26 @@ FLATTEN x WHERE contains(x,"TheRamshackle")
 SORT file.name ASC
 ```
 
-
-
-
+#
 # Completed Quests
+## Chardalyn Caper
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #ChardalynCaper  
+FLATTEN x WHERE contains(x,"ChardalynCaper") 
+SORT file.name ASC
+```
+## Cauldron Caper
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Note", 
+	x AS ""
+FROM #CauldronCaper  
+FLATTEN x WHERE contains(x,"CauldronCaper") 
+SORT file.name ASC
+```
 ## White Lady Seance
 ```dataview
 TABLE WITHOUT ID
@@ -188,8 +243,8 @@ FLATTEN x WHERE contains(x,"SpecialDelivery")
 SORT file.name ASC
 ```
 
-# 
 
+#
 ---
 
 Journal: **[[Chronicles]] | Quests |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]]  | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**

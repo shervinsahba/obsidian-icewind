@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 ---
-**TOTAL**: 5350 since session 17.
-
 ```dataview
 TABLE WITHOUT ID
 	split(xp, " ~ ")[0] AS "XP",

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Netheril was the ancient, magocratic human empire of Faerûn, whose influence was felt across the Realms for thousands of years. 
 
 The Netherese were the ethnic group of dark-haired, fair-skinned humans that resided in the Netheril. Many cultures and ethnic groups in Faerûn were either descendants or absorbed into the Netherese people. Although they had humble roots as mere fishermen and farmers, the Netherese were introduced to the Art of the Arcane by the elves - before man quite knew what to think of elves - and came to harness magic power in ways that would shape Toril for generations.
