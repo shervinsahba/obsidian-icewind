@@ -1,3 +1,8 @@
+---
+dg-publish: false
+dg-hide-in-graph: true
+---
+
 [Dec 13, 2021 at 11:45 AM](https://www.patreon.com/posts/plugin-setting-59873493)
 
 The Plugin/Setting List (Turning Obsidian into a Campaign Manager)

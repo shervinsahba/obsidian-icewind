@@ -1,3 +1,8 @@
+---
+dg-publish: false
+dg-hide-in-graph: true
+---
+
 # icewind.quest
 [icewind.quest](https://icewind.quest) is a hosted Zettelkasten-style notebook. You may find this interesting if you're into obsidian notebooking tricks, Zettelkasten ideas, or - in the case of my content - a Dungeons and Dragons game. This was a quick hobby project, in terms of the notebook setup, but if you can think of any nice improvements, raise an issue.
 

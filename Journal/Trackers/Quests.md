@@ -1,8 +1,23 @@
 ---
 dg-publish: true
+dg-hide-in-graph: true
 ---
 
+# Quest Tag Overview
 
+Quests are represented by tags throughout this vault. Here are all the tags, sorted by recency.
+
+```dataview
+TABLE WITHOUT ID 
+	(tag + "(" + length(rows.file.link) + ")") AS "Quest Tag",
+	join(reverse(rows.file.link), ", ") AS Session
+FROM "Journal"
+FLATTEN file.tags AS tag
+GROUP BY tag
+SORT reverse(rows.file.link) DESC
+```
+
+# Active Quests
 ## A Duergar Plot
 ```dataview
 TABLE WITHOUT ID
@@ -111,8 +126,8 @@ FLATTEN x WHERE contains(x,"TheRamshackle")
 SORT file.name ASC
 ```
 
-#
 # Completed Quests
+
 ## Chardalyn Caper
 ```dataview
 TABLE WITHOUT ID
@@ -245,6 +260,8 @@ SORT file.name ASC
 
 
 #
+
+
 ---
 
 Journal: **[[Chronicles]] | Quests |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]]  | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
