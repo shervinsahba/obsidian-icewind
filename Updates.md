@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+dg-hide-in-graph: true
 ---
 
 ## Updates

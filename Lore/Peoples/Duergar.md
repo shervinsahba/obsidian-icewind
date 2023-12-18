@@ -1,0 +1,6 @@
+---
+dg-publish: true
+---
+The gray dwarves, or duergar, live deep in the Underdark. They often have ashen gray skin, a grim disposition, a unique fortitude, and psionic ability. They have the typical dwarven appreciation for order, tradition, and impeccable craftsmanship, but their goods are purely utilitarian, disdaining aesthetic or artistic value.
+
+Duergar descended from the same bloodline as Shield Dwarves. Eons ago, Clan Duergar were driven mad by the influence of a mind flayer colony, who goaded them into delving deep into the bowels of the world, deeper than any dwarf had gone. There they were enslaved for millenia. The Duergar suffered unimaginable torment, psionic and chemical experimentation which changed their physiology. These grim, ashen-skinned dwarves eventually won their freedom, but were too far gone. They were rejected by their former kin and by the god of dwarves, Moradin. The Duergar returned to the [[Underdark]] as their own people to forge their own way, one which became as tyrannical as their former masters. Duergar value toil above all else. Showing emotions other than grim determination or wrath is frowned on in their culture, but they can sometimes seem joyful when at work. 

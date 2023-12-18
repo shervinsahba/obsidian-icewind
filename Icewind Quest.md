@@ -1,10 +1,11 @@
 ---
 dg-home: true
 dg-publish: true
+dg-hide-in-graph: true
 ---
 ![[rotf_cover_art_banner.png]]
 # Journal
-**[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
+**[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)** | [Map](https://i.imgur.com/11ObJzN.jpg)
 
 ```dataview
 TABLE WITHOUT ID 
@@ -15,8 +16,8 @@ SORT file.name DESC
 LIMIT 3
 ```
 
-**Map** ([View full map](https://i.imgur.com/5aWD2Xo.jpg))
-![[map-S17.png]]
+**Map** ([View full map](https://i.imgur.com/11ObJzN.jpg)) ([View interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1))
+![[map-S18.png]]
 
 
 # About

@@ -2,7 +2,7 @@
 dg-publish: True
 ---
 
-Scrolls for sale! [[Kadu]] can also craft scrolls from spellbooks for half cost.
+Scrolls for sale! [[Kadu]] can also craft scrolls from spellbooks for half cost. They may be able to find magic items for you as well. Located in [[Bryn Shander]]. 
 
 # Scrolls for sale
 

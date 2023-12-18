@@ -22,3 +22,4 @@ FLATTEN x WHERE contains(x,this.file.name)
 SORT file.name DESC
 ```
 ![[heraldry - Clan Battlehammer.png]]
+

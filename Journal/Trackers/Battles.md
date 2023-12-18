@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+dg-hide-in-graph: true
 ---
 ```dataview
 TABLE WITHOUT ID
