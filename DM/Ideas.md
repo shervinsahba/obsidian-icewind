@@ -127,3 +127,8 @@ That's right, in my game the Goddess of Winter Auril used to be a devil, and asc
 So Asmodeus is now near the end of a 30000 years secret plan to free Levistus, even though everyone think he wants the opposite. Which is why Auril has been sending waves after waves of servants against the party and they have no idea why, because if they succeed she loses everything. And that is also why some unknown devils and cultist have been seemingly helping them, those are servants of Asmodeus who are bound to not help the party free Levistus, but can absolutely stop the Aurilites as best they can.
 
 In my mind, Asmodeus would never let Levistus be freed if he didn't want to, so I had to find a reason why it would actually benefit him instead, but so that he couldn't just do it himself either.
+
+
+# Obsidian
+
+https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials
