@@ -81,6 +81,7 @@ Ideas about Ten Towns Council meetings:
 # Chapter 3
 - [Basho's Rewrite of Xardorok](https://www.outsidecontext.com/2023/06/03/basho-rewrites-sunblight/)
 # Chapter 4
+- [One shot at Easthaven](https://old.reddit.com/r/rimeofthefrostmaiden/comments/18ji7u0/battle_for_easthaven_oneshot_survival_against/)
 # Chapter 5
 - [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
 - [Alternative Tests of the Frostmaiden by Mithril Forge](https://docs.google.com/document/d/1HwVAAvAw8_BqRjKRD-bwyrFgAEBG4nzpGCArhwVlNC4/edit)
