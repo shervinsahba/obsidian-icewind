@@ -131,4 +131,6 @@ In my mind, Asmodeus would never let Levistus be freed if he didn't want to, so 
 
 # Obsidian
 
-https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials
+[Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials) 
+
+[Host a Digital Garden on Cloudflare](https://www.maxwellhackswell.com/digital-garden/how-to-host-a-digital-garden-on-cloudflare/)
