@@ -64,6 +64,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Travel Roles a la Lazy GM](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15sd454/travel_roles/)
 - [Lazy GM Guide](https://slyflourish.com/lazy_gm_resource_document.html#wildernesstravel)
 - [Dragon's Hoard Dice Game](https://old.reddit.com/r/rimeofthefrostmaiden/comments/153jj5x/dragons_hoard_a_tavern_gambling_game_for_your/)
+- [Reghed Lullaby](https://old.reddit.com/r/rimeofthefrostmaiden/comments/18i164v/winters_womb_a_reghedjic_lullaby/)
 
 Ideas about Ten Towns Council meetings:
 - [Voting results regarding Duergar](https://old.reddit.com/r/rimeofthefrostmaiden/comments/sqgwb1/what_are_the_results_of_an_allspeakers_meeting/)
