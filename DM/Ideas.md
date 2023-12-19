@@ -49,7 +49,11 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 	- [Sad Minstrel](https://mynoise.net/NoiseMachines/medievalMinstrelSoundscapeGenerator.php)
 	- [Dunes of Arrakis](https://mynoise.net/NoiseMachines/magicDuneArrakisGenerator.php)
 
-# Ideas from r/rimeofthefrostmaiden
+
+# DM Advice
+- [Lazy GM Guide](https://slyflourish.com/lazy_gm_resource_document.html#wildernesstravel)
+
+# Assorted Ideas
 - [Resource list](https://docs.google.com/document/d/1RCMMs0Ymilc2ib7IRzJSY--4YV3-w_gt5xR7Nuu0tec/edit?pli=1)
 - [Frostboard](https://miro.com/app/board/o9J_l5ch25E=/)
 - [Cult of Auril Statblocks and Lore by Robinthesecond](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1419fb0/expand_the_ranks_of_the_frost_druids_with_the/)
@@ -62,9 +66,12 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Arveiturace Encounter Text](https://old.reddit.com/r/rimeofthefrostmaiden/comments/veji4g/arveiaturace_introduction_text/)
 - [Fixing the Nautiloid](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wgwba0/giving_my_players_the_nautiloid_assistance/ij4uk0q/)
 - [Travel Roles a la Lazy GM](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15sd454/travel_roles/)
-- [Lazy GM Guide](https://slyflourish.com/lazy_gm_resource_document.html#wildernesstravel)
-- [Dragon's Hoard Dice Game](https://old.reddit.com/r/rimeofthefrostmaiden/comments/153jj5x/dragons_hoard_a_tavern_gambling_game_for_your/)
+
 - [Reghed Lullaby](https://old.reddit.com/r/rimeofthefrostmaiden/comments/18i164v/winters_womb_a_reghedjic_lullaby/)
+
+# Minigames
+- [Dragon's Hoard Dice Game](https://old.reddit.com/r/rimeofthefrostmaiden/comments/153jj5x/dragons_hoard_a_tavern_gambling_game_for_your/)
+
 
 Ideas about Ten Towns Council meetings:
 - [Voting results regarding Duergar](https://old.reddit.com/r/rimeofthefrostmaiden/comments/sqgwb1/what_are_the_results_of_an_allspeakers_meeting/)
