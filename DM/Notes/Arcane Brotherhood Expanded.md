@@ -31,3 +31,5 @@ So, if you want to include more Avarice in the story, you can have her and her c
 Furthermore, she may be compelled by Levistus to act against the Duergar threat, if he realized Asmodeus is pulling their strings. That opens her up to more options, including opportunities to ally with her in Ch3-4.
 
 One way I'm working these into my story is to have her act as a rival party, possibly picking off certain quests that my party didn't reach. For example, it's become clear that my group is targeting The Dark Duchess and Revel's End, sending them north. In the meantime, Avarice may have slaughtered the goblins in Karkolohk and claimed the Shield Guardian... as well as earned some clout among Ten Towns, who Speakers may both respect or be intimidated by her.
+
+
