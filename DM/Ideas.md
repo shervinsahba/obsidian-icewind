@@ -53,6 +53,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 # DM Advice
 - [Lazy GM Guide](https://slyflourish.com/lazy_gm_resource_document.html#wildernesstravel)
 - [5e commoner life and economy](https://old.reddit.com/r/DnDBehindTheScreen/comments/3o2ydl/5e_commoner_life_and_economy/)
+- [Swarm rules](https://www.gmbinder.com/share/-L8LF9g2Tdut9NiOHG-G)
 
 | Social status                                                                                                      | Minimum income/month | Lifestyle/month | Upkeep/month | Taxes/month | Profit/month |     |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------- | --------------- | ------------ | ----------- | ------------ | --- |
