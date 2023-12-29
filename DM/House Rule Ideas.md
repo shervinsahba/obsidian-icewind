@@ -3,6 +3,20 @@
 - **Haggling on prices.** You can only haggle is you're proficient in Persuasion.
 - **Speak up to 10 words during combat.** Any more requires your action.
 
+## Status Conditions
+- **Dazed or Staggered, alternative to stunned.** See [this post](https://www.hipstersanddragons.com/dazed-alternative-condition-to-stunned/).
+	- **Dazed**
+		- A dazed creature cannot take reactions and has disadvantage on ability checks and Dexterity saving throws.
+		- Melee attack rolls against the creature have advantage, and the creature’s own attack rolls have disadvantage.
+		- When a dazed creature attempts to cast a spell other than a cantrip it must roll a d20. On an 11 or higher the spell doesn’t take effect and the spell slot is wasted.
+		- When a dazed creature takes the Dash action they must succeed on DC 15 Dexterity saving throw or fall prone.
+	- **Staggered**
+		- A staggered creature’s movement is halved.
+		- The creature cannot take reactions.
+		- The creature has disadvantage on all d20 tests.
+		- The creature cannot cast leveled spells.
+
+
 
 ## Physical items
  - **Hotel bell.** A player may ring the bell to enforce DM fiat if there's a prolonged argument or discussion that's bogging down play.
