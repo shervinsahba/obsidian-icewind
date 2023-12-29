@@ -152,6 +152,8 @@ In my mind, Asmodeus would never let Levistus be freed if he didn't want to, so 
 
 # Obsidian
 
-[Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials) 
-
-[Host a Digital Garden on Cloudflare](https://www.maxwellhackswell.com/digital-garden/how-to-host-a-digital-garden-on-cloudflare/)
+- [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials) 
+- [Host a Digital Garden on Cloudflare](https://www.maxwellhackswell.com/digital-garden/how-to-host-a-digital-garden-on-cloudflare/)
+- [Organize plugin calls in an external directory and reference them using "!\[\[name\]\]" in notes](https://phd20.com/blog/organizing-obsidian-dnd-problem-with-plugins/)
+- You can use nested tags like \#level1/level2
+- [Discord embeds with Obsidian](https://phd20.com/blog/chronicle-rpgs-with-discord-embeds/)
