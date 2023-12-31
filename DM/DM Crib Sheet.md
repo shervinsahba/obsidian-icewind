@@ -2,6 +2,8 @@
 dg-publish: false
 ---
 
+[Consumable Items by Rarity](https://docs.google.com/spreadsheets/d/1cscj9c_eSElaxskotQoHCRfnh26J5PID4AQz09Qjw0E/edit#gid=0)
+
 # Combat
 
 ![[damage-severity.png]]
