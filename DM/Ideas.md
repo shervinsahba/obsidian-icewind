@@ -150,6 +150,9 @@ So Asmodeus is now near the end of a 30000 years secret plan to free Levistus, e
 In my mind, Asmodeus would never let Levistus be freed if he didn't want to, so I had to find a reason why it would actually benefit him instead, but so that he couldn't just do it himself either.
 
 
+# VTT for IRL
+- https://old.reddit.com/r/FoundryVTT/comments/zgfpgb/one_way_to_use_vtt_for_inperson_games_part_4_vtt/
+
 # Obsidian
 
 - [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials) 
