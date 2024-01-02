@@ -16,7 +16,15 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Quests
-
+## Black Swords
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #BlackSwords  
+FLATTEN x WHERE contains(x,"BlackSwords") 
+SORT file.name ASC
+```
 ## A Duergar Plot
 ```dataview
 TABLE WITHOUT ID
@@ -60,15 +68,6 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #DzaanIsDead 
 FLATTEN x WHERE contains(x,"DzaanIsDead") 
-SORT file.name ASC
-```
-## The Black Swords
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #BlackSwords 
-FLATTEN x WHERE contains(x,"BlackSwords") 
 SORT file.name ASC
 ```
 ## Nature Spirits
