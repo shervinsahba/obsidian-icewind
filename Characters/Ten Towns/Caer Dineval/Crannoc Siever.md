@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Missing Innkeeper's Son at Buried Treasures
-age: Young
+role: Speaker of Caer Dineval
+age: Adult
 race: Human
 gender: Man
-descriptors: ["Heroic","Recently change in demeanor","Missing"]
+descriptors: ["Arrogant","Stir-crazy","Power-hungry"]
 ---
 
 > [!info]+

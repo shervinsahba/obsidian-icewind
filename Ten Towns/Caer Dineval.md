@@ -3,6 +3,7 @@ dg-publish: true
 ---
 ![[heraldry - Caer Dineval.png|300]]
 ![[map-Caer-Dineval.jpg|600]]
+![[caer-dineval.png]]
 # Characters
 ```dataview 
 TABLE WITHOUT ID
