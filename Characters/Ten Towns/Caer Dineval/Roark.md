@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
+role: Tavernkeeper at the Uphill Climb
+age: Middle-aged
 race: Human
 gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+descriptors: ["Good-meaning","Curt","Wary"]
 ---
 
 > [!info]+

@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
+role: Notary Scribe, Imprisoned at Caer Dineval
+age: Middle-Aged
 race: Human
 gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+descriptors: ["Feisty","Spry",""]
 ---
 
 > [!info]+

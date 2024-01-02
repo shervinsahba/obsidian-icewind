@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
+role: Dogkeeper, Imprisoned at Caer Dineval
+age: Adult
 race: Human
 gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+descriptors: ["Shy","Kind","Vegan"]
 ---
 
 > [!info]+

@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
+role: Kennel Boy, Imprisoned at Caer Dineval
 age: Young
 race: Human
-gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+gender: Boy
+descriptors: ["Miscreant","Savvy","Coin-minded"]
 ---
 
 > [!info]+

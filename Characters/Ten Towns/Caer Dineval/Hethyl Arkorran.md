@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
-race: Human
-gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+role: Soothsayer, Black Sword Cultist
+age: Elderly
+race: Dwarf
+gender: Woman
+descriptors: ["Doomsayer","Heartless","DEAD"]
 ---
 
 > [!info]+

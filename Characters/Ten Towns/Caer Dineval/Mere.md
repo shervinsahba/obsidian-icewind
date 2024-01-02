@@ -4,7 +4,7 @@ role: Servant at Caer Dineval
 age: Teenage
 race: Tiefling
 gender: Woman
-descriptors: ["","",""]
+descriptors: ["Frightened","Naive","Helper"]
 ---
 
 > [!info]+

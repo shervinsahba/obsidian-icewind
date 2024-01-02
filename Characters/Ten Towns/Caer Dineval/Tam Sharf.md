@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
-race: Human
-gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+role: Housemaid, Imprisoned at Caer Dineval
+age: Adult
+race: Dragonborn
+gender: Woman
+descriptors: ["Mute","Thieving","Dexterous"]
 ---
 
 > [!info]+

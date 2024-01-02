@@ -1,7 +1,7 @@
 ---
 dg-publish: true
-role: Black Swords Leader at Caer Dineval
-age: Adult
+role: Black Swords Cult Leader at Caer Dineval
+age: Middle-Aged
 race: Tiefling
 gender: Man
 descriptors: ["Charismatic","Thin-skinned","Visionary"]

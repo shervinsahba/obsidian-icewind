@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
+role: Guard, Black Sword Cultist
+age: Adult
 race: Human
 gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+descriptors: ["Bored","Grim","Gruff"]
 ---
 
 > [!info]+

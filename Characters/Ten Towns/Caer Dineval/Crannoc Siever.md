@@ -1,10 +1,10 @@
 ---
 dg-publish: true
 role: Speaker of Caer Dineval
-age: Adult
+age: Middle-Aged
 race: Human
 gender: Man
-descriptors: ["Arrogant","Stir-crazy","Power-hungry"]
+descriptors: ["Firebrand","Stir-crazy","Blowhard"]
 ---
 
 > [!info]+

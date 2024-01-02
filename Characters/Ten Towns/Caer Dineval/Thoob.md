@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-role: Servant at Caer Dineval
+role: Kadroth's Servant, Black Sword Cultist
 age: Adult
 race: Human
 gender: Man

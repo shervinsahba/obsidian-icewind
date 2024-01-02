@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
-race: Human
+role: Butler, Imprisoned at Caer Dineval
+age: Adult
+race: Half-elf
 gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+descriptors: ["Effete","Gangly","Sommelier"]
 ---
 
 > [!info]+

@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Gate Guard, Black Swords Cultist, Innkeeper's Son
-age: Young
-race: Human
-gender: Man
-descriptors: ["Strapping","Surly","Brave"]
+role: Translator, Imprisoned at Caer Dineval
+age: Middle-Aged
+race: Dwarf
+gender: Woman
+descriptors: ["Educated","Stout","Hard-headed"]
 ---
 
 > [!info]+
