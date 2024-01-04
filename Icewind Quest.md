@@ -5,7 +5,7 @@ dg-hide-in-graph: true
 ---
 ![[rotf_cover_art_banner.png]]
 # Journal
-**[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)** | [Map](https://i.imgur.com/11ObJzN.jpg)
+**[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
 
 ```dataview
 TABLE WITHOUT ID 
@@ -16,9 +16,9 @@ SORT file.name DESC
 LIMIT 3
 ```
 
-**Map** ([View full map](https://i.imgur.com/11ObJzN.jpg)) ([View interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1))
-![[map-S18.png]]
-
+## Map ([View full map](https://i.imgur.com/UORjmmM.jpg)) ([View interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1))
+![[map-S19.png]]
+![https://i.imgur.com/UORjmmM.jpg](https://i.imgur.com/UORjmmM.jpg)
 
 # About
 This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). The theme is called [vileplume](https://github.com/hungsu/vileplume-obsidian). Here's the source code: [github.com/shervinsahba/obsidian-icewind](https://github.com/shervinsahba/obsidian-icewind). There is a README about the notebook, plugins, and workflow in using this system for your own purposes. Note that the `.obsidian` folder has been purposely omitted, so you'll need to add the aforementioned plugins and theming.
