@@ -27,4 +27,4 @@ This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 **Junji's Tavern** is our gaming group.  **Junji Ito** is my dog. 
 
 ![[chum.gif|130]]
-**As for myself**, check out https://ssahba.phd. 
+**As for myself**, check out [sahba.phd](https://sahba.phd). 
