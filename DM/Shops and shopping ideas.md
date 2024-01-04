@@ -1,12 +1,3 @@
-# Peona's Potions
-Easthaven
-![[shop_peonas_potions.png]]
-
-
-# Kadu's Scrolls
-Brynn Shander
-![[shop_kadus_scrolls.png]]
-
 # Scams
 ![[shop_scams.png]]
 
@@ -16,7 +7,6 @@ Temple of the Morninglord
 
 # Traveling Merchant
 ![[shop_traveling_merchants.png]]
-
 
 # Magic Items for Sale
 
