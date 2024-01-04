@@ -4,7 +4,7 @@ role: Speaker of Easthaven
 age: Adult
 race: Human
 gender: Man
-descriptors: [Cynical, Tired, Politician]
+descriptors: [Experienced, Tired, Pragmatic]
 ---
 
 > [!info]+
