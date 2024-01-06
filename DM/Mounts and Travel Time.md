@@ -12,14 +12,21 @@ dg-publish: false
 
 # My Table
 
-| Method of Travel        | Road (mph) | Tundra (mph) | Mountain (mph) | Exhaustion Check (h) | Haul Capacity (lbs) |
-| ----------------------- | ---------- | ------------ | -------------- | -------------------- | ------------------- |
-| Axe beak                | 3          | 3            | 3              | 3                    | 2100, if trained    |
-| Dogsled, 2 dogs/person  | 3          | 2            | 1              | 1                    | 720                 |
-| Dogsled, 4 dogs/person  | 6          | 4            | 1              | 1                    | 1440                |
-| Dogsled, 6 dogs/person  | 9          | 6            | 1              | 2                    | 2160                |
-| On foot, with snowshoes | 2          | 1            | 1/2            | 3                    | NA                  |
-| On foot                 | 2          | 1/2          | 1/4            | 3                    | NA                  |
+
+| Method of Travel        | Road (mph) | Tundra (mph) | Mountain (mph) | Endurance, Road (h) | Endurance, Overland (h) | Hauling (lbs) |
+| ----------------------- | ---------- | ------------ | -------------- | ------------------- | ----------------------- | ------------- |
+| Axe Beak                | 3          | 3            | 3              | 3                   | 3                       | 420/(2100)    |
+| Dogsled, 2 dogs         | 3          | 2            | 1              | 2                   | 1                       | 720           |
+| Dogsled, 4 dogs         | 6          | 4            | 1              | 2                   | 1                       | 720/1440      |
+| Dogsled, 6 dogs         | 9          | 6            | 1              | 4                   | 2                       | 720/2160      |
+| On foot, with snowshoes | 2          | 1            | 1/2            | 4                   | 2                       | NA            |
+| On foot                 | 2          | 1/2          | 1/4            | 4                   | 2                       | NA            |
+
+Notes: 
+ - **Exhaustion.** At the given duration, if a short rest is not taken, the creatures suffer 3 levels of revised exhaustion (or 1 level of 5e exhaustion).
+ - **Hauling, Axe Beaks.** Axe Beaks are not known to haul sleds or wagons due to their fickle and fiery nature. Significant training would be required. For reference, an axe beak's carrying capacity would be 420 lbs. Thus they are most commonly used for a single rider and small cargo.
+ - **Hauling, Dogsleds.** All given speeds are for an assumed load of up to 720 lbs, the maximum hauling capacity of two dogs, typically a rider or two and light cargo. If hauling a greater load using more dogs, then use the speed and endurance statistics for a dogsled team with two fewer dogs.
+ - **Mounted combat.** The agility of an Axe Beak lends itself to mounted combat, acting as if the rider was mounted on a horse. The dogsled is less flexible in this regard.
 
 
 
