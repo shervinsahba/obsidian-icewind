@@ -92,12 +92,16 @@ Ideas about Ten Towns Council meetings:
 - [Scary Good Mead flesh eating bees](https://old.reddit.com/r/rimeofthefrostmaiden/comments/oq3vfc/a_deliciously_scary_good_mead_alternative/)
 - [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
 - [Lonelywood and White Moose Guide](https://old.reddit.com/r/rimeofthefrostmaiden/comments/k0s8gv/dm_guide_lonelywood_the_white_moose/)
+- [Duergar Outpost - Nildar the Dread Mycologist](https://old.reddit.com/r/rimeofthefrostmaiden/comments/tl5eqk/nildar_sunblight_the_deadly_mycologist_an/)
 # Chapter 2
 - [Black Cabin Rewrite](https://old.reddit.com/r/rimeofthefrostmaiden/comments/p4j92i/revamped_black_cabin_quest/)
 - [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
 - [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)
 # Chapter 3
 - [Basho's Rewrite of Xardorok](https://www.outsidecontext.com/2023/06/03/basho-rewrites-sunblight/)
+
+![[duergar_types.png]]
+
 # Chapter 4
 - [One shot at Easthaven](https://old.reddit.com/r/rimeofthefrostmaiden/comments/18ji7u0/battle_for_easthaven_oneshot_survival_against/)
 - [Marc Singer's Dogsled speed analysis](https://old.reddit.com/r/rimeofthefrostmaiden/comments/jbrtru/dragon_scourge_more_solutions_100_raw/)
