@@ -93,6 +93,7 @@ Ideas about Ten Towns Council meetings:
 - [How can Good Mead's bees survive winter](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15woexd/how_can_the_bees_in_good_mead_survive_the_endless/)
 - [Lonelywood and White Moose Guide](https://old.reddit.com/r/rimeofthefrostmaiden/comments/k0s8gv/dm_guide_lonelywood_the_white_moose/)
 - [Duergar Outpost - Nildar the Dread Mycologist](https://old.reddit.com/r/rimeofthefrostmaiden/comments/tl5eqk/nildar_sunblight_the_deadly_mycologist_an/)
+- [Duergar Outpost - as a chardalyn monster testing ground](https://old.reddit.com/r/rimeofthefrostmaiden/comments/qjfs0d/i_could_use_help_picking_a_mechanical_monster_as/)
 # Chapter 2
 - [Black Cabin Rewrite](https://old.reddit.com/r/rimeofthefrostmaiden/comments/p4j92i/revamped_black_cabin_quest/)
 - [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
