@@ -12,6 +12,10 @@ SORT file.name
 ```
 
 # Locations
+## Frozenfar Expeditions
+## The Hook, Line, and Sinker
+## The Northern Light
+
 # Happenings
 ```dataview
 TABLE WITHOUT ID
