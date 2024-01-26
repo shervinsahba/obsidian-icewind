@@ -98,6 +98,7 @@ Ideas about Ten Towns Council meetings:
 - [Black Cabin Rewrite](https://old.reddit.com/r/rimeofthefrostmaiden/comments/p4j92i/revamped_black_cabin_quest/)
 - [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
 - [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)
+- Hazel at the Sea of Moving Ice. She could die or form a stasis of ice. Anga learned druidic ways at the boundary of ice and water, the domains of Auril and Umberlee. Is there a conflict between the two for Hazel? Is her new character there... building a submarine? it would be funny to put the Kwalish Apparatus into the game briefly like that. Is something plaguing Angajuk? Or does ringing the bell bring him in immediately? Does her quest end at the Temple of the Four Gods? 
 # Chapter 3
 - [Basho's Rewrite of Xardorok](https://www.outsidecontext.com/2023/06/03/basho-rewrites-sunblight/)
 
