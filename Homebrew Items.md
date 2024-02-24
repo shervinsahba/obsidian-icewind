@@ -4,11 +4,11 @@ dg-publish: true
 
 
 ## Remorhaz Fang Weapon
->*Crafted from: Remorhaz Fang, 150 gp of materials.*
-> A piercing weapon that deals an additional 1d6 fire damage on hit.
+>*Crafted from: Remorhaz Fang, 150 gp of materials and time.*
+> A piercing weapon that deals an additional 1d6 fire damage on hit, once per day. Takes a tenday to craft on your own, but a talented blacksmith or Reghed craftsman could work the job faster. Perhaps a smith could even eke out more uses of the fang.
 
 ## Remorhaz Fang
-> **Craftable**. Can be worked into an ordinary piercing weapon to add an additional 1d6 fire damage on hit. Takes 9 days and 150 gp of materials to craft on your own, but a talented blacksmith or Reghed craftsman could work the job faster.
+> **Craftable**. Can be worked into an ordinary piercing weapon to add an additional 1d6 fire damage on hit.
 
 ## Mind-Poison Dagger
 > A dagger that adds an additional 1d4 psychic damage on hit.
