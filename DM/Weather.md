@@ -1,5 +1,5 @@
 
->[!warning] After each hour of travel in precipitative weather, pass a DC 10 CON save or suffer 1 point of Revised Exhaustion.
+>[!warning] After each hour of travel in cold weather, pass a DC 10 CON save or suffer 1 point of Revised Exhaustion. See weather chart for details.
 
 | Weather     | Vision           | Travel Time | Other                                                        |
 | ----------- | ---------------- | ----------- | ------------------------------------------------------------ |
