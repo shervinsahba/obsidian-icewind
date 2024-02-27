@@ -12,6 +12,7 @@
 | Dense fog   | Heavily obscured | Normal      |                                                              |
 | Frigid Wind | Dim light        | Normal      | Disadvantage on Perception (Hearing) and ranged weapon attacks |
 
-
+>[!Danger] DM Note
+> Consider increasing the DCs for the exhaustion check as the game progresses, expositing how the Rime worsens. During Chapter 1 consider having no check within Ten Towns, especially on the roads. Use DC 5 if you must or for a large party, and consider DC 10 for journeying into the nearby tundra, for example to Kelvin's Cairn. During Chapters 2-4, where tundra exploration begins use DC 10. On Solstice during Chapter 5, increase the check to DC 12. If they steal the Codicil, increase the check to DC 14, which can persist through Chapter 6.
 
 ![[Weather Hex Flower Revised.jpg|700]]
