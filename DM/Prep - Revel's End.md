@@ -26,4 +26,8 @@ It's always filled with mead if you take a swig. It's empty if you try to pour m
 - Arveiturace attacks have happened. But the dragon has flown away.
 
 # Prisoners
+- Vaelish Gant
+- Prisoner 13
+- Edgin Darvis
+- Holga Kilgore
 - Spores druid who would grow several types of fungi in a cave under his cell, make drugs out of them, and sell them to some of the guards. Maybe he could either help your party to drug the guards or one of the fungi gives you the effect of the feign death spell when you eat it.
