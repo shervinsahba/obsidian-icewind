@@ -7,7 +7,7 @@ dg-publish: false
 1.  Comprehend languages (R), Detect magic (R), Expeditious retreat, Shield, Tenser's floating disk (R)
 2.  Alter self, Cloud of daggers, Scorching ray, Suggestion
 
-**Avarice's Spellbook** (found in her posession)
+**Avarice's Spellbook** (found in her possession)
 
 1.  Burning hands, Detect magic, Find familiar, Mage armor, Magic missile, Thunderwave
 2.  Flaming sphere, Knock, Rope trick, Scorching ray
