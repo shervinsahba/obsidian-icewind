@@ -19,13 +19,16 @@ dg-publish: true
 - **Saddlebags.** Can be used to store a modest amount of cargo on a mount.
 - **Bit and bridle.** Standard gear to help direct a mount. 
 
-| Mount Equipment  | Price (gp) | Weight (lbs) |
-| ---------------- | ---------- | ------------ |
-| Barding          | x4         | x2           |
-| Bit and bridle   | 2          | 1            | 
-| Saddle, Riding   | 10         | 25           |
-| Saddle, Military | 20         | 30           |
-| Saddlebags       | 4          | 8            |
+| Mounts and Equipment | Price (gp) | Weight (lbs) |
+| -------------------- | ---------- | ------------ |
+| Axebeak              | 50         | NA           |
+| Dog                  | 30         | NA           |
+| Sled                 | 20         | NA           |
+| Barding              | x4         | x2           |
+| Bit and bridle       | 2          | 1            |
+| Saddle, Riding       | 10         | 25           |
+| Saddle, Military     | 20         | 30           |
+| Saddlebags           | 4          | 8            |
 
 
 # Book Info on Wilderness Travel
@@ -34,19 +37,20 @@ dg-publish: true
 # My Table
 
 
-| Method of Travel        | Road (mph) | Tundra (mph) | Mountain (mph) | Endurance, Road (h) | Endurance, Overland (h) | Hauling (lbs) |
-| ----------------------- | ---------- | ------------ | -------------- | ------------------- | ----------------------- | ------------- |
-| Axe Beak                | 3          | 3            | 3              | 3                   | 3                       | 420/(2100)    |
-| Dogsled, 6-7 dogs       | 9          | 6            | 1              | 4                   | 2                       | 720/2160      |
-| Dogsled, 4-5 dogs       | 6          | 4            | 1              | 2                   | 1                       | 720/1440      |
-| Dogsled, 2-3 dogs       | 3          | 2            | 1              | 2                   | 1                       | 720           |
-| On foot, with snowshoes | 2          | 1            | 1/2            | 8                   | 4                       | NA            |
-| On foot                 | 2          | 1/2          | 1/4            | 8                   | 4                       | NA            |
+| Method of Travel        | Road (mph) | Tundra (mph) | Mountain (mph) | Endurance (h) | Carry/Hauling (lbs) |
+| ----------------------- | ---------- | ------------ | -------------- | ----------------------- | ------------------- |
+| Axe Beak                | 3          | 3            | 3              | 3                       | 420/NA          |
+| Dogsled, 6-7 dogs       | 8          | 6            | 1              | 1                       | 720/2160            |
+| Dogsled, 4-5 dogs       | 6          | 4            | 1              | 1                       | 720/1440            |
+| Dogsled, 2-3 dogs       | 4          | 2            | 1              | 1                       | 720/720                 |
+| On foot, with snowshoes | 2          | 1            | 1/2            | 4                       | NA                  |
+| On foot                 | 2          | 1/2          | 1/4            | 4                       | NA                  |
 
 Notes: 
- - **Endurance and Exhaustion.** At the given endurance duration, if a short rest is not taken, mounts and characters on foot suffer 3 levels of revised exhaustion.
- - **Hauling: Axe Beaks.** Axe Beaks are not known to haul sleds nor wagons due to their fickle and fiery nature. Thus they are most commonly used for a single rider and small cargo. For reference, an axe beak's carrying capacity is 420 lbs. Significant training and a strong bond would be required for axe beaks to consent to haul cargo.
- - **Hauling: Dogsleds.** While the maximum hauling capacity for dogs scales with the number of dogs, the given speeds in this table are for an assumed load of up to 720 lbs. This load covers the maximum hauling capacity of two dogs and constitutes the musher and light cargo or a couple passengers. If hauling a greater load than 720 lbs, then use the speed and endurance statistics for a dogsled team with two fewer dogs.
+ - **Endurance and Exhaustion.** At the given endurance duration, if a short rest is not taken, mounts and characters on foot suffer 3 levels of revised exhaustion. Traveling on foot on roads ignores endurance restrictions.
+ - **Hauling:** 
+	 - **Axe Beaks.** Axe Beaks are not known to haul sleds nor wagons due to their fickle and fiery nature. Thus they are most commonly used for a single rider and small cargo. For reference, an axe beak's carrying capacity is 420 lbs. Theoretically, a hauling axe beak could pull up to 2100 lbs.
+	 - **Dogsleds.** While the maximum hauling capacity for dogs scales with the number of dogs, the given speeds in this table are for an assumed load of up to 720 lbs. This load covers the maximum hauling capacity of two dogs and constitutes the musher and light cargo or a couple passengers. If hauling a greater load than 720 lbs, then use the speed and endurance statistics for a dogsled team with two fewer dogs.
  - **Mounted combat.** The agility of an Axe Beak lends itself to mounted combat, as if the rider was mounted on a riding horse. The dogsled is less flexible in this regard, while ranged attacks may be made during a chase, the lack of maneuverability and the demands of coordinating a sled team makes it prohibitive to use the dogsled as a combat mount.
 
 
