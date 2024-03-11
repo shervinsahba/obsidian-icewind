@@ -61,3 +61,15 @@ A character can create a distraction, giving themself or an ally time to underta
 - **Level**. The current suspicion level is reduced by 1 (to a minimum of 1) every 8 hours if the prison staff detects no suspicious activity during that time.
 - **Patrol Die**. Roll a die based on the current suspicion level when characters enter the patrol route to see if they encounter a guard patrol (see “Patrol Routes”).
 - **DC**. The DC of Charisma checks made against prison staff and of ability checks made to avoid patrols is set by the current suspicion level.
+
+
+## High Alert
+When a matter of concern is brought to her attention, the warden (see area R21) decides whether to place the prison on high alert. Circumstances that warrant taking
+such action include a prisoner revolt, an escape, the approach of an unfamiliar ship, a dragon sighting, an attack, discovering a dead body, or suspicious activity (see
+“Suspicion” above). By speaking the command word, “maristo,” the warden—and only the warden—can place the prison on high alert (or speak it again to end the high alert), with the
+following effects:
+- **High-Alert Signals.** For 1 minute, a warning horn blares throughout the prison, and all light created by
+continual flame spells in the prison takes on a reddish hue.
+- **Prison Deployment.** The guards in area R19 don their armor, arm themselves, and move to area R18. The warden does the same and commands the garrison from there. Members of the Absolution Council retreat to area R20.
+- **See Invisibility.** The warden and all prison guards gain the benefit of a
+see invisibility spell.
