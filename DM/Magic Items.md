@@ -10,6 +10,8 @@ _Hugely Heavy._ The wielder must be size Medium or larger to hold the giant grea
 ![[frost_giants_greataxe.png]]
 
 
+**Sword of the Pact Keeper**
+Rod of the Pact Keeper +1 and Longsword +1. Might augment down the line. A nice Levistus feature may be a Symbol of Pain that tortures the recipient, granting adv to Intimidation/Persuasion. It'd also surely piss off the "good" party members.
 
 ## Other Homebrew
 
