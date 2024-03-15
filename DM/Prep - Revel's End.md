@@ -11,7 +11,7 @@ It's always filled with mead if you take a swig. It's empty if you try to pour m
 
 
 # Session Plan
-The party has arrived as Revel's End.
+The party has arrived as Revel's End. They introduced themselves
 
 
 # NPCs
