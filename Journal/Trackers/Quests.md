@@ -16,13 +16,13 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Quests
-## Black Swords
+## RevelsEnd
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Session", 
 	x AS ""
-FROM #BlackSwords  
-FLATTEN x WHERE contains(x,"BlackSwords") 
+FROM #RevelsEnd  
+FLATTEN x WHERE contains(x,"RevelsEnd") 
 SORT file.name ASC
 ```
 ## A Duergar Plot
@@ -79,24 +79,6 @@ FROM #NatureSpirits
 FLATTEN x WHERE contains(x,"NatureSpirits") 
 SORT file.name ASC
 ```
-## The Dark Duchess
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #DarkDuchess 
-FLATTEN x WHERE contains(x,"DarkDuchess") 
-SORT file.name ASC
-```
-## The Whale Hunters and Angajuk's Bell
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #WhaleHunters OR #AngajuksBell 
-FLATTEN x WHERE contains(x,"WhaleHunters") OR contains(x,"AngajuksBell")
-SORT file.name ASC
-```
 ## The Signal and the Id
 ```dataview
 TABLE WITHOUT ID
@@ -118,7 +100,33 @@ SORT file.name ASC
 
 
 # Completed Quests
-
+## The Whale Hunters and Angajuk's Bell
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #WhaleHunters OR #AngajuksBell 
+FLATTEN x WHERE contains(x,"WhaleHunters") OR contains(x,"AngajuksBell")
+SORT file.name ASC
+```
+## The Dark Duchess
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #DarkDuchess 
+FLATTEN x WHERE contains(x,"DarkDuchess") 
+SORT file.name ASC
+```
+## Black Swords
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #BlackSwords  
+FLATTEN x WHERE contains(x,"BlackSwords") 
+SORT file.name ASC
+```
 ## Chardalyn Caper
 ```dataview
 TABLE WITHOUT ID
