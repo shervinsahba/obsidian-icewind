@@ -92,3 +92,38 @@ the characters have a cover story for being in the prison, the guards escort the
 R8) or the barracks (area R19) in the case of off-duty guards. The suspicion level then increases by 1.
 
 Once the characters encounter a patrol, don’t check for another patrol when the characters enter the route until 20 minutes have passed
+
+
+
+---
+
+They're housed where the Absolution Council members are located in the south east, and the prison will be under lockdown. This gives them several objectives:
+
+- Retrieve their weapons
+- Defend the council members / prison
+- Finish loose ends with Vaelish or Prisoner 13
+- Live
+
+The guards will be outside the northwest armory - the opposite side - having cornered the "one blue slaad." Logically, the players will want their weapons. The absence of guards gives them the opportunity to lockpick the evidence chest in the guard room by the entrance where their weapons are located. This, of course, leads to the first attack:
+
+- 1-2 red slaads
+
+The slaads have already begun to multiply. The heroes could now have an opportunity to talk to prisoners and then assist guards who have the blue slaad "cornered." Announcements made by the warden will guide them there.
+
+- 1 blue slaad
+
+Once the party makes it out to the panopticon, it becomes known that prisoners are transforming and the ventilation system is compromised. The players should realize that their wounded characters are likely infected as well.
+
+Lights go out, like the linked post above and doors will probably open soon after. They have a prison riot to content with. Amidst it, another combat will ensue. Prisoners are fighting other slaadi in the background or combating the guards. Anyway, the party faces
+
+- 3 reds, 1 green*
+
+The green slaad, seen through flickering lights, will flee after the first round into the vent. Messages by the warden will play every round. They will stop a round after the green slaad gets there. It is now a gray slaad, and the real warden is unconscious, stuffed in her closet with a teddy bear torso. The bear's head is on the floor. The gray slaad takes on the warden's appearance.
+
+The players must ascend the central tower to apprehend the gray slaad, who will mess with them. The stairwells are littered with bodies. "It's on the roof! Hurry! I must secure the grounds!" says the warden.
+
+Hopefully this leads to a showdown on the main floor.
+
+- 1 gray slaad, x red slaads as needed
+
+Maybe the self-destruct sequence is set off at some point, and they need to find the warden and convince her it's safe to deactivate it.
