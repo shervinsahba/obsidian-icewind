@@ -16,6 +16,15 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Quests
+## Prisoner 13
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #Prisoner13  
+FLATTEN x WHERE contains(x,"Prisoner13") 
+SORT file.name ASC
+```
 ## RevelsEnd
 ```dataview
 TABLE WITHOUT ID
@@ -79,7 +88,7 @@ FROM #NatureSpirits
 FLATTEN x WHERE contains(x,"NatureSpirits") 
 SORT file.name ASC
 ```
-## The Signal and the Id
+## The Signal of the Id
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Session", 
