@@ -11,6 +11,7 @@ descriptors: [Dangerous, Magical, Criminal]
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors`
+> ![[prisoner13.png]]
 
 
 ```dataview
