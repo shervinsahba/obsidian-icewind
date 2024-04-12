@@ -28,7 +28,6 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 ## Chapter 2
 - Arveiturace is the progenitor of Auril's four tenets and scoff at the little devil.
 - Oya hugs Oona and boops Hazel, recognizing her for whom she was.
-- Nass might be posing as Anga.
 - Angajuk might need help against sahuagin.
 - Vaelish was jailed for a plot to overthrow Ten Towns. That sounds like Zhentarim dealings. Perhaps he had an alliance with Naerth. A jailbreaked Vaelish could be welcomed back into the Zhentarim fold. Alternatively, perhaps Vaelish overstepped his bounds, and Naerth arranged for his arrest. In any case, he could be useful for campaigns that emphasize the Zhentarim.
 - The Reghed Camp also looks perfect for some sort of barbaric ritual to conjure an avatar of Auril and foreshadow the Tests of the Frostmaiden.
