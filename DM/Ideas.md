@@ -102,7 +102,7 @@ Ideas about Ten Towns Council meetings:
 - [Black Cabin with microphoned Ghost](https://old.reddit.com/r/rimeofthefrostmaiden/comments/10uhn2e/wanted_to_share_my_implementation_of_the_black/)
 - [Nerf the Shield Guardian by scattering components](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wtoe5j/shield_guardian_ideas/il9dskd/)
 - Hazel at the Sea of Moving Ice. She could die or form a stasis of ice. Anga learned druidic ways at the boundary of ice and water, the domains of Auril and Umberlee. Is there a conflict between the two for Hazel? Is her new character there... building a submarine? it would be funny to put the Kwalish Apparatus into the game briefly like that. Is something plaguing Angajuk? Or does ringing the bell bring him in immediately? Does her quest end at the Temple of the Four Gods? 
-- [Reghed tribe titles](https://old.reddit.com/r/rimeofthefrostmaiden/comments/m22jf0/tracking_the_reghed_tribes/)
+- [Reghed tribe titles and tracking](https://old.reddit.com/r/rimeofthefrostmaiden/comments/m22jf0/tracking_the_reghed_tribes/)
 
 
 # Chapter 3
@@ -142,6 +142,9 @@ Ideas about Ten Towns Council meetings:
 # Vellynne
 By ExcelLynt: because of her pet necromancer background, I gave Vellynne a custom spell to handwave how Animate Dead works with regards to how normally you'd need to cast animate dead every day to create and maincain control of them, which is inconvenient when you need to maintain 8 zombie sled dogs. It hasn't actually come up at the table but she has Animate Pet (name pending) and once cast, they stay docile as long as they're within like, 300 feet of her, since the "timer" for them doesn't count down as long as they know their master is near. The spell is under review with the Arcane Brotherhood and once her research and the spell published and credited under her name, no one else can learn it 😛
 
+
+# Auril's Cult
+- [Rank of the cult with tenet generals](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1419fb0/expand_the_ranks_of_the_frost_druids_with_the/)
 
 # Revel's End
 - [Prisoner 13](https://www.dndbeyond.com/claim/source/prisoner-13)
