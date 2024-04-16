@@ -3,6 +3,9 @@ dg-publish: true
 ---
 
 
+## Orb of Gaseous Form
+> **Consumable**. Use an action to crush this orb to transform yourself only into a gaseous form. See the [Gaseous Form](https://www.dndbeyond.com/spells/gaseous-form) spell for details.
+
 ## Remorhaz Fang
 > **Craftable**. Can be worked into an ordinary piercing weapon to add an additional 1d6 fire damage on hit.
 
