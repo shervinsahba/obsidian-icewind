@@ -34,6 +34,7 @@ _Nature's Mantle_ (from Tasha's) made out of crag cat hide.
 
 [Spell Bolt Wraps](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/188ffba/the_griffons_saddlebag_spell_bolt_wraps_wondrous/)
 
+[Lantern Flail](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/1c6ciws/the_griffons_saddlebag_lantern_flail_weapon_flail/)
 
 ## Generators
 
