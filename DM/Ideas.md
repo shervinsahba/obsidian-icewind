@@ -139,9 +139,17 @@ Ideas about Ten Towns Council meetings:
 ## Encounters
  - [Coldlight Ritual](https://old.reddit.com/r/rimeofthefrostmaiden/comments/s1pt5u/resource_random_encounter_coldlight_ritual/)
 
-# Vellynne
+# Arcane Brotherhood
+
 By ExcelLynt: because of her pet necromancer background, I gave Vellynne a custom spell to handwave how Animate Dead works with regards to how normally you'd need to cast animate dead every day to create and maincain control of them, which is inconvenient when you need to maintain 8 zombie sled dogs. It hasn't actually come up at the table but she has Animate Pet (name pending) and once cast, they stay docile as long as they're within like, 300 feet of her, since the "timer" for them doesn't count down as long as they know their master is near. The spell is under review with the Arcane Brotherhood and once her research and the spell published and credited under her name, no one else can learn it 😛
 
+
+By Cptn_BIll: 
+**Avarice in Ythryn:** Avarice still has 20 Cult Fanatics when she enters Ythryn but she now also has 5 Warlock of the Fiend (Volo) that will each lead a group of 5 fanatics as search parties. Those Warlocks have the following changes: they are 9th level spellcasters instead of 17th so they don’t have any 1/day spells and only 2 spell slots of 5th level. I will upgrade their spell DC to 16 though. The total CR of one encounter with a search party should be 16. 
+
+A battle with Avarice will involve her, two gargoyles and an Ice Devil, either sent by Levistus to help her or from the Tower of Conjuration (Expanded Ythryn Towers). I would lvl her up to 11th level spellcaster, give her Chain Lightning or Contingency (or both) and raise her spell DC to 16 (18 Int, Duh).  A battle with her (now CR9), the devil and the gargoyles will have a total CR of 27.
+
+**Dzaan in Ythryn:** Dzaan will have created a small army of illusions thanks to the Rune Chamber in the Lost Spire. When he arrives in Ythryn he will have under his command 3 Tlincalli and 9 Blue Guard Drakes (Volo) that he will split into three search parties with the focus of bringing him anything of value they find. An encounter with such a party clocks in at CR 11. He will also have the illusion of a Young Blue Dragon he made real to help him control his desert dwelling force. He will have made real all supplies and gear necessary for his force to reach Ythryn via his illusions. As for him, he could use the Chain Lightning Stadium as his base of operation and even completely replace the Magen team from the encounter (Dzaan + Krintaas + Blue Dragon + 3 Tlincalli). I would also level him up to a 10th level wizard with the Illusory Self feature in the PHB and give him at least 75 hp. I would also increase his INT to 18, raise his spellcasting DC to 16 and completely revamps his spell list with stuff like Major Image, Creation, Phantasmal Killer, Mirror Image, etc. All these changes will raise his CR to 7 so an encounter against him, the blue dragon and Krintaas has a total CR of 19.
 
 # Auril's Cult
 - [Rank of the cult with tenet generals](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1419fb0/expand_the_ranks_of_the_frost_druids_with_the/)
@@ -177,3 +185,5 @@ In my mind, Asmodeus would never let Levistus be freed if he didn't want to, so 
 - [Organize plugin calls in an external directory and reference them using "!\[\[name\]\]" in notes](https://phd20.com/blog/organizing-obsidian-dnd-problem-with-plugins/)
 - You can use nested tags like \#level1/level2
 - [Discord embeds with Obsidian](https://phd20.com/blog/chronicle-rpgs-with-discord-embeds/)
+
+
