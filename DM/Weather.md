@@ -1,6 +1,6 @@
 
 >[!warning] Rime Exhaustion
-> After each hour of travel, pass a DC 10 CON save or suffer 1 point of Revised Exhaustion. 
+> After two hours of travel, pass a DC 10 CON save or suffer 1 point of Revised Exhaustion. 
 > See weather chart for details. Weather is rolled every 4 hours.
 
 | Weather     | Vision           | Travel Time | Other                                                                              |
