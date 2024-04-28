@@ -114,6 +114,8 @@ Ideas about Ten Towns Council meetings:
 - [One shot at Easthaven](https://old.reddit.com/r/rimeofthefrostmaiden/comments/18ji7u0/battle_for_easthaven_oneshot_survival_against/)
 - [Marc Singer's Dogsled speed analysis](https://old.reddit.com/r/rimeofthefrostmaiden/comments/jbrtru/dragon_scourge_more_solutions_100_raw/)
 - [Marc Singer's Destruction's Light notes](https://www.dmsguild.com/product/336933/Destructions-Light)
+- [Running Chapter 4 Bryn Shander](https://i.redd.it/jkoqauo5zevc1.jpeg)
+- [Battle for Bryn Shander](https://old.reddit.com/r/rimeofthefrostmaiden/comments/1cefg3s/the_battle_for_bryn_shander_my_take_on_the/)
 # Chapter 5
 - [Angajuk Encounter with Charming Sirens](https://old.reddit.com/r/rimeofthefrostmaiden/comments/mv7989/the_sisters_below_an_encounter_aboard_angajuk/)
 - [Alternative Tests of the Frostmaiden by Mithril Forge](https://docs.google.com/document/d/1HwVAAvAw8_BqRjKRD-bwyrFgAEBG4nzpGCArhwVlNC4/edit)
