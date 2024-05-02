@@ -16,24 +16,6 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Quests
-## Prisoner 13
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #Prisoner13  
-FLATTEN x WHERE contains(x,"Prisoner13") 
-SORT file.name ASC
-```
-## RevelsEnd
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #RevelsEnd  
-FLATTEN x WHERE contains(x,"RevelsEnd") 
-SORT file.name ASC
-```
 ## A Duergar Plot
 ```dataview
 TABLE WITHOUT ID
@@ -41,6 +23,15 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #ADuergarPlot  
 FLATTEN x WHERE contains(x,"ADuergarPlot") 
+SORT file.name ASC
+```
+## Prisoner 13
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #Prisoner13  
+FLATTEN x WHERE contains(x,"Prisoner13") 
 SORT file.name ASC
 ```
 ## The Lost Spire
@@ -59,15 +50,6 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #TheForgottenRealm  
 FLATTEN x WHERE contains(x,"TheForgottenRealm") 
-SORT file.name ASC
-```
-## Prisoner237
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #Prisoner237  
-FLATTEN x WHERE contains(x,"Prisoner237") 
 SORT file.name ASC
 ```
 ## Dzaan is Dead
@@ -109,6 +91,24 @@ SORT file.name ASC
 
 
 # Completed Quests
+## Prisoner237
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #Prisoner237  
+FLATTEN x WHERE contains(x,"Prisoner237") 
+SORT file.name ASC
+```
+## RevelsEnd
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #RevelsEnd  
+FLATTEN x WHERE contains(x,"RevelsEnd") 
+SORT file.name ASC
+```
 ## The Whale Hunters and Angajuk's Bell
 ```dataview
 TABLE WITHOUT ID
