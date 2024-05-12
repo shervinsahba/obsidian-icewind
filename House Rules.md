@@ -18,7 +18,7 @@ dg-publish: true
 - **Dying Status**. Unconscious status is boring, so hitting 0 HP enters you into the *dying* condition unless otherwise stated. 
 	- Roll death saving throws at the start of your turn like normal. 
 	- Fall *prone*. You cannot use movement nor any of your actions to stand up while *dying*.
-	- You may use your action or bonus action. However, either usage generates 3 levels of revised exhaustion. 
+	- You may use your action or bonus action. However, each usage generates 4 levels of revised exhaustion. 
  - **Massive Damage.** Taking massive damage (>50% HP) may result in a CON save to see if *something like* a [System Shock](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#MassiveDamage) effect occurs. Taking massive damage that knocks you unconscious may result in *something like* a [lingering injury](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries).
 
 ## Character Building
