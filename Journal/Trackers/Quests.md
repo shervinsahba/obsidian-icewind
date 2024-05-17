@@ -16,6 +16,15 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Quests
+## The Forgotten Realm
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheForgottenRealm  
+FLATTEN x WHERE contains(x,"TheForgottenRealm") 
+SORT file.name ASC
+```
 ## A Duergar Plot
 ```dataview
 TABLE WITHOUT ID
@@ -32,33 +41,6 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #Prisoner13  
 FLATTEN x WHERE contains(x,"Prisoner13") 
-SORT file.name ASC
-```
-## The Lost Spire
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #TheLostSpire  
-FLATTEN x WHERE contains(x,"TheLostSpire") 
-SORT file.name ASC
-```
-## The Forgotten Realm
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #TheForgottenRealm  
-FLATTEN x WHERE contains(x,"TheForgottenRealm") 
-SORT file.name ASC
-```
-## Dzaan is Dead
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #DzaanIsDead 
-FLATTEN x WHERE contains(x,"DzaanIsDead") 
 SORT file.name ASC
 ```
 ## Nature Spirits
@@ -91,6 +73,24 @@ SORT file.name ASC
 
 
 # Completed Quests
+## Dzaan is Dead
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #DzaanIsDead 
+FLATTEN x WHERE contains(x,"DzaanIsDead") 
+SORT file.name ASC
+```
+## The Lost Spire
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheLostSpire  
+FLATTEN x WHERE contains(x,"TheLostSpire") 
+SORT file.name ASC
+```
 ## Prisoner237
 ```dataview
 TABLE WITHOUT ID
