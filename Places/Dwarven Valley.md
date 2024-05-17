@@ -13,6 +13,9 @@ SORT file.name
 # Locations 
 The Dwarven Valley was a deep rift in Icewind Dale, located along the southern slopes of the mountain called [[Kelvin's Cairn]]. Within the valley was a complex network of tunnels, subterranean passages and mines that composed the home of the dale's dwarves, particularly those from Clan Battlehammer.
 
+## Axebreaker Vault
+Magically sealed vault that [[Fern]] has been hired to open. [[Prisoner 13 - Korra Glintstone]] held the key.
+
 # Happenings
 ```dataview
 TABLE WITHOUT ID

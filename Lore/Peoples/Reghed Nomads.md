@@ -10,7 +10,7 @@ The Reghedmen were migratory hunters, who herds of reindeer across the frozen tu
 Like many of their kind, they were suspicious of magic, and saw it as the tool of the evil and indolent.
 
 # Tribes
-- Tribe of the Bear
-- Tribe of the Elk
-- Tribe of the Tiger
-- Tribe of the Wolf
+- [[Tribe of the Bear]]
+- [[Tribe of the Elk]]
+- [[Tribe of the Tiger]]
+- [[Tribe of the Wolf]]
