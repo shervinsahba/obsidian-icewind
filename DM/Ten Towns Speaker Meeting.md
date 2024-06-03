@@ -15,7 +15,7 @@ Edgar
 
 
 Mead deliveries.
-- Targos, Bryn, Easthaven
+- Targos, Bryn, Easthaven;
 
 Speaker election: Kadroth.
 - Nay: Olivessa
@@ -24,8 +24,6 @@ Bremen absorption into Targos.
 - Yea: Naerth, Oarus, Dorbulgraf
 - Nay: Olivessa, Duvessa, Kadroth
 - Und: Trovus, Danneth, Nimsy, Edgar
-
-
 
 Cauldron debate.
 - Feed 360 people a day.
@@ -48,6 +46,6 @@ Ballista.
 - Bryn Shander has two ballistae.
 - Targos has three ballistae and one cannon.
 - Easthaven has one ballista.
-- Four ballista to be delivered to Bryn Shander, Easthaven wants them.
+- Eight ballista to be delivered to Bryn Shander, Easthaven wants them.
 
 Entrance in Termalaine.
