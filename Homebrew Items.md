@@ -3,6 +3,18 @@ dg-publish: true
 ---
 
 
+## Axe of Hurricanes
+(ref: [The Griffon's Saddlebag](https://www.patreon.com/posts/axe-of-85878795))
+![[Pasted image 20240615163040.png|500]]
+
+## Frostburn Blade
+(ref: [The Griffon's Saddlebag](https://www.patreon.com/posts/frostburn-blade-59432865))
+
+Currently the fire aspects are inert. The sword requires a heart of an adult remorhaz to empower it.
+
+![[Pasted image 20240615163153.png|500]]
+
+
 ## Orb of Gaseous Form
 > **Consumable**. Use an action to crush this orb to transform yourself only into a gaseous form. See the [Gaseous Form](https://www.dndbeyond.com/spells/gaseous-form) spell for details.
 
