@@ -5,14 +5,14 @@ dg-publish: true
 
 ## Axe of Hurricanes
 (ref: [The Griffon's Saddlebag](https://www.patreon.com/posts/axe-of-85878795))
-![[Pasted image 20240615163040.png|500]]
+![[axe_of_hurricanes.png|500]]
 
 ## Frostburn Blade
 (ref: [The Griffon's Saddlebag](https://www.patreon.com/posts/frostburn-blade-59432865))
 
 Currently the fire aspects are inert. The sword requires a heart of an adult remorhaz to empower it.
 
-![[Pasted image 20240615163153.png|500]]
+![[frostburn_blade.png|500]]
 
 
 ## Orb of Gaseous Form
