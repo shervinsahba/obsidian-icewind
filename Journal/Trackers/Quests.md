@@ -16,13 +16,13 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Quests
-## The Forgotten Realm
+## The Rime of the Frostmaiden
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Session", 
 	x AS ""
-FROM #TheForgottenRealm  
-FLATTEN x WHERE contains(x,"TheForgottenRealm") 
+FROM #TheRimeoftheFrostmaiden   
+FLATTEN x WHERE contains(x,"TheRimeoftheFrostmaiden") 
 SORT file.name ASC
 ```
 ## A Duergar Plot
@@ -34,13 +34,13 @@ FROM #ADuergarPlot
 FLATTEN x WHERE contains(x,"ADuergarPlot") 
 SORT file.name ASC
 ```
-## Prisoner 13
+## The Forgotten Realm
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Session", 
 	x AS ""
-FROM #Prisoner13  
-FLATTEN x WHERE contains(x,"Prisoner13") 
+FROM #TheForgottenRealm  
+FLATTEN x WHERE contains(x,"TheForgottenRealm") 
 SORT file.name ASC
 ```
 ## Nature Spirits
@@ -73,6 +73,33 @@ SORT file.name ASC
 
 
 # Completed Quests
+## The Council
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheCouncil   
+FLATTEN x WHERE contains(x,"TheCouncil") 
+SORT file.name ASC
+```
+## The Vault
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheVault   
+FLATTEN x WHERE contains(x,"TheVault") 
+SORT file.name ASC
+```
+## Prisoner 13
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #Prisoner13  
+FLATTEN x WHERE contains(x,"Prisoner13") 
+SORT file.name ASC
+```
 ## Dzaan is Dead
 ```dataview
 TABLE WITHOUT ID
