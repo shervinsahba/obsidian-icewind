@@ -43,6 +43,15 @@ FROM #TheForgottenRealm
 FLATTEN x WHERE contains(x,"TheForgottenRealm") 
 SORT file.name ASC
 ```
+## Frostburn Blade
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #FrostburnBlade  
+FLATTEN x WHERE contains(x,"FrostburnBlade") 
+SORT file.name ASC
+```
 ## Nature Spirits
 ```dataview
 TABLE WITHOUT ID
