@@ -4,4 +4,5 @@
 
 ![[Pasted image 20240707125334.png]]
 
-I am Sloopadoop.
+I am Sloopadoop, a Kua-Toa fishman. Surprised by my intellect? 
+
