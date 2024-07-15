@@ -79,6 +79,7 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [Arveiturace Encounter Text](https://old.reddit.com/r/rimeofthefrostmaiden/comments/veji4g/arveiaturace_introduction_text/)
 - [Fixing the Nautiloid](https://old.reddit.com/r/rimeofthefrostmaiden/comments/wgwba0/giving_my_players_the_nautiloid_assistance/ij4uk0q/)
 - [Travel Roles a la Lazy GM](https://old.reddit.com/r/rimeofthefrostmaiden/comments/15sd454/travel_roles/)
+- [Phaerimm Levistwist](https://old.reddit.com/r/rimeofthefrostmaiden/comments/k82xgq/building_on_the_grand_rework_of_rime_of_the/?share_id=gc7SssRGbLBXDqe0igu4N)
 
 - [Reghed Lullaby](https://old.reddit.com/r/rimeofthefrostmaiden/comments/18i164v/winters_womb_a_reghedjic_lullaby/)
 
