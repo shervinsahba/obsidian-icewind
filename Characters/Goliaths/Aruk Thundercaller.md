@@ -3,7 +3,7 @@ dg-publish: true
 role: Wyrmdoom Tribe Member
 age: Adult
 race: Goliath
-gender: Male
+gender: Man
 descriptors: [Honorable, Dull-witted, Angry]
 ---
 
