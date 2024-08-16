@@ -2,6 +2,7 @@
 dg-home: true
 dg-publish: true
 dg-hide-in-graph: true
+dg-pinned: true
 ---
 ![[rotf_cover_art_banner.png]]
 # Journal
