@@ -82,6 +82,15 @@ SORT file.name ASC
 
 
 # Completed Quests
+## Underdark Expedition
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #UnderdarkExpedition  
+FLATTEN x WHERE contains(x,"UnderdarkExpedition") 
+SORT file.name ASC
+```
 ## The Council
 ```dataview
 TABLE WITHOUT ID

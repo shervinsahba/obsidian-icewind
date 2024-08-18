@@ -3,6 +3,11 @@ dg-publish: true
 ---
 
 
+## Quieting Angel Brew
+> A Muzgardt Clan elixir. The quieting angel is a rare fungus in the Underdark which focuses the mind. It was found to delay the onset of chardalyn corruption, though its noxious nature often poisons the guts of non-dwarves. 
+>
+> A dose will prevent chardalyn corruption from increasing for three hours. Drinking the elixir as a non-dwarf requires passing a DC 12 CON saving throw, or else becoming poisoned for the duration or until the poison is cured.
+
 ## Axe of Hurricanes
 (ref: [The Griffon's Saddlebag](https://www.patreon.com/posts/axe-of-85878795))
 ![[axe_of_hurricanes.png|500]]

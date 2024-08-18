@@ -20,6 +20,8 @@ In earlier epochs, she was one of four Deities of Fury, the others being Malar, 
 - Auril and Malar hated each other from the onset. 
 - With Umberlee, Auril once cooperated with some degree of confidence. Eventually the wrathful sea goddess came to despite Auril, though, as her enduring cold and encroaching ice sheets blanketed the roaring northern seas.
 
+## Deep Duerra
+
 
 
 ## Overview of Deities
