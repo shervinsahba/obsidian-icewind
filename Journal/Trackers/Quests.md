@@ -2,6 +2,7 @@
 dg-publish: true
 dg-hide-in-graph: true
 ---
+
 # Quest Tag Overview
 Quests are represented by tags throughout this vault. Here are all the tags, sorted by recency.
 ```dataview
@@ -304,4 +305,4 @@ SORT file.name ASC
 
 Journal: **[[Chronicles]] | Quests |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]]  | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
 
-[[Icewind Quest | Return to homepage.]]
+[[Icewind Quest| Return to homepage.]]

@@ -2,6 +2,7 @@
 dg-home: true
 dg-publish: true
 dg-hide-in-graph: true
+dg-show-local-graph: false
 dg-pinned: true
 ---
 ![[rotf_cover_art_banner.png]]
@@ -17,7 +18,7 @@ SORT file.name DESC
 LIMIT 5
 ```
 
-## Map 
+# Map 
 [View full map](https://i.imgur.com/fQJuHB1.jpeg) | [Interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1)
 [![](https://i.imgur.com/BfUyxB8.jpeg)](https://i.imgur.com/fQJuHB1.jpeg)
 
