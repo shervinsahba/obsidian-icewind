@@ -3,6 +3,7 @@ dg-home: true
 dg-publish: true
 dg-hide-in-graph: true
 dg-show-local-graph: false
+dg-show-backlinks: false
 dg-pinned: true
 ---
 ![[rotf_cover_art_banner.png]]
@@ -25,8 +26,13 @@ LIMIT 5
 # About
 This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). Here's the source code: [github.com/shervinsahba/obsidian-icewind](https://github.com/shervinsahba/obsidian-icewind). There is a README about the notebook, plugins, and workflow in using this system for your own purposes. Note that the `.obsidian` folder has been purposely omitted, so you'll need to add the aforementioned plugins and theming.
 
- ![[Chem-1inch-70dpi.png|90]]
-**Junji's Tavern** is our gaming group.  **Junji Ito** is my dog. 
-
-![[chum.gif|130]]
-**As for myself**, check out [sahba.phd](https://sahba.phd). 
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px" src="https://icewind.quest/img/user/_attachments/slate_junji.png" />
+		<center>Here's my dog, Junji Ito.<br>He's a good boy.</center>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
+		<img style="padding: 10px" src="https://icewind.quest/img/user/_attachments/slate_chum.png" />
+			For more about me, check out<a href="https://syleria.netlify.app/">https://sahba.phd</a>
+	</div>
+</div>
