@@ -28,11 +28,11 @@ This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://icewind.quest/img/user/_attachments/slate_junji.png" />
+		<img style="padding: 10px; border-radius: 10px;"  src="https://raw.githubusercontent.com/shervinsahba/obsidian-icewind/main/_attachments/slate_junji.png" />
 		<center>Here's my dog, Junji Ito.<br>He's a good boy.</center>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
-		<img style="padding: 10px" src="https://icewind.quest/img/user/_attachments/slate_chum.png" />
+		<img style="padding: 10px; border-radius: 10px;" src="https://raw.githubusercontent.com/shervinsahba/obsidian-icewind/main/_attachments/slate_chum.png" />
 			For more about me, check out<a href="https://syleria.netlify.app/">https://sahba.phd</a>
 	</div>
 </div>
