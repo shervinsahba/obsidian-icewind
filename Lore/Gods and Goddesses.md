@@ -22,7 +22,7 @@ In earlier epochs, she was one of four Deities of Fury, the others being Malar, 
 
 ## Deep Duerra
 
-
+Dwarven demigoddess. Once a warrior, Duerra led a campaign of independence for the duergar, who were abused and essentially evolved for eons by illithid and shunned by their dwarven brothers since. No notable records of Deep Duerra have been written since the late 1300s, a hundred years in the past.
 
 ## Overview of Deities
 
