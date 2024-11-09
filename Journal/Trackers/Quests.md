@@ -26,15 +26,6 @@ FROM #TheRimeoftheFrostmaiden
 FLATTEN x WHERE contains(x,"TheRimeoftheFrostmaiden") 
 SORT file.name ASC
 ```
-## A Duergar Plot
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #ADuergarPlot  
-FLATTEN x WHERE contains(x,"ADuergarPlot") 
-SORT file.name ASC
-```
 ## The Forgotten Realm
 ```dataview
 TABLE WITHOUT ID
@@ -83,6 +74,15 @@ SORT file.name ASC
 
 
 # Completed Quests
+## A Duergar Plot
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #ADuergarPlot  
+FLATTEN x WHERE contains(x,"ADuergarPlot") 
+SORT file.name ASC
+```
 ## Underdark Expedition
 ```dataview
 TABLE WITHOUT ID
