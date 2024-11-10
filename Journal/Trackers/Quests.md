@@ -17,6 +17,15 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Quests
+## Destruction's Light
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #DestructionsLight    
+FLATTEN x WHERE contains(x,"DestructionsLight") 
+SORT file.name ASC
+```
 ## The Rime of the Frostmaiden
 ```dataview
 TABLE WITHOUT ID
