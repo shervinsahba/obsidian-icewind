@@ -1,16 +1,16 @@
 ---
 dg-publish: true
-role: Mage
+role: Siege Weapon
 age: Adult
 race: Dragon
 gender: Construct
-descriptors: ["Robotic", "Angsty", "Mysterious", DEAD]
+descriptors: ["Robotic", "Evil", "Powerful"]
 ---
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors` 
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID
