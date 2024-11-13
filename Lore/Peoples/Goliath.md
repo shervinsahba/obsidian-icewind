@@ -6,4 +6,4 @@ At the highest mountain peaks — far above the slopes where trees grow and wher
 
 Among goliaths, any adult who can’t contribute to the tribe is expelled.
 
-The two prominent tribes in Icewind Dale are those of [[Wyrmdoom]] and [[Skytower]].
+The two prominent tribes in Icewind Dale are those of [[Wyrmdoom Crag]] and [[Skytower]].
