@@ -58,13 +58,13 @@ Along the way to Sunblight, I may have the players come across a Reghed Camp, ju
 - [5e commoner life and economy](https://old.reddit.com/r/DnDBehindTheScreen/comments/3o2ydl/5e_commoner_life_and_economy/)
 - [Swarm rules](https://www.gmbinder.com/share/-L8LF9g2Tdut9NiOHG-G)
 
-| Social status                                                                                                      | Minimum income/month | Lifestyle/month | Upkeep/month | Taxes/month | Profit/month |     |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------- | --------------- | ------------ | ----------- | ------------ | --- |
-| Poor _(unskilled laborers, costermongers, peddlers, thieves, mercenaries)_                                         | 6 gp                 | 3 gp            | 2 gp         | 6 sp        | 4 sp         |     |
+| Social status                                                                                                      | Minimum income/month | Lifestyle/month | Upkeep/month | Taxes/month | Profit/month | 
+| ------------------------------------------------------------------------------------------------------------------ | -------------------- | --------------- | ------------ | ----------- | ------------ |
+| Poor _(unskilled laborers, costermongers, peddlers, thieves, mercenaries)_                                         | 6 gp                 | 3 gp            | 2 gp         | 6 sp        | 4 sp         |
 | Modest _(soldiers, craftsmen, students, priests, hedge wizards)_                                     | 30 gp                | 15 gp           | 10 gp        | 3 gp        | 2 gp         |     |
-| Comfortable _(merchants, skilled tradespeople, military officers)_                                                 | 60 gp                | 30 gp           | 20 gp        | 6 gp        | 4 gp         |     |
-| Wealthy _(highly successful merchants, a favoured servant of the royalty, or the owner of a few small businesses)_ | 120 gp               | 60 gp           | 40 gp        | 12 gp       | 8 gp         |     |
-| Aristocratic _(politicians, guild leaders, high priests)_                                                          | 300 gp               | 150 gp          | 100 gp       | 30 gp       | 20 gp        |     | 
+| Comfortable _(merchants, skilled tradespeople, military officers)_                                                 | 60 gp                | 30 gp           | 20 gp        | 6 gp        | 4 gp         | 
+| Wealthy _(highly successful merchants, a favoured servant of the royalty, or the owner of a few small businesses)_ | 120 gp               | 60 gp           | 40 gp        | 12 gp       | 8 gp         |
+| Aristocratic _(politicians, guild leaders, high priests)_                                                          | 300 gp               | 150 gp          | 100 gp       | 30 gp       | 20 gp        |
 
 # Assorted Ideas
 - [Resource list](https://docs.google.com/document/d/1RCMMs0Ymilc2ib7IRzJSY--4YV3-w_gt5xR7Nuu0tec/edit?pli=1)
