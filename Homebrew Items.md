@@ -2,6 +2,8 @@
 dg-publish: true
 ---
 
+## Pacifying Spores
+> A myconid sovereign's Pacifying Spores. When the container is thrown at a target within 30 ft, the spores disperse. The target must succeed on a DC 12 CON saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Quieting Angel Brew
 > A Muzgardt Clan elixir. The quieting angel is a rare fungus in the Underdark which focuses the mind. It was found to delay the onset of chardalyn corruption, though its noxious nature often poisons the guts of non-dwarves. 
