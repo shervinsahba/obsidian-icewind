@@ -4,9 +4,10 @@ dg-hide-in-graph: true
 ---
 ```dataview
 TABLE WITHOUT ID 
-	file.link as "Session",
+	file.link AS "Session",
+	saga AS "Saga",
 	summary AS "Chronicle", 
-	saga AS "Saga"
+	description AS "Description"
 FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP" AND file.name != "Loot"  AND file.name != "Chronicles" AND file.name != "Characters"
 SORT file.name DESC
 ```
