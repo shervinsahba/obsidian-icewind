@@ -19,8 +19,8 @@ SORT file.name DESC
 ```
 
 # Map 
-[View full map](https://i.imgur.com/fQJuHB1.jpeg) | [Interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1)
-[![](https://i.imgur.com/BfUyxB8.jpeg)](https://i.imgur.com/fQJuHB1.jpeg)
+[View full map](https://i.imgur.com/tQSddcj.jpeg) | [Interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1)
+[![](https://i.imgur.com/tQSddcj.jpeg)](https://i.imgur.com/tQSddcj.jpeg)
 
 # About
 This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). Here's the source code: [github.com/shervinsahba/obsidian-icewind](https://github.com/shervinsahba/obsidian-icewind). There is a README about the notebook, plugins, and workflow in using this system for your own purposes. Note that the `.obsidian` folder has been purposely omitted, so you'll need to add the aforementioned plugins and theming.
@@ -28,10 +28,10 @@ This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px; border-radius: 15px;"  src="https://raw.githubusercontent.com/shervinsahba/obsidian-icewind/main/_attachments/slate_junji.png" />
-		<center>Here's my dog, Junji Ito.<br>He's a good boy.</center>
+		<center>My dog, Junji.<br>He's a good boy.</center>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
 		<img style="padding: 10px; border-radius: 15px;" src="https://raw.githubusercontent.com/shervinsahba/obsidian-icewind/main/_attachments/slate_chum.png" />
-			For more about me, check out<a href="https://syleria.netlify.app/">https://sahba.phd</a>
+			Me.<a href="https://syleria.netlify.app/">https://sahba.phd</a>
 	</div>
 </div>
