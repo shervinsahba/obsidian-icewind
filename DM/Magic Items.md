@@ -1,32 +1,36 @@
-## My Brew
 
-**Frost Giant's Greataxe**
-Hugely Heavy, Martial, Two-handed
+# Homebrew
 
-Deals 3d12 slashing damage. Looks cool as hell.
+## All or Nothing Coin
+Wondrous Item, uncommon
 
-_Hugely Heavy._ The wielder must be size Medium or larger to hold the giant greataxe. Creatures size Medium or Large roll with disadvantage. If the wielder's Strength score is less than 20, attacker must pass a DC 14 Strength saving throw or fall prone.
+On a roll you would normally use a d20, flip a coin instead. Heads is a critical success (NAT20), tails is a critical fail (NAT1). Can be used twice per short rest.
 
-![[frost_giants_greataxe.png]]
-
-
-**Sword of the Pact Keeper**
+## Sword of the Pact Keeper
 Rod of the Pact Keeper +1 and Longsword +1. Might augment down the line. A nice Levistus feature may be a Symbol of Pain that tortures the recipient, granting adv to Intimidation/Persuasion. It'd also surely piss off the "good" party members.
 
-## Other Homebrew
-
+## Blink Dog Armor
 +1 Studded Leather armor made from blink dog skin, inset with blink dog teeth. Allows the wearer to use _Misty Step_ once or twice a day.
 
-
+## Frozen Knucklehead
 +1 club that's just a frozen knucklehead trout
 
+## Scrimshaw Jawbone
+Wondrous Item, uncommon
 
-## WotC
+This jawbone has been delicately carved with runic patterns that glow faintly blue in darkness. When worn or held in a hand, this talisman can temporarily grant an ally the benefits of stone skin.
+
+When a creature within 30ft of you suffers a critical hit, you can reduce it to a normal hit.
+
+This ability can only be used once per Long Rest.
+
+
+# WotC
 
 _Nature's Mantle_ (from Tasha's) made out of crag cat hide.
 
 
-## Griffon's Saddlebag
+# Griffon's Saddlebag
 
 [Forgekeeper's Spark](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/l217xn/the_griffons_saddlebag_forgekeepers_spark/)
 
@@ -36,7 +40,7 @@ _Nature's Mantle_ (from Tasha's) made out of crag cat hide.
 
 [Lantern Flail](https://old.reddit.com/r/TheGriffonsSaddlebag/comments/1c6ciws/the_griffons_saddlebag_lantern_flail_weapon_flail/)
 
-## Generators
+# Generators
 
 [Kassoon's magic item generator](https://www.kassoon.com/dnd/magic-item-generator/)
 
