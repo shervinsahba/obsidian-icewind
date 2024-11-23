@@ -8,7 +8,7 @@ dg-pinned: true
 ![[rotf_cover_art_banner_2.png]]
 
 # Journal
-**[[Chronicles]] | [[Quests]] |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
+**[[Chronicles]] | [[Quests]] |  [[Characters]] | [[XP]] | [[Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
 
 ```dataview
 TABLE WITHOUT ID 
