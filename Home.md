@@ -24,7 +24,7 @@ SORT file.name DESC
 [![](https://i.imgur.com/tQSddcj.jpeg)](https://i.imgur.com/tQSddcj.jpeg)
 
 # About
-This site was made as a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) notebook using [obsidian.md](https://obsidian.md) alongside the plugins [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden). Here's the source code: [github.com/shervinsahba/obsidian-icewind](https://github.com/shervinsahba/obsidian-icewind). There is a README about the notebook, plugins, and workflow in using this system for your own purposes. Note that the `.obsidian` folder has been purposely omitted, so you'll need to add the aforementioned plugins and theming.
+This site is an [Obsidian notebook](https://obsidian.md) reformatted for the web using the [digital-garden plugin](https://github.com/oleeskild/obsidian-digital-garden). To best chronicle my TTRPG campaign of Rime of the Frostmaiden, I've made liberal use of the [dataview plugin](https://blacksmithgu.github.io/obsidian-dataview/) to generate histories and callbacks, scraping information from my session notes to populate all the pages you see detailing happenings for characters and places. Check out the repository for more information: [github.com/shervinsahba/obsidian-icewind](https://github.com/shervinsahba/obsidian-icewind).
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
