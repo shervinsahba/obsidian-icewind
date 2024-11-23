@@ -24,7 +24,7 @@ A mysterious magic shop, not initially open when the party first visited.
 ## Armory
 Armory used by the militia. Sheriff is [[Markham Southwell]].
 ## The Hooked Knucklehead
-[[Lore/Peoples/Zhentarim]] managed tavern.
+[[Zhentarim]] managed tavern.
 ## The Northlook
 A well-frequented tavern. Tavern keeper [[Scramsaxx]] seems to know much local gossip. [[Ol Bitey]] lives on the wall.
 ## Kelvin's Comfort 

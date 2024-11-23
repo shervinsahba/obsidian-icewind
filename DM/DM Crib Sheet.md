@@ -60,7 +60,3 @@ dg-publish: false
 # Hiding
 
 https://www.dndbeyond.com/forums/dungeons-dragons-discussion/rules-game-mechanics/85448-finding-hidden-creatures-in-combat
-
-
-
-- Sea Hag blood (3 vials)

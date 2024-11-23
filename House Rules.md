@@ -28,4 +28,4 @@ dg-publish: true
 
 ![[junji.png]]
 
-[[Icewind Quest | Return to homepage.]]
+[[Home| Return to homepage.]]
