@@ -207,3 +207,6 @@ In my mind, Asmodeus would never let Levistus be freed if he didn't want to, so 
 - [Discord embeds with Obsidian](https://phd20.com/blog/chronicle-rpgs-with-discord-embeds/)
 
 
+# Auril was the Queen of Stygia
+- She wants to pull Icewind Dale into the Plane of Ice. The merger, via the Rime, would give her a foothold to takeover the domain of ice itself.
+- Levistus wants Auril's power for his own, to break free of Stygia's embrace. She still holds power over Stygia's magics.
