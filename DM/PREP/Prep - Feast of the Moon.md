@@ -1,0 +1,3 @@
+Alright, I think I have my post-Ch4 plan. A day or two after the dragon battle should be the Feast of the Moon. Thus...
+- 
+- Worshippers
