@@ -1,0 +1,6 @@
+- Auril was once Queen of Stygia, in the before times. They will learn of this in the Codicil of White. She still holds power there.
+- Levistus's tomb is her work, sanctioned by Asmodeus. It's the Eternal Rime.
+- The Eternal Rime is magic that encloses a region by drawing into the Plane of Ice.
+- Auril was cast out by the Gods of Fury. Desperate and dangerous, she's encasing IWD with the Eternal Rime in order to enter the Plane of Ice and attempt to takeover the domain of ice itself.
+- Levistus wants control over his realm and freedom. Perhaps that means Auril's spark.
+- Asmodeus wants to watch Levistus fail. He enjoys it. He'll gladly take rewards along the way. The duergar was him toying with both Auril and Levistus, heightening their struggles. Hoping for opportunity to step in and take the rewards with no effort.
