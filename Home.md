@@ -8,12 +8,11 @@ dg-pinned: true
 ![[rotf_cover_art_banner_2.png]]
 
 # Journal
-**[[Chronicles]] | [[Quests]] |  [[Characters]] | [[XP]] | [[Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
+**[Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb) | [[Characters]] |  [[Chronicles]]  | [[Loot]] | [[Quests]]  | [[XP]]**
 
 ```dataview
 TABLE WITHOUT ID 
-	file.link as "§",
-	summary AS "Chronicle",
+	default(file.link,"") + " " + default(summary,"") AS "Session",
 	saga AS "Saga" 
 FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP" AND file.name != "Loot" AND file.name != "Characters" AND file.name != "Chronicles"
 SORT file.name DESC

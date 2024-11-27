@@ -16,16 +16,7 @@ SORT reverse(rows.file.link) DESC
 ```
 
 
-# Active Quests
-## Destruction's Light
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #DestructionsLight    
-FLATTEN x WHERE contains(x,"DestructionsLight") 
-SORT file.name ASC
-```
+# Active Main Quests
 ## The Rime of the Frostmaiden
 ```dataview
 TABLE WITHOUT ID
@@ -44,6 +35,8 @@ FROM #TheForgottenRealm
 FLATTEN x WHERE contains(x,"TheForgottenRealm") 
 SORT file.name ASC
 ```
+
+# Active Side Quests
 ## Frostburn Blade
 ```dataview
 TABLE WITHOUT ID
@@ -83,6 +76,15 @@ SORT file.name ASC
 
 
 # Completed Quests
+## Destruction's Light
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #DestructionsLight    
+FLATTEN x WHERE contains(x,"DestructionsLight") 
+SORT file.name ASC
+```
 ## A Duergar Plot
 ```dataview
 TABLE WITHOUT ID
@@ -309,9 +311,5 @@ SORT file.name ASC
 ```
 
 
-
 ---
-
-Journal: **[[Chronicles]] | Quests |  [[Characters]] | [[Battles]] | [[XP]] | [[Loot]]  | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb)**
-
-[[Home| Return to homepage.]]
+[[Home]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb) | [[Characters]] |  [[Chronicles]]  | [[Loot]] | [[Quests]]  | [[XP]]

@@ -27,5 +27,3 @@ dg-publish: true
 
 
 ![[junji.png]]
-
-[[Home| Return to homepage.]]
