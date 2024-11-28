@@ -37,6 +37,15 @@ SORT file.name ASC
 ```
 
 # Active Side Quests
+## The Devil You Know
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheDevilYouKnow  
+FLATTEN x WHERE contains(x,"TheDevilYouKnow") 
+SORT file.name ASC
+```
 ## Frostburn Blade
 ```dataview
 TABLE WITHOUT ID
