@@ -4,7 +4,7 @@ role: Notary Scribe, Imprisoned at Caer Dineval
 age: Middle-Aged
 race: Human
 gender: Man
-descriptors: ["Feisty","Spry",""]
+descriptors: ["Feisty","Spry","Dedicated"]
 ---
 
 > [!info]+

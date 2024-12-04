@@ -4,7 +4,8 @@ role: Mage
 age: Young Adult
 race: Tiefling
 gender: Woman
-descriptors: ["Quiet", "Angsty", "Mysterious", DEAD]
+descriptors: ["Quiet", "Angsty", "Mysterious"]
+status: DEAD
 ---
 
 > [!info]+

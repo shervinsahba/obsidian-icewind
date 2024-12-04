@@ -4,7 +4,7 @@ role: Fern's Familiar
 age: Ageless
 race: Familiar
 gender: Being
-descriptors: [""]
+descriptors: []
 ---
 
 > [!info]+

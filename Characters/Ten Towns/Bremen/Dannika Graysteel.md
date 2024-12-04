@@ -5,6 +5,7 @@ age: Middle-Aged
 race: Half-Elf
 gender: Woman
 descriptors: [Scattered, Bookworm, Inquisitive]
+status: DEAD
 ---
 
 > [!info]+

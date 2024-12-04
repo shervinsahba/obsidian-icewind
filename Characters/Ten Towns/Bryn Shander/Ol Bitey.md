@@ -5,6 +5,7 @@ age: Unknown-Aged
 race: "Knucklehead Trout"
 gender: Fish
 descriptors: [Bitey, Old, Sonorous]
+status: DEAD?
 ---
 
 > [!info]+

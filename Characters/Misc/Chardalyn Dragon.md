@@ -5,6 +5,7 @@ age: Adult
 race: Dragon
 gender: Construct
 descriptors: ["Robotic", "Evil", "Powerful"]
+status: DEAD
 ---
 
 > [!info]+

@@ -4,7 +4,8 @@ role: Duergar, Child of Xardorok
 age: Adult
 race: Duergar
 gender: Unknown
-descriptors: ["","",""]
+descriptors: [Serious, Trained, Prideful]
+status: DEAD
 ---
 
 > [!info]+

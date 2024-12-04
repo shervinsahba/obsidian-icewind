@@ -4,7 +4,7 @@ role: Monk, Way of the Sun Soul
 age: Young Adult
 race: Halfling
 gender: Woman
-descriptors: [""]
+descriptors: []
 ---
 
 > [!info]+

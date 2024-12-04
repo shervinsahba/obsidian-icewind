@@ -5,6 +5,7 @@ age: Adult
 race: Human
 gender: Woman
 descriptors: [Ice, Ice, Baby]
+status: DEAD
 ---
 
 > [!info]+

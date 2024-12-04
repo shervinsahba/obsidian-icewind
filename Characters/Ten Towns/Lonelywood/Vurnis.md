@@ -4,7 +4,8 @@ role: Frost Druid
 age: Young Adult
 race: Human
 gender: Woman
-descriptors: [Mid-Winter Child, Blessed, Sisterly, DEAD]
+descriptors: [Blessed, Adored, Cold]
+status: DEAD?
 ---
 
 > [!info]+

@@ -4,7 +4,7 @@ role: Bear Tribe Shaman
 age: Middle-Aged
 race: Human
 gender: Woman
-descriptors: Glowing, Maternal, Fierce
+descriptors: [Glowing, Maternal, Fierce]
 ---
 
 > [!info]+

@@ -4,7 +4,8 @@ role: Fisher
 age: Middle-aged
 race: Human
 gender: Man
-descriptors: [DEAD]
+descriptors: ["Salty"]
+status: DEAD
 ---
 
 > [!info]+

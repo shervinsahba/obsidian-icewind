@@ -4,7 +4,8 @@ role: Hermit at the Sea of Moving Ice
 age: Adult
 race: Unknown
 gender: Woman
-descriptors: [""]
+descriptors: [Wise, Reincarnated as Hazel]
+status: DEAD
 ---
 
 > [!info]+

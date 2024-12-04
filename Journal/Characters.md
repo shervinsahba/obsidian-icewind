@@ -4,7 +4,7 @@ dg-hide-in-graph: true
 ---
 ```dataview 
 TABLE WITHOUT ID
-  file.link AS "Character", role AS "Role", race AS "Race", age AS "Age", gender AS "Gender", descriptors AS "Descriptors"
+  file.link AS "Character", status as "Status", age + " " + race + " " + gender AS "Description", descriptors AS "Traits"
 FROM "Characters"
 SORT file.name
 ```

@@ -5,6 +5,7 @@ age: Adult
 race: Half-Orc
 gender: Woman
 descriptors: [Dutiful, Patient, Lawful]
+status: DEAD
 ---
 
 > [!info]+

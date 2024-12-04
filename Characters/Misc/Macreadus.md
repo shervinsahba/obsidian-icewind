@@ -5,6 +5,7 @@ age: Unknown-Aged
 race: Human
 gender: Man
 descriptors: [Inventor, Spirit, Petty]
+status: DEAD
 ---
 
 > [!info]+

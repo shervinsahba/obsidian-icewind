@@ -5,6 +5,7 @@ age: Middle-aged
 race: Human
 gender: Woman
 descriptors: [Anxious, Hospitable, Kind]
+status: DEAD
 ---
 
 > [!info]+

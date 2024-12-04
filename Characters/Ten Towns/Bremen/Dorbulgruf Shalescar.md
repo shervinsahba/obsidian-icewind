@@ -5,6 +5,7 @@ age: Elderly
 race: Dwarf
 gender: Man
 descriptors: [Doddering, Possibly Senile, Good-Natured]
+status: 
 ---
 
 > [!info]+

@@ -5,6 +5,7 @@ age: Adult
 race: Giant
 gender: Man
 descriptors: [Survivalist, Raider, Outcast]
+status: DEAD
 ---
 
 > [!info]+

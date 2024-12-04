@@ -4,7 +4,8 @@ role: Duergar Lord
 age: Adult
 race: Duergar
 gender: Man
-descriptors: ["","",""]
+descriptors: [Devout,Overzealous,Despot]
+status: DEAD
 ---
 
 > [!info]+

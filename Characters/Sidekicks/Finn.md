@@ -4,7 +4,7 @@ role: Gadget's Homunculus Servant
 age: Ageless
 race: Familiar
 gender: Being
-descriptors: [""]
+descriptors: []
 ---
 
 > [!info]+

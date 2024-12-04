@@ -5,6 +5,7 @@ age: Adult
 race: Half-elf
 gender: Man
 descriptors: ["Effete","Gangly","Sommelier"]
+status: DEAD
 ---
 
 > [!info]+

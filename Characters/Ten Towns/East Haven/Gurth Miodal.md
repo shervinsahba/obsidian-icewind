@@ -4,7 +4,8 @@ role: Adventurer hired by Dzaan
 age: Adult
 race: Dwarf
 gender: Unknown
-descriptors: [DEAD]
+descriptors: []
+status: DEAD
 ---
 
 > [!info]+

@@ -4,7 +4,8 @@ role: Adventurer hired by Dzaan
 age: Young Adult
 race: Tiefling
 gender: Woman
-descriptors: [DEAD]
+descriptors: []
+status: DEAD
 ---
 
 > [!info]+

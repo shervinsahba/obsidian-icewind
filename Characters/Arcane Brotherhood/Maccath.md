@@ -4,7 +4,8 @@ role: Former Arcane Brotherhood Member
 age: Unknown-Aged
 race: Human
 gender: Man
-descriptors: [Pseudonym used by Macreadus to access Brotherhood networks]
+descriptors: [Pseudonym of Macreadus]
+status: DEAD
 ---
 
 > [!info]+

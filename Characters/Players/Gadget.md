@@ -4,7 +4,7 @@ role: Artificer, Armorer
 age: Adult
 race: Gnome
 gender: Woman
-descriptors: [""]
+descriptors: []
 ---
 
 > [!info]+

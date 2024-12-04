@@ -4,7 +4,7 @@ role: Bear Tribe King
 age: Middle-aged
 race: Human
 gender: Man
-descriptors: Powerful, Grizzly, Hulk
+descriptors: [Powerful, Grizzly, Hulk]
 ---
 
 > [!info]+

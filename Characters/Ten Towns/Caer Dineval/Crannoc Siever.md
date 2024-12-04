@@ -5,6 +5,7 @@ age: Middle-Aged
 race: Human
 gender: Man
 descriptors: ["Firebrand","Stir-crazy","Blowhard"]
+status: DEAD
 ---
 
 > [!info]+

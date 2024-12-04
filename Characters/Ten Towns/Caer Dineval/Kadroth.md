@@ -5,6 +5,7 @@ age: Middle-Aged
 race: Tiefling
 gender: Man
 descriptors: ["Charismatic","Thin-skinned","Visionary"]
+status: DEAD
 ---
 
 > [!info]+

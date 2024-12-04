@@ -4,7 +4,7 @@ role: Dwarven Valley miner, brother of Oobok
 age: Adult
 race: Dwarf
 gender: Man
-descriptors: [Gruff, Traumatized]
+descriptors: [Gruff, Traumatized, Brotherly]
 ---
 
 > [!info]+

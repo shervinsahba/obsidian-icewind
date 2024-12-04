@@ -4,7 +4,7 @@ role: Wolf Tribe King
 age: Adult
 race: Human
 gender: Man
-descriptors: Wild, Psychotic, Tenacious
+descriptors: [Wild, Psychotic, Tenacious]
 ---
 
 > [!info]+

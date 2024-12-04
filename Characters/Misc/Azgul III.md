@@ -1,18 +1,15 @@
 ---
 dg-publish: true
-role: Arcane Brotherhood Wizard
-age: Unknown-Aged
-race: Human
+role: Warlock, Pact of the Hexblade
+age: Adult
+race: Half-orc
 gender: Man
-descriptors: [Ambitious, Erudite, Cunning]
+descriptors: ["Clone"]
 status: DEAD
 ---
 
 > [!info]+
 > **`=this.role`**
-> `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
-![[dzaan.png|300]]
 
 ```dataview
 TABLE WITHOUT ID
@@ -21,3 +18,6 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
+
+
+

@@ -5,6 +5,7 @@ age: Adult
 race: Goliath
 gender: Man
 descriptors: [Honorable, Dull-witted, Angry]
+status: DEAD
 ---
 
 > [!info]+

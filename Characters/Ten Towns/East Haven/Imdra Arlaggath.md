@@ -5,6 +5,7 @@ age: Adult
 race: Elvish
 gender: Woman
 descriptors: [Merciless, Just, Veteran]
+status: DEAD
 ---
 
 > [!info]+

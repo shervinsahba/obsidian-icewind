@@ -5,6 +5,7 @@ age: Middle-aged
 race: Human
 gender: Man
 descriptors: ["Good-meaning","Curt","Wary"]
+status: DEAD
 ---
 
 > [!info]+

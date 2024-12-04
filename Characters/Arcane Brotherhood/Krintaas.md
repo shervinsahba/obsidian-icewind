@@ -4,7 +4,8 @@ role: Dzaan's Bodyguard
 age: Unknown-Aged
 race: Undead
 gender: Man
-descriptors: [Stoic, Grim, DEAD]
+descriptors: [Stoic, Grim, Keen-eyed]
+status: DEAD
 ---
 
 > [!info]+

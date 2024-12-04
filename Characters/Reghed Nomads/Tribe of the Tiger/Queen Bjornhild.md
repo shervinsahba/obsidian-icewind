@@ -4,7 +4,7 @@ role: Tiger Tribe Queen
 age: Adult
 race: Human
 gender: Woman
-descriptors: Cruel, Enduring, Isolationist
+descriptors: [Cruel, Enduring, Isolationist]
 ---
 
 > [!info]+

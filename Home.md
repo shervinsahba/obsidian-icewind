@@ -12,7 +12,7 @@ dg-pinned: true
 
 ```dataview
 TABLE WITHOUT ID 
-	default(file.link,"") + " " + default(summary,"") AS "Session",
+	default(file.link,"") + " " + summary AS "Session",
 	saga AS "Saga" 
 FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP" AND file.name != "Loot" AND file.name != "Characters" AND file.name != "Chronicles"
 SORT file.name DESC

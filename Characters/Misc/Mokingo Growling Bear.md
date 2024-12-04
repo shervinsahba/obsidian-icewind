@@ -4,7 +4,8 @@ role: Adventurer, Clan of the Bear
 age: Adult
 race: Goliath
 gender: Man
-descriptors: [Dead, Ferocious, Wanderer]
+descriptors: [Strong, Tenacious, Wanderer]
+status: DEAD
 ---
 
 > [!info]+

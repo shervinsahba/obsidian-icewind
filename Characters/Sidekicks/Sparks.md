@@ -4,7 +4,7 @@ role: Magic Sled Dog
 age: NA
 race: Dog
 gender: NA
-descriptors: Sparky, Spunky, Special
+descriptors: [Sparky, Spunky, Special]
 ---
 
 > [!info]+

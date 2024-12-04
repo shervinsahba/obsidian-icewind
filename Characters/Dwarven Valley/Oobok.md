@@ -4,7 +4,8 @@ role: Dwarven Valley miner, brother of Oorok
 age: Adult
 race: Dwarf
 gender: Man
-descriptors: [Mauled to death by Yeti]
+descriptors: []
+status: DEAD
 ---
 
 > [!info]+

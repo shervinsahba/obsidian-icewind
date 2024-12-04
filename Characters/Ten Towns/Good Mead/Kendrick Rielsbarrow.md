@@ -4,7 +4,8 @@ role: Deceased Speaker of Good Mead
 age: Adult
 race: Human
 gender: Man
-descriptors: [Stalwart, Hot-Headed, Dead]
+descriptors: [Stalwart, Hot-Headed, Fatherly]
+status: DEAD
 ---
 
 > [!info]+

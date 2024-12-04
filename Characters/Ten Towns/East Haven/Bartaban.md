@@ -5,6 +5,7 @@ age: Adult
 race: Human
 gender: Man
 descriptors: [Jaded, Normal, Commoner]
+status: DEAD
 ---
 
 > [!info]+

@@ -5,6 +5,7 @@ age: Adult
 race: Halfling
 gender: Man
 descriptors: [Spoony, Witty, Knave]
+status: DEAD
 ---
 
 > [!info]+

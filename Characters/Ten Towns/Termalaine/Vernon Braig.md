@@ -5,6 +5,7 @@ age: Adult
 race: Half-Orc
 gender: Man
 descriptors: [Creative, Friendly, Nimble]
+status: DEAD
 ---
 
 > [!info]+

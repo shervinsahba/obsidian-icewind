@@ -5,6 +5,7 @@ age: Young
 race: Half-Elven
 gender: Person
 descriptors: [Excitable, Curious, Moral]
+status: DEAD
 ---
 
 > [!info]+

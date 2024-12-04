@@ -4,7 +4,8 @@ role: Soothsayer, Black Sword Cultist
 age: Elderly
 race: Dwarf
 gender: Woman
-descriptors: ["Doomsayer","Heartless","DEAD"]
+descriptors: ["Doomsayer","Heartless","Prescient"]
+status: DEAD
 ---
 
 > [!info]+

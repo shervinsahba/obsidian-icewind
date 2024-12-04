@@ -5,6 +5,7 @@ age: Middle-Aged
 race: Dwarf
 gender: Man
 descriptors: [Unscrupulous, Capistalistic, Shrewd]
+status: DEAD
 ---
 
 > [!info]+

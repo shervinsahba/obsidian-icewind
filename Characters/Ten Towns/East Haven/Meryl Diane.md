@@ -4,7 +4,8 @@ role: Adventurer hired by Dzaan
 age: Adult
 race: Human
 gender: Woman
-descriptors: [DEAD]
+descriptors: []
+status: DEAD
 ---
 
 > [!info]+

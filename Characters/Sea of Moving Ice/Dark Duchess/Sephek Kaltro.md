@@ -5,6 +5,7 @@ age: Adult
 race: Human
 gender: Man
 descriptors: [Well-spoken, Cold-Hearted, Ruthless]
+status: DEAD
 ---
 
 > [!info]+

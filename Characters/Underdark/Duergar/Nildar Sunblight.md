@@ -4,7 +4,8 @@ role: Duergar Warlord, 5th Son of Xardorok
 age: Adult
 race: Duergar
 gender: Man
-descriptors: ["","",""]
+descriptors: [Creepy,Sociopathic,Experimenter]
+status: DEAD
 ---
 
 > [!info]+

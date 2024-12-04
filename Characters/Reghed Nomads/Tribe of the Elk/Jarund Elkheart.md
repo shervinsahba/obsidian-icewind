@@ -4,7 +4,7 @@ role: Elk Tribe King
 age: Old
 race: Human
 gender: Man
-descriptors: Patient, Weather-worn, Strained
+descriptors: [Patient, Weather-worn, Strained]
 ---
 
 > [!info]+

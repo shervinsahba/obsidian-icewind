@@ -4,7 +4,8 @@ role: Duergar Mind Master, 8th Son of Xardorok
 age: Adult
 race: Duergar
 gender: Man
-descriptors: ["DEAD"]
+descriptors: ["Petty, Small, Forgettable"]
+status: DEAD
 ---
 
 > [!info]+

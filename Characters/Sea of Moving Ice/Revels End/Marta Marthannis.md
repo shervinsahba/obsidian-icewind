@@ -5,6 +5,7 @@ age: Adult
 race: Half-elf
 gender: Woman
 descriptors: [Stern, Serious, Sage]
+status: DEAD
 ---
 
 > [!info]+

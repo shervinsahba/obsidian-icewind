@@ -4,7 +4,8 @@ role: Bear Tribe Herdrunner
 age: Middle-aged
 race: Human
 gender: Man
-descriptors: DEAD
+descriptors: []
+status: DEAD
 ---
 
 > [!info]+

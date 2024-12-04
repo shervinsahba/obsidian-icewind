@@ -4,7 +4,8 @@ role: Bear Tribe Scout
 age: Adult
 race: Human
 gender: Woman
-descriptors: DEAD
+descriptors: []
+status: DEAD
 ---
 
 > [!info]+

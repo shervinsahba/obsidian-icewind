@@ -4,7 +4,7 @@ role: Barbarian, Path of the Ancestral Guardian
 age: Adult
 race: Half-orc
 gender: Woman
-descriptors: [""]
+descriptors: []
 ---
 
 > [!info]+
