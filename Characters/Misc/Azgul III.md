@@ -5,7 +5,7 @@ age: Adult
 race: Half-orc
 gender: Man
 descriptors: ["Clone"]
-status: DEAD
+status:
 ---
 
 > [!info]+

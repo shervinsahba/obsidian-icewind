@@ -1,15 +1,16 @@
 ---
 dg-publish: true
-role: Warlock, Pact of the Hexblade
+role: Dwarven Valley Clan Leader
 age: Adult
-race: Half-orc
+race: Dwarf
 gender: Man
-descriptors: ["Clone"]
-status: DEAD
+descriptors: [Honorbound, Ambitious, Tough]
 ---
 
 > [!info]+
 > **`=this.role`**
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID
@@ -18,6 +19,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-
-
-

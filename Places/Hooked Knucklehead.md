@@ -1,9 +1,8 @@
 ---
-dg-publish: True
+dg-publish: true
 ---
 
-> [!info]+
-A floating city of the once powerful empire of High Netheril, now lost to time.
+Located in the heart of [[Bryn Shander]], the Hooked Knucklehead tavern has become a base and bastion for the [[Heroes of the Cairn]].
 
 # Happenings
 ```dataview

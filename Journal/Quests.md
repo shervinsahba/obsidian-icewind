@@ -17,6 +17,24 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Main Quests
+## Kuldahar
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #Kuldahar   
+FLATTEN x WHERE contains(x,"Kuldahar") 
+SORT file.name ASC
+```
+## The Chosen
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheChosen   
+FLATTEN x WHERE contains(x,"TheChosen") 
+SORT file.name ASC
+```
 ## The Rime of the Frostmaiden
 ```dataview
 TABLE WITHOUT ID
@@ -35,6 +53,7 @@ FROM #TheForgottenRealm
 FLATTEN x WHERE contains(x,"TheForgottenRealm") 
 SORT file.name ASC
 ```
+
 
 # Active Side Quests
 ## The Devil You Know
@@ -85,6 +104,15 @@ SORT file.name ASC
 
 
 # Completed Quests
+## Feast of the Moon
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #FeastOfTheMoon   
+FLATTEN x WHERE contains(x,"FeastOfTheMoon") 
+SORT file.name ASC
+```
 ## Destruction's Light
 ```dataview
 TABLE WITHOUT ID
