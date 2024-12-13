@@ -18,3 +18,7 @@
 |     17 - 20     | Legendary         |     80 gp materials  / h |
 
 
+| Material  | Price                                |          Note |
+|:--------- |:------------------------------------ | -------------:|
+| Recipe    | Same as Consumable Item Market Value |               |
+| Schematic | 10% of Item Market Value             | Used with use | 
