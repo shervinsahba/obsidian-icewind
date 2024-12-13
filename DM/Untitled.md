@@ -1,7 +1,7 @@
-| Character Level | Material Conversion Rate |
-| --------------- | ------------------------ |
-| 1               | 5 gp materials / h       |
-| 5               | 10 gp  materials / h     |
-| 9               | 20 gp  materials / h     |
-| 13              | 40 gp materials  / h     |
-| 17              | 80 gp materials  / h     |
+| Type      |    Cost | Hours (Level 1-4) | Hours (Level 5-8) | Hours (Level 9-12) | Hours (Level 13-16) | Hours (Level 17-20) |
+|:--------- | -------:| -----------------:| -----------------:| ------------------:| -------------------:| -------------------:|
+| Common    |      80 |                16 |                 8 |                  4 |                   2 |                   1 |
+| Uncommon  |     200 |                40 |                20 |                 10 |                   5 |                 2.5 |
+| Rare      |    2000 |                 - |               200 |                100 |                  50 |                  25 |
+| Very Rare |  20,000 |                 - |                 - |                250 |                 500 |                 250 |
+| Legendary | 200,000 |                 - |                 - |                  - |                5000 |                2500 |
