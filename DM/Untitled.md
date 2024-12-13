@@ -6,3 +6,15 @@
 | Rare      |   4,000 |                 - |               400 |                200 |                 100 |                  50 |
 | Very Rare |  40,000 |                 - |                 - |               2000 |                1000 |                 500 |
 | Legendary | 400,000 |                 - |                 - |                  - |               10000 |                5000 |
+
+
+
+| Character Level | Magical Potential | Material Conversion Rate |
+|:---------------:| :---------------- | ------------------------:|
+|      1 - 4      | Uncommon          |       5 gp materials / h | 
+|      5 - 8      | Rare              |     10 gp  materials / h |
+|     9 - 12      | Very Rare         |     20 gp  materials / h |
+|     13 - 16     | Legendary         |     40 gp materials  / h |
+|     17 - 20     | Legendary         |     80 gp materials  / h |
+
+
