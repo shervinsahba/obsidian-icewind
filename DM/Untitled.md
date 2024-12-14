@@ -1,12 +1,11 @@
 ##### Magic Item Crafting Table
-| Type      |    Cost | Hours (Level 1-4) | Hours (Level 5-8) | Hours (Level 9-12) | Hours (Level 13-16) | Hours (Level 17-20) |
-|:--------- | -------:| -----------------:| -----------------:| ------------------:| -------------------:| -------------------:|
-| Common    |      80 |                16 |                 8 |                  4 |                   2 |                   1 |
-| Uncommon  |     400 |                80 |                40 |                 20 |                  10 |                   5 |
-| Rare      |   4,000 |                 - |               400 |                200 |                 100 |                  50 |
-| Very Rare |  40,000 |                 - |                 - |               2000 |                1000 |                 500 |
-| Legendary | 400,000 |                 - |                 - |                  - |               10000 |                5000 |
-
+| Type      | Material   Value | Hours (Level 1-4) | Hours (Level 5-8) | Hours (Level 9-12) | Hours (Level 13-16) | Hours (Level 17-20) |
+|:--------- | ----------------:| -----------------:| -----------------:| ------------------:| -------------------:| -------------------:|
+| Common    |            40 gp |                 8 |                 4 |                  2 |                   1 |                 0.5 |
+| Uncommon  |           200 gp |                40 |                20 |                 10 |                   5 |                 2.5 |
+| Rare      |         2,000 gp |                 - |               200 |                100 |                  50 |                  25 |
+| Very Rare |        20,000 gp |                 - |                 - |               1000 |                 500 |                 250 |
+| Legendary |       200,000 gp |                 - |                 - |                  - |                5000 |                2500 |
 
 
 | Character Level | Magical Potential | Material Conversion Rate |
