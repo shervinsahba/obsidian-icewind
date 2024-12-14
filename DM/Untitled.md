@@ -18,7 +18,16 @@
 |     17 - 20     | Legendary         |     80 gp materials  / h |
 
 
-| Material  | Price                                |          Note |
-|:--------- |:------------------------------------ | -------------:|
-| Recipe    | Same as Consumable Item Market Value |               |
-| Schematic | 10% of Item Market Value             | Used with use | 
+| Material             | Price            |                  Note |
+|:-------------------- |:---------------- | ---------------------:|
+| Recipe               | Consumable Value |                       |
+| Schematic, Uncommon  | 10% of Value     | Consumed after 4 uses |
+| Schematic, Rare      | 10% of Value     | Consumed after 3 uses |
+| Schematic, Very Rare | 10% of Value     | Consumed after 2 uses | 
+| Schematic, Legendary | 10% of Value     |  Consumed after 1 use |
+
+
+| Design Type | Description                               | Price             |
+|:----------- | ----------------------------------------- |:----------------- |
+| Recipe      | Crafting instructions for consumables     | 50% of item value |
+| Schematic   | Crafting instructions for non-consumables | 10% of item value |
