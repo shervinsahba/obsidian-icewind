@@ -29,9 +29,3 @@
 | Water Vehicle  Training | Ships, Shipyards, Knots         | -                      | Water Vehicle Proficiency |
 
 
-Alchemist's Supplies
-Alchemist's Fire
-Antitoxin
-Oil of Etherealness
-Oil of Slipperiness
-Oil of Sharpness
