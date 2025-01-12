@@ -6,6 +6,14 @@ dg-publish: true
 Kuldahar was a settlement that sprung up around the gargantuan ancient oak tree, holy to the Church of Silvanus in the northern reaches of the Spine of the World mountains.
 ![[kuldahar.png]]
 
+# Locations
+## Counsel Chambers
+## Shrine of the Heartstone Gem
+
+## Statue of Silvanus
+
+## Root Cellar
+
 # Happenings
 ```dataview
 TABLE WITHOUT ID
