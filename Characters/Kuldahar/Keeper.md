@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-role: Herbalist
-age: Adult
-race: Gnome
+role: Keeper of the Heartstone Gem
+age: Old
+race: Human
 gender: Man
-descriptors: ["Herbalist","Conservative","Prudent"]
+descriptors: ["Druidic","Earthy","Oddball"]
 ---
 
 > [!info]+
