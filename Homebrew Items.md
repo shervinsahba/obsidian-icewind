@@ -1,6 +1,13 @@
 ---
 dg-publish: true
 ---
+## Starlight Cloak
+![[seer_starlight_cloak.png|500]]
+
+
+## Great Oak Crystal
+> *Wondrous Item, Pendant, (Requires Attunement)*
+> A green, acorn-shaped crystal from the Great Oak of Kuldahar. This crystal has 2 charges. Expending a charge allows the wearer to cast the *[scrying](https://5e.chonky.cloud/spells.html#scrying_phb)* spell (save DC 17). By holding hands with up to six other sentient creatures, the vision may be shared. The crystal regains 1 charge at Dawn.
 
 ## Pacifying Spores
 > A myconid sovereign's Pacifying Spores. When the container is thrown at a target within 30 ft, the spores disperse. The target must succeed on a DC 12 CON saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
