@@ -4,11 +4,11 @@ dg-hide-in-graph: true
 ---
 
 # Quest Tag Overview
-Quests are represented by tags throughout this vault. Here are all the tags, sorted by recency.
+Quests are represented by tags throughout this vault. Here are all the tags, sorted by recency. Some tags, like that for battles, are not meant to track quests. 
 ```dataview
 TABLE WITHOUT ID 
 	(tag + "(" + length(rows.file.link) + ")") AS "Quest Tag",
-	join(reverse(rows.file.link), ", ") AS Session
+	join(reverse(rows.file.link), ", ") AS Session 
 FROM "Journal"
 FLATTEN file.tags AS tag
 GROUP BY tag
@@ -53,7 +53,15 @@ FROM #TheForgottenRealm
 FLATTEN x WHERE contains(x,"TheForgottenRealm") 
 SORT file.name ASC
 ```
-
+## Reghed Tribes
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #ReghedTribes  
+FLATTEN x WHERE contains(x,"ReghedTribes") 
+SORT file.name ASC
+```
 
 # Active Side Quests
 ## The Devil You Know
@@ -65,6 +73,15 @@ FROM #TheDevilYouKnow
 FLATTEN x WHERE contains(x,"TheDevilYouKnow") 
 SORT file.name ASC
 ```
+## Ten Towns Things
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TenTownsThings   
+FLATTEN x WHERE contains(x,"TenTownsThings") 
+SORT file.name ASC
+```
 ## Frostburn Blade
 ```dataview
 TABLE WITHOUT ID
@@ -72,6 +89,15 @@ TABLE WITHOUT ID
 	x AS ""
 FROM #FrostburnBlade  
 FLATTEN x WHERE contains(x,"FrostburnBlade") 
+SORT file.name ASC
+```
+## Golem Guardian
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #GolemGuardian  
+FLATTEN x WHERE contains(x,"GolemGuardian") 
 SORT file.name ASC
 ```
 ## Nature Spirits
