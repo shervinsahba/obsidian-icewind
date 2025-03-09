@@ -17,15 +17,6 @@ SORT reverse(rows.file.link) DESC
 
 
 # Active Main Quests
-## Kuldahar
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #Kuldahar   
-FLATTEN x WHERE contains(x,"Kuldahar") 
-SORT file.name ASC
-```
 ## The Chosen
 ```dataview
 TABLE WITHOUT ID
@@ -130,6 +121,42 @@ SORT file.name ASC
 
 
 # Completed Quests
+## KrakenClimateArena
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #KrakenClimateArena   
+FLATTEN x WHERE contains(x,"KrakenClimateArena") 
+SORT file.name ASC
+```
+## The Frozen Games
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheFrozenGames  
+FLATTEN x WHERE contains(x,"TheFrozenGames") 
+SORT file.name ASC
+```
+## Oyaminartok
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #Oyaminartok  
+FLATTEN x WHERE contains(x,"Oyaminartok") 
+SORT file.name ASC
+```
+## Kuldahar
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #Kuldahar   
+FLATTEN x WHERE contains(x,"Kuldahar") 
+SORT file.name ASC
+```
 ## Feast of the Moon
 ```dataview
 TABLE WITHOUT ID
