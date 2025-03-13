@@ -1,9 +1,12 @@
 ---
 dg-publish: true
 ---
+
+## Remorhaz Spear
+
+
 ## Starlight Cloak
 ![[seer_starlight_cloak.png|500]]
-
 
 ## Great Oak Crystal
 > *Wondrous Item, Pendant, (Requires Attunement)*
