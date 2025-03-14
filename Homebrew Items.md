@@ -2,8 +2,11 @@
 dg-publish: true
 ---
 
-## Remorhaz Spear
+## Remorhaz Javelin
+![[Pasted image 20250313204412.png|500]]
+> This javelin is decorated with the frill spines and teeth of a slain remorhaz. Targets hit by this magic weapon take an extra 1d4 damage. The type of bonus damage is cold if the total of the attack roll is even, or fire damage if the total is odd.
 
+> Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
 ## Starlight Cloak
 ![[seer_starlight_cloak.png|500]]
