@@ -2,6 +2,9 @@
 dg-publish: true
 ---
 
+## Blessing of the Wavemother
+> You now have a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10, rounded up to the nearest 5.
+
 ## Remorhaz Javelin
 ![[Pasted image 20250313204412.png|500]]
 > This javelin is decorated with the frill spines and teeth of a slain remorhaz. Targets hit by this magic weapon take an extra 1d4 damage. The type of bonus damage is cold if the total of the attack roll is even, or fire damage if the total is odd.
