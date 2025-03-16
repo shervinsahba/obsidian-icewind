@@ -15,3 +15,6 @@ On Grimskalle:
 - The Chosen's death begins the true manifestation of Auril in this plane. The entire island will fall silent. A cold, spiraling funnel of frost will begin to creep down from the heavens. The party needs to escape.
 - They may see flashes of imagery between the planes as they escape via skill challenges. For example: Hurtling blocks of ice, some of which pass right through them like illusions (they're still in the deep Frostfell) while others shatter and hurt (they're through the planar borders).
 - Maybe a colossal vision of Auril will half-manifest as they reach Angajuk, and maybe she will be tackled by Umberlee, destroying the island. The party awakens on the shore, storms of winter blanketing the horizon.
+
+
+Sopo
