@@ -2,6 +2,14 @@
 dg-publish: true
 ---
 
+## Wereshark Lycanthropy
+Werewolf
+- **Shapechanger.** 
+- **Natural Armor.** Your AC is replaced by natural armor equal to 13 + DEX.
+- **Damage Immunities.** The wereshark has bludgeoning, piercing, and slashing from non-magical attacks that aren't silvered.
+- **Cursed Resilience.** When the wereshark is reduced to 0 hit points, it does not die or fall unconscious. Instead, it loses the ability to take actions other than to Dash. If it takes damage from a silvered weapon while at 0 hit points, it dies.
+- 
+  
 ## Blessing of the Wavemother
 > You now have a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10, rounded up to the nearest 5.
 
@@ -65,3 +73,4 @@ Currently the fire aspects are inert. The sword requires a heart of an adult rem
 > **Hugely Heavy.** The wielder must be size Medium or larger to hold the giant greataxe. Creatures size Medium or Large roll with disadvantage. If the wielder's Strength score is less than 20, attacker must pass a DC 14 Strength saving throw or have their movement reduced to zero and fall prone.
 >
 >Proficiency with a greataxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+
