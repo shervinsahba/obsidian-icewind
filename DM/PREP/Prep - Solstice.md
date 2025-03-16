@@ -18,3 +18,9 @@ On Grimskalle:
 
 
 Sopo
+
+
+
+# Ostoria
+
+**Ostoria** (meaning "**father's seat**" in [Jotun](https://forgottenrealms.fandom.com/wiki/Giant_language "Giant language")), also called **The Colossal Kingdom**, was the original kingdom of the [giants](https://forgottenrealms.fandom.com/wiki/Giant "Giant").
