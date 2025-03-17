@@ -2,6 +2,10 @@
 dg-publish: true
 ---
 
+## Shield of Agathys
+
+## Jotun Glowrune Pigment
+
 ## Wereshark Lycanthropy
 > - **Involuntary Transformation.** You undergo a draining and painful involuntary change every full moon that leaves you hungry and often confused and frightened. During the 1 minute transformation your body involuntarily shifts into your hybrid form, and your thoughts are filled with predatory bloodlust. The DM may take partial control over your actions. Your equipment does not transform with you. Depending on the items, they may be destroyed, bent out of shape, or prove extremely restricting.
 > - **Cursed Soul.** Acute stress triggers a possible transformation. Reaching zero hit points or rolling a natural 1 on an Attack Roll or Saving Throw may trigger an Involuntary Transformation even without the full moon's presence. Make a DC 15 Charisma saving throw to determine whether you maintain control. On a natural 20, you learn to tame your hybrid state.
@@ -11,7 +15,12 @@ dg-publish: true
 >
 > In hybrid form, you gain the Bite attack with which you are proficient. You lose your class features in this form. You either make a Bite attack or attack with whatever weapon you are wielding.
 > **Bite**. Melee Weapon Attack: reach 5 ft., one target. Hit: (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with lycanthropy.
-  
+
+
+## Blessing of the Storm Lord
+
+## Blessing of the Cold Crone
+
 ## Blessing of the Wavemother
 > You now have a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10, rounded up to the nearest 5.
 
