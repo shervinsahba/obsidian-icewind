@@ -4,7 +4,7 @@ dg-publish: true
 
 ## Wereshark Lycanthropy
 > - **Involuntary Transformation.** You undergo a draining and painful involuntary change every full moon that leaves you hungry and often confused and frightened. During the 1 minute transformation your body involuntarily shifts into your hybrid form, and your thoughts are filled with predatory bloodlust. The DM may take partial control over your actions. Your equipment does not transform with you. Depending on the items, they may be destroyed, bent out of shape, or prove extremely restricting.
-> - **Cursed Soul.** Acute stress triggers a possible transformation. Rolling a natural 1 on an Attack Roll or Saving Throw may trigger an Involuntary Transformation even without the full moon's presence. Make a DC 15 Charisma saving throw to determine whether you maintain control. On a natural 20, you learn to tame your hybrid state.
+> - **Cursed Soul.** Acute stress triggers a possible transformation. Reaching zero hit points or rolling a natural 1 on an Attack Roll or Saving Throw may trigger an Involuntary Transformation even without the full moon's presence. Make a DC 15 Charisma saving throw to determine whether you maintain control. On a natural 20, you learn to tame your hybrid state.
 > - **Natural Armor.** Your AC is replaced by natural armor equal to 13 + DEX.
 > - **Damage Immunities.** The wereshark has bludgeoning, piercing, and slashing from non-magical attacks that aren't silvered.
 > - **Cursed Resilience.** When the wereshark is reduced to 0 hit points, it does not die or fall unconscious. Instead, it loses the ability to take actions other than to Dash. If it takes damage from a silvered weapon while at 0 hit points, it dies.
