@@ -5,6 +5,17 @@ dg-publish: true
 ## Shield of Agathys
 
 ## Jotun Glowrune Pigment
+> This stone vessel contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint. The pot contains 4 uses of pigment, each use of which may paint one rune. When all uses are expended the vessel turns to ash.
+> 
+> A creature can spend 10 minutes to paint one of the following runes onto itself or another creature:
+> 
+> - **Journey Rune**. Difficult terrain doesn't cost the painted creature extra movement.
+> - **Life Rune**. The painted creature gains 10 temporary hit points and has advantage on death saving throws.
+> - **Light Rune**. The painted creature gains darkvision to a range of 30 feet. If the painted creature already has darkvision from another source, the range of its darkvision increases by 30 feet.
+> - **Mountain Rune**. The painted creature is immune to being knocked prone and has advantage on Strength and Constitution saving throws.
+> - **Shield Rune**. The painted creature has advantage on Dexterity saving throws against effects that deal damage.
+> 
+> A creature can benefit from only one painted rune at a time, so a new rune painted on a creature has no effect unless the old one is removed first. The rune's benefits last for 8 hours or until the painted creature uses its action to wipe away the rune.
 
 ## Wereshark Lycanthropy
 > - **Involuntary Transformation.** You undergo a draining and painful involuntary change every full moon that leaves you hungry and often confused and frightened. During the 1 minute transformation your body involuntarily shifts into your hybrid form, and your thoughts are filled with predatory bloodlust. The DM may take partial control over your actions. Your equipment does not transform with you. Depending on the items, they may be destroyed, bent out of shape, or prove extremely restricting.
@@ -16,13 +27,17 @@ dg-publish: true
 > In hybrid form, you gain the Bite attack with which you are proficient. You lose your class features in this form. You either make a Bite attack or attack with whatever weapon you are wielding.
 > **Bite**. Melee Weapon Attack: reach 5 ft., one target. Hit: (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with lycanthropy.
 
-
+## Blessing of the Great Beast
+> This blessing lasts for one month. Your Strength score is 19 for the duration of the blessing. If your Strength score increases beyond 19 without the use of the blessing, the blessing has no additional effect.
+ 
 ## Blessing of the Storm Lord
+> This blessing lasts for one month. You know have resistance to lightning damage.
 
 ## Blessing of the Cold Crone
+> This blessing lasts for one month. You now know and may cast Absorb Elements at 2nd Level once per Long Rest without using a spell slot.
 
-## Blessing of the Wavemother
-> You now have a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10, rounded up to the nearest 5.
+## Blessing of the Wave Mother
+> This blessing lasts for one month. You now have a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10, rounded up to the nearest 5.
 
 ## Remorhaz Javelin
 ![[Pasted image 20250313204412.png|500]]
