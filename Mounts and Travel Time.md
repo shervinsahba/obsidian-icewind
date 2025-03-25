@@ -47,7 +47,7 @@ dg-publish: true
 | On foot                 | 2          | 1/2          | 1/4            | 4                       | NA                  |
 
 Notes: 
- - **Endurance and Exhaustion.** At the given endurance duration, if a short rest is not taken, mounts and characters on foot suffer 3 levels of revised exhaustion. Traveling on foot on roads ignores endurance restrictions.
+ - **Endurance and Exhaustion.** At the given endurance duration, if a short rest is not taken, then mounts and characters on foot suffer one level of exhaustion.
  - **Hauling:** 
 	 - **Axe Beaks.** Axe Beaks are not known to haul sleds nor wagons due to their fickle and fiery nature. Thus they are most commonly used for a single rider and small cargo. For reference, an axe beak's carrying capacity is 420 lbs. Theoretically, a hauling axe beak could pull up to 2100 lbs.
 	 - **Dogsleds.** While the maximum hauling capacity for dogs scales with the number of dogs, the given speeds in this table are for an assumed load of up to 720 lbs. This load covers the maximum hauling capacity of two dogs and constitutes the musher and light cargo or a couple passengers. If hauling a greater load than 720 lbs, then use the speed and endurance statistics for a dogsled team with two fewer dogs.
