@@ -5,7 +5,7 @@ dg-publish: true
 
 
 ## Jotun Glowrune Pigment
-> This stone vessel contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint. The pot contains 4 uses of pigment, each use of which may paint one rune. When all uses are expended the vessel turns to ash.
+> This stone vessel contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint. The pot contains **exactly 4 uses of pigment**, each use of which may paint one rune. When all uses are expended the vessel turns to ash.
 > 
 > A creature can spend 10 minutes to paint one of the following runes onto itself or another creature:
 > 
@@ -18,19 +18,20 @@ dg-publish: true
 > A creature can benefit from only one painted rune at a time, so a new rune painted on a creature has no effect unless the old one is removed first. The rune's benefits last for 8 hours or until the painted creature uses its action to wipe away the rune.
 
 ## Shield of Agathys
-> This shield was made from a giant scale of an ancient white dragon.
+> *Armor (shield), (requires attunement)*
+> This shield was made from the scales of an ancient white dragon. It has 3 charges. While wearing the shield, you can use an action and expend 1 or more charge to cast *armor of agathys* at 1st, 2nd, or 3rd level respective to the number of charges spent. You can also use an action and expend 2 charges to cast the cold version of *fire shield*. The shield regains all expended charges at Dawn.
 
 ## Blessing of the Storm Lord
-> This blessing lasts for one month. You know have resistance to lightning damage.
+> This blessing lasts for one month, granting you resistance to lightning damage.
 
 ## Blessing of the Cold Crone
-> This blessing lasts for one month. You now know and may cast Absorb Elements at 2nd Level once per Long Rest without using a spell slot.
+> This blessing lasts for one month, granting you the Absorb Elements spell. You may cast this spell at 2nd Level once per Long Rest without using a spell slot.
 
 ## Blessing of the Great Beast
-> This blessing lasts for one month. Your Strength score is 19 for the duration of the blessing. If your Strength score increases beyond 19 without the use of the blessing, the blessing has no additional effect.
+> This blessing lasts for one month, granting you a Strength score of 19 for the duration of the blessing. If your Strength score increases beyond 19 without the use of the blessing, the blessing has no additional effect.
 
 ## Blessing of the Wave Mother
-> This blessing lasts for one month. You now have a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10, rounded up to the nearest 5.
+> This blessing lasts for one month, granting you a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10 (if necessary, round up to the nearest multiple of 5).
 
 ## Wereshark Lycanthropy
 > - **Involuntary Transformation.** You undergo a draining and painful involuntary change every full moon that leaves you hungry and often confused and frightened. During the 1 minute transformation your body involuntarily shifts into your hybrid form, and your thoughts are filled with predatory bloodlust. The DM may take partial control over your actions. Your equipment does not transform with you. Depending on the items, they may be destroyed, bent out of shape, or prove extremely restricting.
@@ -44,6 +45,7 @@ dg-publish: true
 
 ## Remorhaz Javelin
 ![[remorhazspear.png|500]]
+> *Weapon (javelin)*
 > This javelin is decorated with the frill spines and teeth of a slain remorhaz. Targets hit by this magic weapon take an extra 1d4 damage. The type of bonus damage is cold if the total of the attack roll is even, or fire damage if the total is odd.
 
 > Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
