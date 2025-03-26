@@ -121,6 +121,15 @@ SORT file.name ASC
 
 
 # Completed Quests
+## Four Gods of Fury
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #FourGodsofFury    
+FLATTEN x WHERE contains(x,"FourGodsofFury") 
+SORT file.name ASC
+```
 ## KrakenClimateArena
 ```dataview
 TABLE WITHOUT ID
