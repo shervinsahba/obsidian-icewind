@@ -34,14 +34,18 @@ dg-publish: true
 > This blessing lasts for one month, granting you a swim speed. If you already had a natural swim speed, it increases by 10. If you did have a natural swim speed already, your new swim speed is half your speed plus 10 (if necessary, round up to the nearest multiple of 5).
 
 ## Wereshark Lycanthropy
-> - **Involuntary Transformation.** You undergo a draining and painful involuntary change every full moon that leaves you hungry and often confused and frightened. During the 1 minute transformation your body involuntarily shifts into your hybrid form, and your thoughts are filled with predatory bloodlust. The DM may take partial control over your actions. Your equipment does not transform with you. Depending on the items, they may be destroyed, bent out of shape, or prove extremely restricting.
-> - **Cursed Soul.** Acute stress triggers a possible transformation. Reaching zero hit points or rolling a natural 1 on an Attack Roll or Saving Throw may trigger an Involuntary Transformation even without the full moon's presence. Make a DC 15 Charisma saving throw to determine whether you maintain control. On a natural 20, you learn to tame your hybrid state.
-> - **Natural Armor.** Your AC is replaced by natural armor equal to 13 + DEX.
-> - **Damage Immunities.** The wereshark has bludgeoning, piercing, and slashing from non-magical attacks that aren't silvered.
-> - **Cursed Resilience.** When the wereshark is reduced to 0 hit points, it does not die or fall unconscious. Instead, it loses the ability to take actions other than to Dash. If it takes damage from a silvered weapon while at 0 hit points, it dies.
+> **Involuntary Transformation.** You undergo a draining and painful involuntary change every full moon that leaves you hungry and often confused and frightened. During the 1 minute transformation your body involuntarily shifts into your hybrid form, and your thoughts are filled with predatory bloodlust. The DM may take partial control over your actions. Your equipment does not transform with you. Depending on the items, they may be destroyed, bent out of shape, or prove extremely restricting.
+> 
+> **Stress Triggers.** Acute stress may also trigger a transformation. Whenever you roll a natural 1 on a saving throw or whenever you're about to roll a death saving throw, you must pass a DC 15 Charisma saving throw else undergo involuntary transformation. On a natural 20, you learn to tame your hybrid state.
 >
-> In hybrid form, you gain the Bite attack with which you are proficient. You lose your class features in this form. You either make a Bite attack or attack with whatever weapon you are wielding.
-> **Bite**. Melee Weapon Attack: reach 5 ft., one target. Hit: (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with lycanthropy.
+> In hybrid form, you lose your innate class features and gain the following wereshark features.
+> - **Natural Armor.** Your AC is replaced by natural armor equal to 12 + DEX.
+> - **Damage Resistance.** The lycanthrope has bludgeoning, piercing, and slashing resistance from non-magical attacks that aren't silvered.
+> - **Cursed Resilience.** When the lycanthrope is reduced to 0 hit points, it does not die or fall unconscious. Instead, it loses the ability to take actions other than to Dash. If it takes damage from a silvered weapon while at 0 hit points, it dies.
+> - **Multiattack.** You make two attacks, one of which may be with your bite. 
+> - **Bite**. Melee Weapon Attack: reach 5 ft., one target. +STR+PRO to hit. Hit: (2d8 + 4) piercing damage.
+> - **Blood Frenzy.** You have advantage on melee attack rolls against any creature that doesn't have all its hit points.
+> - **Electrosensitive**. If you take 10 or more lightning damage from a single source, you have disadvantage on attacks until the end of its following turn.
 
 ## Remorhaz Javelin
 ![[remorhazspear.png|500]]
