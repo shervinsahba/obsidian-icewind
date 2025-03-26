@@ -14,7 +14,7 @@ Auril is the goddess of winter. Known as Lady Icekiss, Stormbringer, Queen of Fr
 
 ![[symbol_of_auril.png]]
 
-In earlier epochs, she was one of four Deities of Fury, the others being Malar, Umberlee, and Talos. They leveraged their combined destructive power to inspire much reverent fear and tribute. 
+In earlier epochs, she was one of four Deities of Fury, the others being [[Malar]], [[Umberlee]], and [[Talos]]. They leveraged their combined destructive power to inspire much reverent fear and tribute. 
 
 - Her relationship with Talos was cordial but never warm. Talos had the tendency to take all the glory for himself, and he eventually betrayed Auril's trust. 
 - Auril and Malar hated each other from the onset. 
