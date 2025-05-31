@@ -7,7 +7,7 @@ gender: Woman
 descriptors: [Cruel, Enduring, Isolationist]
 ---
 
-> [!info]+
+> [!info]+c
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors`
