@@ -17,8 +17,6 @@ On Grimskalle:
 - Maybe a colossal vision of Auril will half-manifest as they reach Angajuk, and maybe she will be tackled by Umberlee, destroying the island. The party awakens on the shore, storms of winter blanketing the horizon.
 
 
-Sopo
-
 
 
 # Ostoria

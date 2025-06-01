@@ -2,6 +2,9 @@
 dg-publish: true
 dg-hide-in-graph: true
 ---
+
+![[characteradvancement.png]]
+
 ```dataview
 TABLE WITHOUT ID
 	split(xp, " ~ ")[0] AS "XP",
@@ -13,7 +16,7 @@ FLATTEN sum(rows.xp) AS Total
 SORT file.name DESC
 ```
 
-![[characteradvancement.png]]
+
 
 ---
 [[Home]] | [Calendar](https://app.fantasy-calendar.com/calendars/38f9e3f5098bac1f655a4fb4241f35eb) | [[Characters]] |  [[Chronicles]]  | [[Loot]] | [[Quests]]  | [[XP]]
