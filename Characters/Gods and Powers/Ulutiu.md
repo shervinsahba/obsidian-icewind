@@ -1,24 +1,21 @@
 ---
 dg-publish: true
-role: Demigod of Glaciers
+role: Once Demigod of Glaciers
 age: Ancient
 race: Giant-kin
 gender: Man
-descriptors: [Peaceful, Wild, Contemplative]
-status: EXILED
+descriptors: [Firm, Protective, Contemplative]
+status: EXILE
 ---
 Ulutiu was the demigod of glaciers, frozen seas, polar environments, and arctic dwellers and the father of the giant-kin races like verbeegs and firbolgs. **The Eternal Sleeper was in a state of voluntarily-induced slumber, not quite dead and alive enough to grant spells but floating unconscious through the Astral Plane.**
 
-Giants were descended from all-father Annam and his wife, the goddess Olthea. The giant-kin, though, descended from Olthea's affair with Ulutia. Ancient giant carvings circa -2500 DR show Annam's retribution -- slaying Ulutiu -- but in reality Ulutia made a bargain to enter an eternal slumber, exiling himself to the Astral Plane.
+Othea was the mother of the giant races of Faeriin and wife of Annam, father of the true giant races. She had children with Ulutiu, creating the giant-kin. When they were discovered, Ulutiu voluntarily exiled himself in exchange for Annam’s promise to spare his wife. He sank into the Cold Ocean with his ice necklace, causing it to freeze into the Great Glacier. Othea planned to reunite with Ulutiu but was slain by one of her sons, who could not venture onto the Great Glacier while his mother was alive. 
 
-**Ulutiu fell deep into the Cold Ocean, where his amulet began to freeze the waters around him. The ice spreading from Ulutiu's amulet formed the Endless Ice Sea and the Great Glacier, which destroyed much of what remained of Ostoria.**
+**Some say Ulutiu's fall into the Cold Sea creating the Endless Ice Sea and the Great Glacier. The spreading ice, whose source was said to be Ulutiu's amulet of blue and white crystals, destroyed much of what remained of Ostoria.**
 
 Ulutiu's true origins were unknown. Some believed he may originally have been mortal while others believed he was always divine, whether he was an avatar of some other god or a refugee entity from another world.
 
-![[ulutia.png]]
-
-
-
+He had few enemies and fewer allies. In his slumbering exile, his powers waned as modern and existing gods overtook his portfolio of cold and frost.
 
 > [!info]+
 > **`=this.role`**
