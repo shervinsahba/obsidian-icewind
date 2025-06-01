@@ -5,6 +5,7 @@ age: Ancient
 race: Devil
 gender: Man
 descriptors: [Vile,Masochistic,Sulfurous]
+status: 
 ---
 
 > [!info]+

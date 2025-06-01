@@ -1,16 +1,16 @@
 ---
 dg-publish: true
-role: Goddess of the Sea
-age: Ageless
-race: God
+role: Queen Jarl of Grimskalle
+age: Unknown
+race: Giant
 gender: Woman
-descriptors: [Malicious, Capricious, Turbulent]
-status:
+descriptors: []
+status: DEAD
 ---
+
 
 > [!info]+
 > **`=this.role`**
-> The Wave Mother. The Bitch Queen.
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
 

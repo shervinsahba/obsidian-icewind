@@ -5,6 +5,7 @@ age: Ageless
 race: God
 gender: Man
 descriptors: [Destructive, Vengeful, Impulsive]
+status:
 ---
 
 > [!info]+

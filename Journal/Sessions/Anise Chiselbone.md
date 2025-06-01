@@ -1,16 +1,16 @@
 ---
 dg-publish: true
-role: Goddess of the Sea
-age: Ageless
-race: God
+role: Hag of the Cauldron Caves
+age: Unknown
+race: Hag
 gender: Woman
-descriptors: [Malicious, Capricious, Turbulent]
-status:
+descriptors: [Tricksy, Hideous, Grimacing]
+status: DEAD
 ---
+
 
 > [!info]+
 > **`=this.role`**
-> The Wave Mother. The Bitch Queen.
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
 

@@ -4,7 +4,8 @@ role: Druid, Circle of the Stars
 age: Adult
 race: Tortle
 gender: Man
-descriptors: []
+descriptors: [Adventurer]
+status: 
 ---
 
 > [!info]+

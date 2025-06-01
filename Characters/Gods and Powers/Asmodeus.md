@@ -4,7 +4,8 @@ role: Archdevil, Lord of Nessus, Overlord of the Nine Hells
 age: Ancient
 race: Fiend
 gender: Male
-descriptors: [Articulate, Certain, Wise]
+descriptors: [Articulate, Certain, Fearsome]
+status:
 ---
 
 > [!info]+

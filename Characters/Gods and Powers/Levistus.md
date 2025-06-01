@@ -5,6 +5,7 @@ age: Ancient
 race: Fiend
 gender: Male
 descriptors: [Treacherous, Debonair, Evil]
+status:
 ---
 
 > [!info]+

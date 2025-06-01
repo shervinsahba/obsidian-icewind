@@ -1,16 +1,16 @@
 ---
 dg-publish: true
-role: Goddess of the Sea
-age: Ageless
-race: God
-gender: Woman
-descriptors: [Malicious, Capricious, Turbulent]
-status:
+role: Professor Orb
+age: Unknown
+race: Item
+gender: Man
+descriptors: [Pompous, Well-read, Condescending]
+status: ITEM
 ---
+
 
 > [!info]+
 > **`=this.role`**
-> The Wave Mother. The Bitch Queen.
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
 

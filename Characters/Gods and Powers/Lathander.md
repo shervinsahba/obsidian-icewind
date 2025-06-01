@@ -5,6 +5,7 @@ age: Ageless
 race: God
 gender: Male
 descriptors: [Benevolent, Mirthful, Steadfast]
+status:
 ---
 
 > [!info]+

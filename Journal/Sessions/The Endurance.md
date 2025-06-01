@@ -1,16 +1,16 @@
 ---
 dg-publish: true
-role: Goddess of the Sea
-age: Ageless
-race: God
-gender: Woman
-descriptors: [Malicious, Capricious, Turbulent]
-status:
+role: Chillbringer
+age: Unknown
+race: Giant
+gender: Man
+descriptors: [, , ]
+status: 
 ---
+
 
 > [!info]+
 > **`=this.role`**
-> The Wave Mother. The Bitch Queen.
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
 

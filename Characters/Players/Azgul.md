@@ -4,7 +4,7 @@ role: Warlock, Pact of the Hexblade
 age: Adult
 race: Half-orc
 gender: Man
-descriptors: []
+descriptors: [Adventurer]
 status:
 ---
 

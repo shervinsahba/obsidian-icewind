@@ -5,6 +5,7 @@ age: Unknown-Aged
 race: Roc
 gender: Unknown-Gender
 descriptors: [Primal, Predatory, Bird]
+status:
 ---
 
 > [!info]+

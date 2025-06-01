@@ -4,7 +4,8 @@ role: Rogue, Arcane Trickster
 age: Middle-Aged
 race: Tiefling
 gender: Woman
-descriptors: []
+descriptors: [Adventurer]
+status: 
 ---
 
 > [!info]+

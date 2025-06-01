@@ -1,16 +1,15 @@
 ---
 dg-publish: true
-role: Goddess of the Sea
-age: Ageless
-race: God
-gender: Woman
-descriptors: [Malicious, Capricious, Turbulent]
-status:
+role: Monstrosity
+age: Ancient
+race: Monstrosity
+gender: Monster
+descriptors: [Destructive, Terror, Godzillian]
+status: UNKNOWN
 ---
 
 > [!info]+
 > **`=this.role`**
-> The Wave Mother. The Bitch Queen.
 > `=this.age` `=this.race` `=this.gender`
 > `=this.descriptors` 
 

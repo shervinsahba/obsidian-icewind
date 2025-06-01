@@ -1,16 +1,17 @@
 ---
 dg-publish: true
-role: Artificer, Armorer
-age: Adult
-race: Gnome
-gender: Woman
-descriptors: [Adventurer]
-status: 
+role: Ice Mephit and Not an Imp
+age: Ancient
+race: Devil
+gender: Male
+descriptors: [Chummy,Trollish,Guide]
+status:
 ---
 
 > [!info]+
 > **`=this.role`**
-> Background: Inventor
+> `=this.age` `=this.race` `=this.gender`
+> `=this.descriptors`
 
 ```dataview
 TABLE WITHOUT ID
@@ -19,6 +20,3 @@ TABLE WITHOUT ID
 FLATTEN x WHERE contains(x,this.file.name) 
 SORT file.name DESC
 ```
-
-
-

@@ -5,6 +5,7 @@ age: Ageless
 race: God
 gender: Man
 descriptors: [Bestial, Predatory, Graceful]
+status:
 ---
 
 > [!info]+

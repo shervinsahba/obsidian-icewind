@@ -4,7 +4,8 @@ role: Monk, Way of the Drunken Master
 age: adult
 race: Bugbear
 gender: Man
-descriptors: [""]
+descriptors: [Adventurer]
+status: 
 ---
 
 > [!info]+

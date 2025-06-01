@@ -5,6 +5,7 @@ age: Ageless
 race: God
 gender: Woman
 descriptors: [Isolated, Cruel, Enduring]
+status:
 ---
 
 > [!info]+
