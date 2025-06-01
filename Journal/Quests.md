@@ -3,17 +3,28 @@ dg-publish: true
 dg-hide-in-graph: true
 ---
 
-# Quest Tag Overview
-Quests are represented by tags throughout this vault. Here are all the tags, sorted by recency. Some tags, like that for battles, are not meant to track quests. 
 ```dataview
 TABLE WITHOUT ID 
-	(tag + "(" + length(rows.file.link) + ")") AS "Quest Tag",
+	(tag + "(" + length(rows.file.link) + ")") AS "Battles",
 	join(reverse(rows.file.link), ", ") AS Session 
 FROM "Journal"
 FLATTEN file.tags AS tag
 GROUP BY tag
+WHERE contains(tag,"#battle")
 SORT reverse(rows.file.link) DESC
 ```
+
+```dataview
+TABLE WITHOUT ID 
+	(tag + "(" + length(rows.file.link) + ")") AS "Quests",
+	join(reverse(rows.file.link), ", ") AS Session 
+FROM "Journal"
+FLATTEN file.tags AS tag
+GROUP BY tag
+WHERE !contains(tag,"#battle")
+SORT reverse(rows.file.link) DESC
+```
+
 
 
 # Active Main Quests
@@ -121,6 +132,16 @@ SORT file.name ASC
 
 
 # Completed Quests
+
+## The Arcane Brotherhood
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #ArcaneBrotherhood 
+FLATTEN x WHERE contains(x,"ArcaneBrotherhood") 
+SORT file.name ASC
+```
 ## Four Gods of Fury
 ```dataview
 TABLE WITHOUT ID
