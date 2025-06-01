@@ -71,3 +71,6 @@ Any characters who fall behind or leave the march disappear into the blizzard an
 ## Test of Cruelty
 
 ![[Pasted image 20250525153929.png]]
+
+
+https://old.reddit.com/r/rimeofthefrostmaiden/comments/pgtoyq/fleshing_out_the_twenty_stones_of_thruun/
