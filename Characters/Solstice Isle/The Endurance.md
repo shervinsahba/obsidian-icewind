@@ -4,7 +4,7 @@ role: Chillbringer
 age: Unknown
 race: Giant
 gender: Man
-descriptors: [, , ]
+descriptors: [Tenacious, Boisterous, Devoted]
 status: 
 ---
 
