@@ -21,7 +21,7 @@ Skytower Shelter’s griffons are safe to ride, but they are trained to return h
 - Ice Garden
 - Avoiding [[The Endurance]]
 - Avoiding Frostmourns (but rewards could be Potion of Greater Healing and Potion of Frost Giant Strength (Strength becomes 23 or +6 for 1 hour))
-- Possible encounter with two yeti
+- Possible encounter with two 
 
 # Trials of the Frostmaiden
 
