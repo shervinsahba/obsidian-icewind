@@ -95,7 +95,7 @@ The characters are meant to dive into the water to reach the sigil. Have each ch
 room. If they pass out in the water, they will need to be rescued by another player and brought
 to the sigil. All characters are soaked after this experience unless they manage to prevent this in
 some way. A character who is unconscious will float upwards and require death saving throws
-while in the water. An unconscious character will not be able to pass the test
+while in the water. An unconscious character will not be able to pass the test.
 
 ## Cruelty
 
