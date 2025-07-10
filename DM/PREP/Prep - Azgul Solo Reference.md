@@ -45,7 +45,13 @@ https://www.dndspeak.com/2020/06/12/100-indefinite-madnesses/
 
 ## Trial of Endurance
 
+Jarund Elkheart
 
+> The Elk King is Jarund Elkhardt, a terse yet thoughtful giant of a man who is nearly fifty years old—ancient by tribal standards. He has led the Elk Tribe for over half his life, and age has made him cautious. He has seen other kings and queens rise and fall, has made war with friends and peace with his enemies, and has led warriors he knew as babes to their deaths in battle. The strain of his long years of rule is etched on his weather-worn face.
+
+> Jarund's late son, Jarund Twice-Born, was killed almost a decade ago while trying to bring down a cave bear, leaving Jarund without an heir. He has failed to produce another child with his wife, Wynneth, and his mistress, Froya, so the future of his royal line remains uncertain.
+
+> Auril's unyielding winter concerns Jarund deeply, and he often turns to his shaman, Mjenir, for guidance. The king respects the shaman's understanding of gods and spirits, and the fact that both men have lost their sons serves to strengthen the bond between them. Mjenir believes that the only way to break Auril's spell is to slay the goddess in her home, but Jarund believes that his warriors aren't strong enough to accomplish that task alone.
 
 
 
