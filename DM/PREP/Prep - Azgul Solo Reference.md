@@ -25,4 +25,27 @@ Each foot of movement costs 1 extra foot (2 extra feet in difficult terrain) whe
 | 3   | Frostbite      | Reduce AC by 1 until next rest          |
 | 4   | Sluggishness   | Next Initiative roll -4                 |
 | 5   | Feebleness     | Disadvantage on next roll               |
-| 6   | Frozen Thought | A thought or memory is left behind (RP) | 
+| 6   | Frozen Thought | A thought or memory is left behind (RP) |
+| 
+
+
+
+
+# Recap
+Solstice arrival on griffons, Auril's roc, Sopo, Isolation, and Preservation.
+
+## Trial of Cruelty
+
+![[Pasted image 20250525153929.png]]
+
+Indefinite madness
+https://www.dndspeak.com/2020/06/12/100-indefinite-madnesses/
+
+![[Pasted image 20250525151523.png]]
+
+## Trial of Endurance
+
+
+
+
+
