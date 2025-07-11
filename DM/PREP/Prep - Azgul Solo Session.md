@@ -109,3 +109,9 @@ Need to identify the important prisoner, [[Aerix]], and avoid [[Isarr Kronenstro
 
 
 # Codicil of White
+
+
+
+
+- Azgul meeting the party
+- Dzaan's firey death
