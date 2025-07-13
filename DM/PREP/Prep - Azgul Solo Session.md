@@ -112,6 +112,6 @@ Need to identify the important prisoner, [[Aerix]], and avoid [[Isarr Kronenstro
 
 
 
-
+Memories lost:
 - Azgul meeting the party
 - Dzaan's firey death

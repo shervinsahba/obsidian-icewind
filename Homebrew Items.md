@@ -3,6 +3,8 @@ dg-publish: true
 ---
 
 
+## Blessing of the Frostmaiden
+> Your eyes become as cold as ice. You gain immunity to cold damage. In addition, you can cast the cone of cold spell (save DC 15) once. You regain the ability to cast this spell when you finish a long rest. You gain the following flaw: I value power and beauty above all other things. Your alignment shifts towards neutral evil (this last change is not cast in stone, but the shift is present).
 
 ## Jotun Glowrune Pigment
 > This stone vessel contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint. The pot contains **exactly 4 uses of pigment**, each use of which may paint one rune. When all uses are expended the vessel turns to ash.
