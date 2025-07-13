@@ -8,12 +8,24 @@
 
 [Earthbound - Caverns of Winter](https://www.youtube.com/watch?v=qpFNdhKd6Kk)
 
+
+
+
 # Caves of Hunger Notes
 - **Echoes**. Sound travels well. All Perception sound checks have advantage.
 - **Darkness**. Complete darkness.
 - **Ceilings.** Cavern ceilings are mostly 30 ft high and smooth ice. Tunnels range from 10 to 15 ft high unless noted.
 
 **Psychic Hauntings**
+
+| d6  | Effect         | Description                             |
+| --- | -------------- | --------------------------------------- |
+| 1   | Exhaustion     | Exhaustion +1                           |
+| 2   | Pain           | 1d6 cold damage                         |
+| 3   | Frostbite      | Reduce AC by 1 until next rest          |
+| 4   | Frost Check    | Attuned item gets frost checked until long rest |
+| 5   | Feebleness     | Disadvantage on next roll               |
+| 6   | Frozen Thought | A thought or memory is left behind (RP) | 
 
 
 
