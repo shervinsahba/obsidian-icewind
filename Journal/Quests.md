@@ -111,15 +111,6 @@ FROM #NatureSpirits
 FLATTEN x WHERE contains(x,"NatureSpirits") 
 SORT file.name ASC
 ```
-## The Signal of the Id
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #TheSignal 
-FLATTEN x WHERE contains(x,"TheSignal") 
-SORT file.name ASC
-```
 ## The Ramshackle
 ```dataview
 TABLE WITHOUT ID
@@ -132,7 +123,24 @@ SORT file.name ASC
 
 
 # Completed Quests
-
+## The Signal of the Id
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #TheSignal 
+FLATTEN x WHERE contains(x,"TheSignal") 
+SORT file.name ASC
+```
+## Wreck of Lac Dinneshere
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #WreckOfLacDinneshere 
+FLATTEN x WHERE contains(x,"WreckOfLacDinneshere") 
+SORT file.name ASC
+```
 ## The Arcane Brotherhood
 ```dataview
 TABLE WITHOUT ID

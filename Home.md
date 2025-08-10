@@ -17,6 +17,7 @@ TABLE WITHOUT ID
 FROM "Journal" WHERE file.name != "Quests" AND file.name != "Battles" AND file.name != "XP" AND file.name != "Loot" AND file.name != "Characters" AND file.name != "Chronicles"
 SORT file.name DESC
 ```
+```
 
 # Map 
 [View full map](https://i.imgur.com/tQSddcj.jpeg) | [Interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1)
