@@ -37,15 +37,6 @@ FROM #TheChosen
 FLATTEN x WHERE contains(x,"TheChosen") 
 SORT file.name ASC
 ```
-## The Rime of the Frostmaiden
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #TheRimeoftheFrostmaiden   
-FLATTEN x WHERE contains(x,"TheRimeoftheFrostmaiden") 
-SORT file.name ASC
-```
 ## The Forgotten Realm
 ```dataview
 TABLE WITHOUT ID
@@ -55,15 +46,16 @@ FROM #TheForgottenRealm
 FLATTEN x WHERE contains(x,"TheForgottenRealm") 
 SORT file.name ASC
 ```
-## Reghed Tribes
+## The Rime of the Frostmaiden
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Session", 
 	x AS ""
-FROM #ReghedTribes  
-FLATTEN x WHERE contains(x,"ReghedTribes") 
+FROM #TheRimeoftheFrostmaiden   
+FLATTEN x WHERE contains(x,"TheRimeoftheFrostmaiden") 
 SORT file.name ASC
 ```
+
 
 # Active Side Quests
 ## The Devil You Know
@@ -93,15 +85,9 @@ FROM #FrostburnBlade
 FLATTEN x WHERE contains(x,"FrostburnBlade") 
 SORT file.name ASC
 ```
-## Golem Guardian
-```dataview
-TABLE WITHOUT ID
-	file.link AS "Session", 
-	x AS ""
-FROM #GolemGuardian  
-FLATTEN x WHERE contains(x,"GolemGuardian") 
-SORT file.name ASC
-```
+
+
+# Abandoned Quests
 ## Nature Spirits
 ```dataview
 TABLE WITHOUT ID
@@ -120,9 +106,26 @@ FROM #TheRamshackle
 FLATTEN x WHERE contains(x,"TheRamshackle") 
 SORT file.name ASC
 ```
-
+## Golem Guardian
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #GolemGuardian  
+FLATTEN x WHERE contains(x,"GolemGuardian") 
+SORT file.name ASC
+```
 
 # Completed Quests
+## Reghed Tribes
+```dataview
+TABLE WITHOUT ID
+	file.link AS "Session", 
+	x AS ""
+FROM #ReghedTribes  
+FLATTEN x WHERE contains(x,"ReghedTribes") 
+SORT file.name ASC
+```
 ## The Signal of the Id
 ```dataview
 TABLE WITHOUT ID
