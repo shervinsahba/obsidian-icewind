@@ -39,6 +39,6 @@
 
 
 # TODO LATER
-- Finish session notes 48-59. Note that Vellynne lost a frozen memory, Fern lost her son's first day of school, Azgul lost Dzaan's execution
+- Finish session notes 48-52. Note that Vellynne lost a frozen memory, Fern lost her son's first day of school, Azgul lost Dzaan's execution
 - Write Azgul session notes
 - Update quests
