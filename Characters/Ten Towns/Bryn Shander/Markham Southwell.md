@@ -5,6 +5,8 @@ age: Adult
 race: Human
 gender: Man
 descriptors: [Lawful, Keen-Eyed, Friendly]
+aliases:
+  - Sheriff Southwell
 ---
 
 > [!info]+

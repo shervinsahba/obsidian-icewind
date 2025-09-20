@@ -5,6 +5,9 @@ age: Adult
 race: Human
 gender: Woman
 descriptors: [Cruel, Enduring, Isolationist]
+aliases:
+  - Bjornhild
+  - Tiger Queen
 ---
 
 > [!info]+c

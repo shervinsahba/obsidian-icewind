@@ -5,6 +5,8 @@ age: Old
 race: Human
 gender: Woman
 descriptors: [Pragmatic, Astute, Wealthy]
+aliases:
+  - Vellynne
 ---
 
 > [!info]+
