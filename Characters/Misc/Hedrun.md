@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-role: Ice Witch, former Chosen of Auril
+role: Chillbringer, Aspect of Preservation, former Chosen of Auril
 age: Adult
 race: Human
 gender: Woman

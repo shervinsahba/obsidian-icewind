@@ -6,6 +6,8 @@ race: Item
 gender: Man
 descriptors: [Pompous, Well-read, Condescending]
 status: ITEM
+aliases:
+  - Skant
 ---
 
 

@@ -1,17 +1,21 @@
 ---
 dg-publish: true
-role: Chillbringer, Aspect of Cruelty
-age: Young Adult
-race: Human
-gender: Woman
-descriptors: [Blessed, Adored, Cold]
-status: DEAD?
+role: Chillbringer, Aspect of Isolation
+age: Ancient
+race: Gnoll
+gender: Vampiress
+descriptors: [Ravenous, Antagonizing, Hunter]
+status: DEAD
+aliases:
+  - Aspect of Isolation
+  - Chosen of Isolation
 ---
+
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID

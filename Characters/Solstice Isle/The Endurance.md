@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-role: Chillbringer
+role: Chillbringer, Aspect of Endurance
 age: Unknown
 race: Giant
 gender: Man

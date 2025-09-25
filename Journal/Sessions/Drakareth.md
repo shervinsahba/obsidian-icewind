@@ -1,17 +1,18 @@
 ---
 dg-publish: true
-role: Chillbringer, Aspect of Cruelty
-age: Young Adult
-race: Human
-gender: Woman
-descriptors: [Blessed, Adored, Cold]
-status: DEAD?
+role: Netherese Wraith
+age: Unknown
+race: Undead
+gender: Man
+descriptors: [Covetous, Hopeless, Hoarder]
+status: DEAD
 ---
+
 
 > [!info]+
 > **`=this.role`**
 > `=this.age` `=this.race` `=this.gender`
-> `=this.descriptors`
+> `=this.descriptors` 
 
 ```dataview
 TABLE WITHOUT ID
