@@ -5,6 +5,9 @@ age: Mature
 race: Duergar
 gender: Woman
 descriptors: [Wise, Crafty, Patient]
+aliases:
+  - Olpha
+  - Grandolpha
 ---
 
 > [!info]+
