@@ -3,7 +3,7 @@ dg-publish: true
 role: Temporally Lost Prisoner
 age: Unknown
 race: Doppelganger
-gender: Man
+gender: Man222
 descriptors: [Confused, Helpful, Anxious]
 status: DEAD
 aliases:
