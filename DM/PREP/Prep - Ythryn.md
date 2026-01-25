@@ -20,3 +20,17 @@ https://mynoise.net/NoiseMachines/customMedievalLibrary.php
 https://mynoise.net/NoiseMachines/poltergeistRPGSoundscapeGenerator.php
 https://mynoise.net/NoiseMachines/magicSynthSoundsGenerator.php
 https://mynoise.net/NoiseMachines/magicBrainHackGenerator.php
+
+
+## Spire
+
+**audio**
+pan between these for exploration
+[Legend of Mana - Moonlit City](https://www.youtube.com/watch?v=drv7uY9gJjs "https://www.youtube.com/watch?v=drv7uY9gJjs") 
+[myNoise - Shade](https://mynoise.net/NoiseMachines/customShade.php "https://mynoise.net/NoiseMachines/customShade.php")
+
+### Ballroom
+
+one of the brain in a jars introduces the party to his fiancé and goes on and on about how lovely of a dancer she is, but she's so shy, he can't get her to dance. will have some Persuasion checks if they want to encourage her, and then the couple will have a lovely ballroom dance in her vibrant, flowy dress, and the fiancé gets flustered from a slight misstep, but acknowledges she had fun and appreciates them pumping her up. once the party sees through the illusion, they'll notice the brain in a jar talking to empty space, and in one of the side rooms they'll find her dress with her deissicated remains. but he so fiercely believes she's still with him she specifically manifests as part of the illusion.
+
+> The dress shimmers, colors vibrant and swirling with pastel shades that ripple like waves crashing across white sand at sunset. One moment it’s pink, then washed over by lavender, then sky blue, a mint green, and on and on, as though the dress itself is prismatic fluid bottled into the form of an elegant, chaste ballgown.
