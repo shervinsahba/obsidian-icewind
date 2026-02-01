@@ -1,7 +1,6 @@
 # Battles
 **audio**
 - [playlist - Tabletop Audio](https://tabletopaudio.com/index.html?20&157&171&212&193&92&211)
-- hurry! [Hurry - FF7](https://www.youtube.com/watch?v=8xdIvOjNEZg)
 - good for music hall or ballroom battle [You Wanted This - Friendly Crusader](https://www.youtube.com/watch?v=FCCCb7ZWXz4)
 
 # Exploration
@@ -9,6 +8,9 @@
 low tempo, mystical ominous [Caestus Metalica - Warhammer](https://www.youtube.com/watch?v=L-bxQv5xaRg)
 higher tempo, smooth gothic [Soul Sanctum - Hollow Knight](https://www.youtube.com/watch?v=pvpCX9qtyZE)
 arcane, ambient [Dark Music - The Old Ones](https://www.youtube.com/watch?v=UvGNCqI_YT4)
+creepy shade ambiance https://mynoise.net/NoiseMachines/customShade.php
+
+
 
 # Spire of Iriolarthas
 
@@ -20,7 +22,20 @@ Y19A Main Entrance
 Y19B Main Entrance
 Y19C Main Entrance
 Y19D Main Entrance
+Y19E Main Entrance
+Y19F Main Entrance
+Y19G Main Entrance
+Y19H Main Entrance
+Y19I Main Entrance
+Y19J Main Entrance
 
+
+Y19K Dome
+Y19L Testing Chamber
+Y19M Chamber of the Ebon Star
+Y19N
+Y19O
+Y19P Library
 
 > [!info] Info for the Spire
 > Ceilings are 30 feet high inside rooms and 10 feet high in corridors.
