@@ -1,7 +1,7 @@
 # Battles
 **audio**
 - [playlist - Tabletop Audio](https://tabletopaudio.com/index.html?20&157&171&212&193&92&211)
-- good for music hall or ballroom battle [You Wanted This - Friendly Crusader](https://www.youtube.com/watch?v=FCCCb7ZWXz4)
+- music hall or ballroom battle [You Wanted This - Friendly Crusader](https://www.youtube.com/watch?v=FCCCb7ZWXz4)
 
 # Exploration
 **audio**
