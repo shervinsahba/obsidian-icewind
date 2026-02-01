@@ -9,6 +9,9 @@ low tempo, mystical ominous [Caestus Metalica - Warhammer](https://www.youtube.c
 higher tempo, smooth gothic [Soul Sanctum - Hollow Knight](https://www.youtube.com/watch?v=pvpCX9qtyZE)
 arcane, ambient [Dark Music - The Old Ones](https://www.youtube.com/watch?v=UvGNCqI_YT4)
 creepy shade ambiance https://mynoise.net/NoiseMachines/customShade.php
+lumina [LoM Lumina City of Shade](https://www.youtube.com/watch?v=drv7uY9gJjs)
+Raya Lucaria https://www.youtube.com/watch?v=iV0hJfj90Hk&list=PLTmJuovQUxPuSYfrtCgpsLwQOeRXSkFzp&index=12
+Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgpsLwQOeRXSkFzp&index=17
 
 
 # Apius's Message
@@ -18,6 +21,21 @@ creepy shade ambiance https://mynoise.net/NoiseMachines/customShade.php
 > During one of our experiments, the spindle answered us. There was a blinding flash and the mythallar shut down. The city began to fall. We had only moments to react as Ythryn plunged into the ice below, and as it fell, all magic unraveled as though something were siphoning it away. Spells collapsed and incantations died mid-breath.
 
 > Some tried to flee, but the ice had sealed every mundane path, and magic offered no salvation. The spindle in Iriolarthas’s citadel continued to pulse, disrupting spellcasting and thwarting every escape. For fifty years that interference lingered, and in that long terror fear and isolation warped the surviving apprentices. By the time the pulses ceased, they were no longer mages, but nothics—twisted remnants of what Ythryn once was.
+
+# Rite of the Octad
+1. Hold a wand crafted from the Nether Oak over your heart.
+2. Summon a flame in your palm.
+3. Speak a secret about yourself aloud.
+4. Compel another to share a secret with you.
+5. Quench the flame in ice.
+6. Mask your appearance.
+7. Draw a circle on the ground using the ashes of a corpse.
+8. Stand inside the circle and consume **poison**.
+
+
+# Vellynne turned Nothic
+- Leomund's Tiny Hut with nothic transforming Vellynne inside
+
 
 
 # Thufeus's Journal
@@ -77,6 +95,8 @@ Replacement box text for entering the room with illusion up
 > [!info] Flavor for disenchanted ballroom
 > The room falls silent, colors flickering as guests turn in stop-motion to regard you with shock, before melting to the floor in a kalaidescope of colors that splinter and collapse in on itself. What remains is a ruined ballroom rimed in ice, its furniture jumbled and shattered. The crowds are gone, and what remains are three metal jars of human brain floating where courtiers were once dancing. They slow to a stop, and turn to face you, malevolence heavy despite their lack of facial expression.
 
+- CLAW GAME! https://old.reddit.com/r/rimeofthefrostmaiden/comments/vt57ee/bonus_locations_for_ythryn_arcade_and_spellbook/ See Loot section below for potion ideas.
+
 
 ## Force Bridge
 - Force bridge is invisible, Souls-like. Falling warps you over and over again through a loop. 
@@ -114,8 +134,12 @@ In either case, if the party has a short rest in the tower, Avarice will attune 
 - Potion of Comprehension (acts as comprehend languages for 1h)
 - Potion of Greater Healing
 - Potion of Polychromy (rainbow hues 1h; adv on stealth checks)
+- Potion of Watchful Rest (can't be put to sleep for 8h. don't need sleep during the next long rest)
+
 
 # Iriolarthas's Study
+
+- **audio** battle music [Oath to Order](https://www.youtube.com/watch?v=QRczouXKs6M)
 
 Journal
 > -339 DR. We have fallen. But we shall arise. Such is the will of the Wizards of the Ebon Star. Such is the might of Ythryn. Of Netheril.
