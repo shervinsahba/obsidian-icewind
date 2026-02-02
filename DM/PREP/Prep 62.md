@@ -31,7 +31,7 @@ Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgps
 # Rite of the Octad
 1. Hold a wand crafted from the Nether Oak over your heart.
 2. Summon a flame in your palm.
-3. Speak a secret about yourself aloud.
+3. Third, a burnt palm loosens the tongue. Shed a secret about yourself for all to hear.
 4. Compel another to share a secret with you.
 5. Quench the flame in ice.
 6. Mask your appearance.
