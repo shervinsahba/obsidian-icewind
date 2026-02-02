@@ -14,13 +14,19 @@ Raya Lucaria https://www.youtube.com/watch?v=iV0hJfj90Hk&list=PLTmJuovQUxPuSYfrt
 Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgpsLwQOeRXSkFzp&index=17
 
 
+# Mansion
+- Cadavix and Ivira's magic has been fucked after the Spindle, Karsus, and their life extensions
+- Thoob knows Avarice wishes to end winter and serve their lord.
+
+
+
 # Apius's Message
 
 > I was High Diviner Apius once—before the chaos claimed me—and I remember when Ythryn first tore itself free of the earth. After Iriolarthas raised the city with the mythallar, he and his apprentices traveled north in search of relics of Ostoria, the ancient giant empire that warred with dragons before history learned to speak. Excavation after excavation failed, until at the bottom of the Sea of Moving Ice we uncovered a massive stone spindle carved with sigils none of us could truly comprehend, and we brought it back to Ythryn for study.
 
 > During one of our experiments, the spindle answered us. There was a blinding flash and the mythallar shut down. The city began to fall. We had only moments to react as Ythryn plunged into the ice below, and as it fell, all magic unraveled as though something were siphoning it away. Spells collapsed and incantations died mid-breath.
 
-> Some tried to flee, but the ice had sealed every mundane path, and magic offered no salvation. The spindle in Iriolarthas’s citadel continued to pulse, disrupting spellcasting and thwarting every escape. For fifty years that interference lingered, and in that long terror fear and isolation warped the surviving apprentices. By the time the pulses ceased, they were no longer mages, but nothics—twisted remnants of what Ythryn once was.
+> Some have tried to flee, but the ice had sealed every mundane path, and magic offered no salvation. The spindle in Iriolarthas’s citadel continued to pulse, disrupting spellcasting and thwarting every escape. For fifty years that interference lingered, and in that long terror fear and isolation warped the surviving apprentices. By the time the pulses ceased, they were no longer mages, but nothics—twisted remnants of what Ythryn once was. I continue searching for Iriolarthas's phylactery, though truth be told, I spend most of my hours scouring the ice for signs of weakness and escape. For the first time my vision has clouded, confined to the hell of this frozen domain. Sight be damned, I will find a way.
 
 # Rite of the Octad
 1. Hold a wand crafted from the Nether Oak over your heart.
@@ -35,10 +41,46 @@ Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgps
 
 # Vellynne turned Nothic
 - Leomund's Tiny Hut with nothic transforming Vellynne inside
+- Shattered bits of Skant.
+
+
+# Spire of Iriolarthas
+
+> [!info] Info for the Spire
+> Ceilings are 30 feet high inside rooms and 10 feet high in corridors.
+> Doors are made from enchanted oak fitted with adamantine locks and hinges.
+> The interior of the spire is brightly lit by continual flame spells cast in wall sconces.
+
+## Y19B Ballroom
+- **audio** [ballroom music - creepy hotel music from the Shining](https://www.youtube.com/watch?v=8qQGTAwLhbY "https://www.youtube.com/watch?v=8qQGTAwLhbY")
+- **audio** ballroom illusion [baroque party](https://www.youtube.com/watch?v=qj0boS-gQTY&list=PLOmq8t4v52NS0JnE1ia8jNQQp2a4JQs21&index=1&pp=iAQB8AUB)
+- **audio** ballroom illusion dispelled [Romanov ball room](https://www.youtube.com/watch?v=vB51kdli9tE&list=PLOmq8t4v52NS0JnE1ia8jNQQp2a4JQs21&index=2)
+- Passed out revelers are actually shattered brains from the demilich screams
+Replacement box text for entering the room with illusion up
 
 
 
-# Thufeus's Journal
+> [!info] Flavor for the ballroom
+> As the door swings open, you are met with a bedazzling sight. Murmurs of polite company and raucous laughter over elegant chamber music tickle your ears. A dozen noble courtiers fill the hall, bodies swaying in time to the music. Servants with sugared treats on silver platters maneuver a dance of their own as they duck and weave through the crowds with practiced ease. Seated patrons toast and drink to one another, their revelry neverending as the servants ensure no guest is left dry even a moment. 
+
+> [!info] Flavor for disenchanted ballroom
+> The room falls silent, colors flickering as guests turn in stop-motion to regard you with shock, before melting to the floor in a kalaidescope of colors that splinter and collapse in on itself. What remains is a ruined ballroom rimed in ice, its furniture jumbled and shattered. The crowds are gone, and what remains are three metal jars of human brain floating where courtiers were once dancing. They slow to a stop, and turn to face you, malevolence heavy despite their lack of facial expression.
+
+> “Come, dear, have a dance with me!”
+> “Have you heard – rumor has it that Iriolarthas has found an ancient artifact from Ostoria. A spindle of some sort!”
+> “You really should visit the Hall of Weightless Wonder. Does miracles for both mind and body, just miracles!”
+> “Athrynia has a winged hare as a pet. Isn’t that marvelous – a winged hare!”
+> “Oh dear, but where is your wand? Don’t tell me you don’t have one!”
+
+- Let them conduct the orchestra from Y27
+
+## Y19D Den
+
+- CLAW GAME! https://old.reddit.com/r/rimeofthefrostmaiden/comments/vt57ee/bonus_locations_for_ythryn_arcade_and_spellbook/ See Loot section below for potion ideas.
+
+## Y19F Staff Storage
+
+### Thufeus's Journal
 
 > 1. To whoever reads this─if there is anyone left to read it─let it be known that I, Thufeus, student of the House of the Arcane, bore witness to Ythryn's fall. The enclave's descent, the black doom which emerged from within, the sparks which spread across the horizon, turning night to day─it shall haunt me for the rest of my days. The engineers are still surveying the damage, but anyone with eyes can tell that the city is beyond repair. The surviving high wizards have been pleading with Iriolarthas, asking him to order a withdrawal. He knows our position is untenable, yet he refuses. “We will hold out the enclave to the last, for we are the lodestars of civilization itself─the Wizards of the Ebon Star,” he says. He is a brave, deathless man. Less so, we who serve under him.
 
@@ -51,58 +93,15 @@ Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgps
 > 5. (shredded journal) ... I don’t feel safe in the observatory anymore.
 
 
-
-# Spire of Iriolarthas
-
-Y19A Main Entrance
-
-> [!info] Flavortext
-> Near the apex of the strut, the ceiling of the tunnel gives way to a landing that offers a view of the citadel’s uppermost reaches. Light from a high window illuminates a set of steps that ascend to a pair of oaken doors in the tower’s face.
-
-Y19B Main Entrance
-Y19C Main Entrance
-Y19D Main Entrance
-Y19E Main Entrance
-Y19F Main Entrance
-Y19G Main Entrance
-Y19H Main Entrance
-Y19I Main Entrance
-Y19J Main Entrance
-
-
-Y19K Dome
-Y19L Testing Chamber
-Y19M Chamber of the Ebon Star
-Y19N
-Y19O
-Y19P Library
-
-> [!info] Info for the Spire
-> Ceilings are 30 feet high inside rooms and 10 feet high in corridors.
-> Doors are made from enchanted oak fitted with adamantine locks and hinges.
-> The interior of the spire is brightly lit by continual flame spells cast in wall sconces.
-
-## Ballroom
-- **audio** [ballroom music - creepy hotel music from the Shining](https://www.youtube.com/watch?v=8qQGTAwLhbY "https://www.youtube.com/watch?v=8qQGTAwLhbY")
-- **audio** ballroom illusion [baroque party](https://www.youtube.com/watch?v=qj0boS-gQTY&list=PLOmq8t4v52NS0JnE1ia8jNQQp2a4JQs21&index=1&pp=iAQB8AUB)
-- **audio** ballroom illusion dispelled [Romanov ball room](https://www.youtube.com/watch?v=vB51kdli9tE&list=PLOmq8t4v52NS0JnE1ia8jNQQp2a4JQs21&index=2)
-- Passed out revelers are actually shattered brains from the demilich screams
-Replacement box text for entering the room with illusion up
-
-> [!info] Flavor for the ballroom
-> As the door swings open, you are met with a bedazzling sight. Murmurs of polite company and raucous laughter over elegant chamber music tickle your ears. A dozen noble courtiers fill the hall, bodies swaying in time to the music. Servants with sugared treats on silver platters maneuver a dance of their own as they duck and weave through the crowds with practiced ease. Seated patrons toast and drink to one another, their revelry neverending as the servants ensure no guest is left dry even a moment. 
-
-> [!info] Flavor for disenchanted ballroom
-> The room falls silent, colors flickering as guests turn in stop-motion to regard you with shock, before melting to the floor in a kalaidescope of colors that splinter and collapse in on itself. What remains is a ruined ballroom rimed in ice, its furniture jumbled and shattered. The crowds are gone, and what remains are three metal jars of human brain floating where courtiers were once dancing. They slow to a stop, and turn to face you, malevolence heavy despite their lack of facial expression.
-
-- CLAW GAME! https://old.reddit.com/r/rimeofthefrostmaiden/comments/vt57ee/bonus_locations_for_ythryn_arcade_and_spellbook/ See Loot section below for potion ideas.
-
-
-## Force Bridge
+## Y19I Force Bridge
 - Force bridge is invisible, Souls-like. Falling warps you over and over again through a loop. 
 - Everlast acts as a magical force elevator, requiring a passcode to reach specific floors. EBONSTAR reaches the next level.
 
-## Library
+## Y19J Chamber of Sorcery
+- MYSTRYL is the passphrase
+
+## Y19O Library
+Lock the treasure behind that EBON STAR puzzle I have.
 - Scroll of the Comet
 
 ## Ballroom 
