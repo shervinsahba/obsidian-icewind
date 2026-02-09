@@ -1,7 +1,9 @@
 ---
 dg-publish: true
 ---
-
+## Crown of Timeless Body
+> *Wondrous Item, (requires attunement)*
+> While wearing this circlet you age more slowly. For every 100 years that pass, your body ages only a year.
 
 ## Blessing of the Frostmaiden
 > Your eyes become as cold as ice. You gain immunity to cold damage. In addition, you can cast the cone of cold spell (save DC 15) once. You regain the ability to cast this spell when you finish a long rest. You gain the following flaw: I value power and beauty above all other things. Your alignment shifts towards neutral evil (this last change is not cast in stone, but the shift is present).
