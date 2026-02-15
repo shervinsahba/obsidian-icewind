@@ -3,14 +3,18 @@
 [playlist - Tabletop Audio](https://tabletopaudio.com/index.html?20&157&171&212&193&92&211)
 ballroom battle [You Wanted This - Friendly Crusader](https://www.youtube.com/watch?v=FCCCb7ZWXz4)
 Iriolarthas fight [Clair Obscur Stonewall Cliffs](https://www.youtube.com/watch?v=ZGya_P6wa1o)
+Iriolarthas fight [Oath to Order](https://www.youtube.com/watch?v=QRczouXKs6M)
+Iriolarthas fight [SoM Lich Remix](https://www.youtube.com/watch?v=g8KwuM9uu8A)
+
 Demilich Howl [Aztec Death Whistle](https://quicksounds.com/sound/24251/aztec-death-whistle)
+Dying [Heartbeat](https://www.youtube.com/watch?v=Z3TNsABHPPw)
 
 # Exploration
 **audio**
 low tempo, mystical ominous [Caestus Metalica - Warhammer](https://www.youtube.com/watch?v=L-bxQv5xaRg)
 higher tempo, smooth gothic [Soul Sanctum - Hollow Knight](https://www.youtube.com/watch?v=pvpCX9qtyZE)
 arcane, ambient [Dark Music - The Old Ones](https://www.youtube.com/watch?v=UvGNCqI_YT4)
-creepy shade ambiance https://mynoise.net/NoiseMachines/customShade.php
+SHADE https://mynoise.net/NoiseMachines/customShade.php
 lumina [LoM Lumina City of Shade](https://www.youtube.com/watch?v=drv7uY9gJjs)
 Raya Lucaria https://www.youtube.com/watch?v=iV0hJfj90Hk&list=PLTmJuovQUxPuSYfrtCgpsLwQOeRXSkFzp&index=12
 Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgpsLwQOeRXSkFzp&index=17
@@ -20,15 +24,6 @@ Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgps
 # Mansion
 - Thoob thinks Avarice wishes to end winter to serve their lord.
 
-
-
-# Apius's Message
-
-> I was High Diviner Apius once—before the chaos claimed me—and I remember when Ythryn first tore itself free of the earth. After Iriolarthas raised the city with the mythallar, he and his apprentices traveled north in search of relics of Ostoria, the ancient giant empire that warred with dragons before history learned to speak. Excavation after excavation failed, until at the bottom of the Sea of Moving Ice we uncovered a massive stone spindle carved with sigils none of us could truly comprehend, and we brought it back to Ythryn for study.
-
-> During one of our experiments, the spindle answered us. There was a blinding flash and the mythallar shut down. The city began to fall. We had only moments to react as Ythryn plunged into the ice below, and as it fell, all magic unraveled as though something were siphoning it away. Spells collapsed and incantations died mid-breath.
-
-> Some have tried to flee, but the ice had sealed every mundane path, and magic offered no salvation. The spindle in Iriolarthas’s citadel continued to pulse, disrupting spellcasting and thwarting every escape. For fifty years that interference lingered, and in that long terror fear and isolation warped the surviving apprentices. By the time the pulses ceased, they were no longer mages, but nothics—twisted remnants of what Ythryn once was. I continue searching for Iriolarthas's phylactery, though truth be told, I spend most of my hours scouring the ice for signs of weakness and escape. For the first time my vision has clouded, confined to the hell of this frozen domain. Sight be damned, I will find a way.
 
 # Vellynne turned Nothic
 - Leomund's Tiny Hut with nothic transforming Vellynne inside
@@ -40,35 +35,6 @@ Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgps
 > Ceilings are 30 feet high inside rooms and 10 feet high in corridors.
 > Doors are made from enchanted oak fitted with adamantine locks and hinges.
 > The interior of the spire is brightly lit by continual flame spells cast in wall sconces.
-
-## Y19B Ballroom
-- **audio** [ballroom music - creepy hotel music from the Shining](https://www.youtube.com/watch?v=8qQGTAwLhbY "https://www.youtube.com/watch?v=8qQGTAwLhbY")
-- **audio** ballroom illusion [baroque party](https://www.youtube.com/watch?v=qj0boS-gQTY&list=PLOmq8t4v52NS0JnE1ia8jNQQp2a4JQs21&index=1&pp=iAQB8AUB)
-- **audio** ballroom illusion dispelled [Romanov ball room](https://www.youtube.com/watch?v=vB51kdli9tE&list=PLOmq8t4v52NS0JnE1ia8jNQQp2a4JQs21&index=2)
-- Passed out revelers are actually shattered brains from the demilich screams
-Replacement box text for entering the room with illusion up
-
-
-
-> [!info] Flavor for the ballroom
-> As the door swings open, you are met with a bedazzling sight. Murmurs of polite company and raucous laughter over elegant chamber music tickle your ears. A dozen noble courtiers fill the hall, bodies swaying in time to the music. Servants with sugared treats on silver platters maneuver a dance of their own as they duck and weave through the crowds with practiced ease. Seated patrons toast and drink to one another, their revelry neverending as the servants ensure no guest is left dry even a moment. 
-
-> [!info] Flavor for disenchanted ballroom
-> The room falls silent, colors flickering as guests turn in stop-motion to regard you with shock, before melting to the floor in a kalaidescope of colors that splinter and collapse in on itself. What remains is a ruined ballroom rimed in ice, its furniture jumbled and shattered. The crowds are gone, and what remains are three metal jars of human brain floating where courtiers were once dancing. They slow to a stop, and turn to face you, malevolence heavy despite their lack of facial expression.
-
-> “Come, dear, have a dance with me!”
-> “Have you heard – rumor has it that Iriolarthas has found an ancient artifact from Ostoria. A spindle of some sort!”
-> “You really should visit the Hall of Weightless Wonder. Does miracles for both mind and body, just miracles!”
-> “Athrynia has a winged hare as a pet. Isn’t that marvelous – a winged hare!”
-> “Oh dear, but where is your wand? Don’t tell me you don’t have one!”
-
-- Let them conduct the orchestra from Y27
-
-## Y19D Den
-
-- CLAW GAME! https://old.reddit.com/r/rimeofthefrostmaiden/comments/vt57ee/bonus_locations_for_ythryn_arcade_and_spellbook/ See Loot section below for potion ideas.
-
-## Y19F Staff Storage
 
 ### Thufeus's Journal
 
@@ -82,19 +48,41 @@ Replacement box text for entering the room with illusion up
 
 > 5. (shredded journal) ... I don’t feel safe in the observatory anymore.
 
+## Y19L Testing Chamber
+- Flesh to Stone trap (DC17. Max 3 times before deactivated)
+- Draconic script "Speak thy amster's name and enter."
 
-## Y19I Force Bridge
-- Force bridge is invisible, Souls-like. Falling warps you over and over again through a loop. 
-- Everlast acts as a magical force elevator, requiring a passcode to reach specific floors. EBONSTAR reaches the next level.
+## Y19M Chamber of the Ebon Star
 
-## Y19J Chamber of Sorcery
-- MYSTRYL is the passphrase
+## Y19N Spindle
+- A 5th level spell
 
 ## Y19O Library
 Lock the treasure behind that EBON STAR puzzle I have.
 - Scroll of the Comet
 
-## Ballroom 
+## Iriolarthas's Study
+
+- **audio** battle music [Oath to Order](https://www.youtube.com/watch?v=QRczouXKs6M)
+
+Journal
+> -339 DR. We have fallen. But we shall arise. Such is the will of the Wizards of the Ebon Star. Such is the might of Ythryn. Of Netheril.
+> 
+> -342 DR. It has been three years entombed in this ice. Though conditions have been dire, though no aid has been received, our research had persisted. The Ostorian Spindle may have undone us, but we will wait for our brothers. Karsus is on his path to divinity. Our salvation -- or at the least that of our future selves -- will come within the decade. And if he dawdles, well, we do close in on an alternative... Perhaps the Obelisk will recover our selves. Our future selves, I suppose. It has suffered fissures in the fall, but I see its promise. The etchings and undulations of chronomancy. If Karsus will not come, we will return to him. And we will do it right this time. In the meantime, we continue the search for my phylactery. The hunger has begun to gnaw, but we have ample time yet.
+
+> -343 DR. Is it because we are godless? Because no one would defend us but ourselves? Is it because the gods fear our potential? But no—Karsus wouldn’t have failed. I knew it in my bones; I knew who Karsus was. This was another lie. He was betrayed—he had to be. But by whom? No mortal could have interfered; none possessed the power to disrupt his spell. No one except… Mystryl. I should have been there with you, my brother. I should have been cursed alongside you. I promised to stand by you every step of the way, and I failed. Forgive me, for I cannot forgive myself. Now, I am cursed to linger. 
+> 
+> -346 DR. My phylactery is lost, and I cannot sustain my form with souls. Soon, I will become a husk—a mindless shadow of the man I once was. I can feel it happening already. My mind frays, my purpose twists, and my rage grows. Is this truly our fate? To have our names remembered as symbols of hubris and greed? To be called arrogant and ignorant by those who cowered and fled? Our history tainted by cowards who dared not stand and fight? To perish here, forgotten? To have our work reduced to relics and ruins, plundered by lesser beings who reap the fruits of our blood and tears? I refuse to accept this. No coward will inherit the legacy of Netheril. The years we spent—the sacrifices we made—must not be squandered. Our 35 years of toil might be but a speck in their lifetimes, but it was half of ours. I will not let it end this way. Even if I become a husk of my former self, my will and my rage will endure. No god, no mortal, shall claim what we built. Ythryn will be our monument, our defiance. It will stand as proof of what higher humanity can achieve. Hear my vow: the legacy of Ythryn will not belong to cowards or scavengers. It will belong to those who are worthy—those who dare to grasp what we dared to build.
+
+
+# Demiplane Time Chamber
+There is a dial on the wall of the demiplane that adjusts time dilation; find notes of irio’s in his librarby
+Time Dilation
+1 hour in demiplane = 1 second outside
+1 hour in demiplane = 1 minute outside
+1 hour in demiplane = 1 hour outside
+1 hour in demiplane = 60 hours outside
+1 hour in demiplane = 3600 hours outside
 
 
 # Mythallar
@@ -119,22 +107,3 @@ In either case, if the party has a short rest in the tower, Avarice will attune 
 - She might see it beneficial for Auril to be baited and struck down. The party doesn't necessarily need the Mythallar to fight Auril... Avarice will create these conditions (_two birds with one giant magical stone, she thinks_).
 
 
-# Loot Ideas
-- Potion of Comprehension (acts as comprehend languages for 1h)
-- Potion of Greater Healing
-- Potion of Polychromy (rainbow hues 1h; adv on stealth checks)
-- Potion of Watchful Rest (can't be put to sleep for 8h. don't need sleep during the next long rest)
-
-
-# Iriolarthas's Study
-
-- **audio** battle music [Oath to Order](https://www.youtube.com/watch?v=QRczouXKs6M)
-
-Journal
-> -339 DR. We have fallen. But we shall arise. Such is the will of the Wizards of the Ebon Star. Such is the might of Ythryn. Of Netheril.
-> 
-> -342 DR. It has been three years entombed in this ice. Though conditions have been dire, though no aid has been received, our research had persisted. The Ostorian Spindle may have undone us, but we will wait for our brothers. Karsus is on his path to divinity. Our salvation -- or at the least that of our future selves -- will come within the decade. And if he dawdles, well, we do close in on an alternative... Perhaps the Obelisk will recover our selves. Our future selves, I suppose. It has suffered fissures in the fall, but I see its promise. The etchings and undulations of chronomancy. If Karsus will not come, we will return to him. And we will do it right this time. In the meantime, we continue the search for my phylactery. The hunger has begun to gnaw, but we have ample time yet.
-
-> -343 DR. Is it because we are godless? Because no one would defend us but ourselves? Is it because the gods fear our potential? But no—Karsus wouldn’t have failed. I knew it in my bones; I knew who Karsus was. This was another lie. He was betrayed—he had to be. But by whom? No mortal could have interfered; none possessed the power to disrupt his spell. No one except… Mystryl. I should have been there with you, my brother. I should have been cursed alongside you. I promised to stand by you every step of the way, and I failed. Forgive me, for I cannot forgive myself. Now, I am cursed to linger. 
-> 
-> -346 DR. My phylactery is lost, and I cannot sustain my form with souls. Soon, I will become a husk—a mindless shadow of the man I once was. I can feel it happening already. My mind frays, my purpose twists, and my rage grows. Is this truly our fate? To have our names remembered as symbols of hubris and greed? To be called arrogant and ignorant by those who cowered and fled? Our history tainted by cowards who dared not stand and fight? To perish here, forgotten? To have our work reduced to relics and ruins, plundered by lesser beings who reap the fruits of our blood and tears? I refuse to accept this. No coward will inherit the legacy of Netheril. The years we spent—the sacrifices we made—must not be squandered. Our 35 years of toil might be but a speck in their lifetimes, but it was half of ours. I will not let it end this way. Even if I become a husk of my former self, my will and my rage will endure. No god, no mortal, shall claim what we built. Ythryn will be our monument, our defiance. It will stand as proof of what higher humanity can achieve. Hear my vow: the legacy of Ythryn will not belong to cowards or scavengers. It will belong to those who are worthy—those who dare to grasp what we dared to build.
