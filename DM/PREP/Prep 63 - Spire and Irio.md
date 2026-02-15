@@ -1,7 +1,9 @@
 # Battles
 **audio**
-- [playlist - Tabletop Audio](https://tabletopaudio.com/index.html?20&157&171&212&193&92&211)
-- battlroom battle [You Wanted This - Friendly Crusader](https://www.youtube.com/watch?v=FCCCb7ZWXz4)
+[playlist - Tabletop Audio](https://tabletopaudio.com/index.html?20&157&171&212&193&92&211)
+ballroom battle [You Wanted This - Friendly Crusader](https://www.youtube.com/watch?v=FCCCb7ZWXz4)
+Iriolarthas fight [Clair Obscur Stonewall Cliffs](https://www.youtube.com/watch?v=ZGya_P6wa1o)
+Demilich Howl [Aztec Death Whistle](https://quicksounds.com/sound/24251/aztec-death-whistle)
 
 # Exploration
 **audio**
@@ -12,10 +14,10 @@ creepy shade ambiance https://mynoise.net/NoiseMachines/customShade.php
 lumina [LoM Lumina City of Shade](https://www.youtube.com/watch?v=drv7uY9gJjs)
 Raya Lucaria https://www.youtube.com/watch?v=iV0hJfj90Hk&list=PLTmJuovQUxPuSYfrtCgpsLwQOeRXSkFzp&index=12
 Leyndell https://www.youtube.com/watch?v=vqb27WLGNKo&list=PLTmJuovQUxPuSYfrtCgpsLwQOeRXSkFzp&index=17
+[Clair Obscur Ancient Sanctuary roots](https://www.youtube.com/watch?v=l2xxOjPHYTw&list=PLC4e5UAZcgAecRPu894IWOqClBum-Kyjp&index=34)
 
 
 # Mansion
-- Cadavix and Ivira's magic has been fucked after the Spindle, Karsus, and their life extensions
 - Thoob thinks Avarice wishes to end winter to serve their lord.
 
 
