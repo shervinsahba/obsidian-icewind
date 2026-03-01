@@ -2,9 +2,6 @@
 **audio**
 [playlist - Tabletop Audio](https://tabletopaudio.com/index.html?20&157&171&212&193&92&211)
 ballroom battle [You Wanted This - Friendly Crusader](https://www.youtube.com/watch?v=FCCCb7ZWXz4)
-Iriolarthas fight [Clair Obscur Stonewall Cliffs](https://www.youtube.com/watch?v=ZGya_P6wa1o)
-Iriolarthas fight [Oath to Order](https://www.youtube.com/watch?v=QRczouXKs6M)
-Iriolarthas fight [SoM Lich Remix](https://www.youtube.com/watch?v=g8KwuM9uu8A)
 
 Demilich Howl [Aztec Death Whistle](https://quicksounds.com/sound/24251/aztec-death-whistle)
 Dying [Heartbeat](https://www.youtube.com/watch?v=Z3TNsABHPPw)
