@@ -1,0 +1,6 @@
+- What fleeting warmth seeks audience with the heart of winter? 
+- Your words will echo only within the frozen silence of my realm.
+- Your blood will freeze. Your bones will shatter. Feel my embrace.
+- Come forward, chosen of winter: share in my eternal beauty. Serve, and endure.
+- You ask the storm to cease, the night to yield.
+- I am the cold eternal—your plea is beneath me.
