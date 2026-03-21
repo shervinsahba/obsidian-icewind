@@ -33,6 +33,6 @@ This site is an [Obsidian notebook](https://obsidian.md) reformatted for the web
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
 		<img style="padding: 10px; border-radius: 15px;" src="https://raw.githubusercontent.com/shervinsahba/obsidian-icewind/main/_attachments/slate_chum.png" />
-			Me.<a href="https://syleria.netlify.app/">https://sahba.phd</a>
+			Me.<a href="https://sahba.phd">https://sahba.phd</a>
 	</div>
 </div>
