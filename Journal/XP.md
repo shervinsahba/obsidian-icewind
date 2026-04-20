@@ -3,6 +3,12 @@ dg-publish: true
 dg-hide-in-graph: true
 ---
 
+>[!warning|]
+> **XP Deprecated**. 
+> 
+> On session [[60]] we shifted fully to milestone leveling. XP is no longer being tracked.
+> As a placeholder, the notes now indicate the level at which the respective achievement was completed.
+
 ![[characteradvancement.png]]
 
 ```dataview

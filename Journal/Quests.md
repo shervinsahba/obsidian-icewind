@@ -3,22 +3,11 @@ dg-publish: true
 dg-hide-in-graph: true
 ---
 
-## Active Quests
+## CAMPAIGN COMPLETE
 
 ```dataview
 TABLE WITHOUT ID 
-	tag AS "Main Quests",
-	join(reverse(rows.file.link), ", ") + " (" + length(rows.file.link) + ")" AS "Sessions"
-FROM "Journal"
-FLATTEN file.tags AS tag
-WHERE contains(["#TheRimeoftheFrostmaiden","#TheChosen"], tag)
-GROUP BY tag
-SORT reverse(rows.file.link) DESC
-```
-
-```dataview
-TABLE WITHOUT ID 
-	tag AS "Side Quests",
+	tag AS "Remaining Quests",
 	join(reverse(rows.file.link), ", ") + " (" + length(rows.file.link) + ")" AS "Sessions"
 FROM "Journal"
 FLATTEN file.tags AS tag
@@ -29,7 +18,7 @@ SORT reverse(rows.file.link) DESC
 
 ```dataview
 TABLE WITHOUT ID 
-	tag AS "Cold Quests",
+	tag AS "Abandoned Quests",
 	join(reverse(rows.file.link), ", ") + " (" + length(rows.file.link) + ")" AS "Sessions"
 FROM "Journal"
 FLATTEN file.tags AS tag
@@ -44,8 +33,7 @@ TABLE WITHOUT ID
 	join(reverse(rows.file.link), ", ") + " (" + length(rows.file.link) + ")" AS "Sessions"
 FROM "Journal"
 FLATTEN file.tags AS tag
-WHERE !contains(["#TheRimeoftheFrostmaiden","#TheChosen"], tag)
-WHERE !contains(["#FrostburnBlade","#TenTownsTreks","#TheDevilYouKnow"], tag)
+WHERE !contains(["#FrostburnBlade","#TenTownsTreks"], tag)
 WHERE !contains(["#NatureSpirits","#TheRamshackle","#GolemGuardian","#ChardalynBerserkers"], tag)
 WHERE !contains(["#battle"], tag)
 GROUP BY tag
